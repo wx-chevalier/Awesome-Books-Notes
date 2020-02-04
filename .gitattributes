@@ -1,0 +1,7 @@
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.xmind filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+ProgrammingLanguage/Theory/2009-程序员的自我修养--链接、装载与库.pdf filter=lfs diff=lfs merge=lfs -text
+ProgrammingLanguage/Theory/2004-SICP-计算机程序的构造和解释.pdf filter=lfs diff=lfs merge=lfs -text
+ProgrammingLanguage/PHP/2015-Modern filter=lfs diff=lfs merge=lfs -text
+PHP.pdf filter=lfs diff=lfs merge=lfs -text
