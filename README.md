@@ -12,8 +12,6 @@
 
 为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站/版权网站，所有非开源/非免费书籍皆以 :moneybag: 标识；笔者也使用 Git LFS 将部分书籍的 PDF 版本存放在了仓库目录下，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/) 或者 [Git CheatSheet](https://parg.co/UTd) 教程。
 
-如果您想快速了解某本书的内容，建议前往 [Awesome Digests](https://github.com/wx-chevalier/Awesome-CheatSheets/tree/master/Digests) 查看书摘。
-
 # About
 
 > 加密文件的解压密码为：wx-coder
