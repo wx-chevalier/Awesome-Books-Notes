@@ -94,6 +94,7 @@
     - 金融
       - [投资最重要的事](/Business/金融/投资最重要的事.md)
       - [金融 400 年](/Business/金融/金融%20400%20年.md)
+      - [金融的本质](/Business/金融/金融的本质.md)
   - Frontend
     - Android
       - [Gradle Recipes for Android](/Frontend/Android/2016-Gradle%20Recipes%20for%20Android.md)
