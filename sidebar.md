@@ -80,17 +80,30 @@
       - [人人都是产品经理](/Business/产品/2009-人人都是产品经理.md)
       - [启示录，打造用户喜爱的产品](/Business/产品/2011-启示录，打造用户喜爱的产品.md)
       - [用户故事地图](/Business/产品/2016-用户故事地图.md)
-      - UX
-        - [设计心理学](/Business/产品/UX/2002-设计心理学.md)
-        - [Don The Design of Everyday Things](/Business/产品/UX/2013-Don-The%20Design%20of%20Everyday%20Things.md)
-        - [Steve Don’t Make Me Think](/Business/产品/UX/2014-Steve-Don’t%20Make%20Me%20Think.md)
-        - [设计之下，搜狐新闻客户端的用户体验设计](/Business/产品/UX/2014-设计之下，搜狐新闻客户端的用户体验设计.md)
     - 创业
       - [四步创业法](/Business/创业/2003-四步创业法.md)
       - [埃里克 精益创业](/Business/创业/2012-埃里克-精益创业.md)
       - [从 0 到 1，开启商业与未来的秘密](/Business/创业/2015-从%200%20到%201，开启商业与未来的秘密.md)
+    - 商业
+      - [凯恩斯 国富论](/Business/商业/凯恩斯-国富论.md)
+      - [勒庞 乌合之众](/Business/商业/勒庞-乌合之众.md)
+      - [小岛经济学](/Business/商业/小岛经济学.md)
+      - [曼昆 经济学原理](/Business/商业/曼昆-经济学原理.md)
+      - [格拉德威尔 引爆流行](/Business/商业/格拉德威尔-引爆流行.md)
+      - [波特 竞争三部曲](/Business/商业/波特-竞争三部曲.md)
+      - [菲利普·科特勒 营销管理](/Business/商业/菲利普·科特勒-营销管理.md)
+      - [萨缪尔森 经济学](/Business/商业/萨缪尔森-经济学.md)
+      - [马克思 资本论](/Business/商业/马克思-资本论.md)
+    - 思维
+      - [必然](/Business/思维/2016-必然.md)
     - 管理
+      - [人月神话](/Business/管理/2003-人月神话.md)
       - [项目管理知识体系指南](/Business/管理/2013-项目管理知识体系指南.md)
+    - 设计
+      - [设计心理学](/Business/设计/2002-设计心理学.md)
+      - [Don The Design of Everyday Things](/Business/设计/2013-Don-The%20Design%20of%20Everyday%20Things.md)
+      - [Steve Don’t Make Me Think](/Business/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
+      - [设计之下，搜狐新闻客户端的用户体验设计](/Business/设计/2014-设计之下，搜狐新闻客户端的用户体验设计.md)
     - 金融
       - [投资最重要的事](/Business/金融/投资最重要的事.md)
       - [金融 400 年](/Business/金融/金融%20400%20年.md)
@@ -195,6 +208,7 @@
       - [SICP 计算机程序的构造和解释 2nd](/PL/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
       - [程序员的自我修养  链接、装载与库](/PL/Theory/2009-程序员的自我修养--链接、装载与库.md)
       - [Tim Stuart Understanding Computation](/PL/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
+      - [Rich Hickey A History of Clojure](/PL/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
   - [README en](/README-en.md)
   - Series
     - The New Stack

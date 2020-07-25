@@ -1,10 +1,19 @@
-![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
-
-[中文版本](./README.md) | [English Version](./README-en.md)
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/wx-chevalier/repo">
+    <img src="header.svg" alt="Logo" style="width: 100vw;height: 400px" />
+  </a>
+  <br />
+  <p align="center">
+    <a href="./README.md">中文版本</a>
+    ·
+    <a href="./README-en.md">English Version</a>
+  </p>
+</p>
 
 # [Awesome CS Books](https://parg.co/UpB)
 
-`Copyright © 王下邀月熊` [![Awesome](https://parg.co/UvS)](https://parg.co/UpB)
+![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
 
 [Awesome CS Books](https://parg.co/UpB) 是 [Awesome-Coder](https://github.com/wx-chevalier/Awesome-Coder) 系列的重要组成，笔者阅读/收集的优秀计算机科学与技术领域相关的书籍归档，以 {年份}-{作者}-{书名}-{版本} 方式命名文件，同时收集关于书籍的读书笔记，书籍的 PDF 链接会放置于读书笔记的首部。
 
