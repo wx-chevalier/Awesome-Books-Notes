@@ -45,7 +45,9 @@
 
 - [book](https://github.com/KeKe-Li/book): All programming languages books.
 
-- https://github.com/Jarvis03/Book-Doc
+- [Book-Doc](https://github.com/Jarvis03/Book-Doc)
+
+- [educative.io_courses](https://github.com/aboelkassem/educative.io_courses): this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack.
 
 ## Copyright & More
 
