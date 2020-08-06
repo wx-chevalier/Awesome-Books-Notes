@@ -134,7 +134,7 @@
       - [Redis 入门指南](/Infrastructure/Database/2013-Redis%20入门指南.md)
       - [Redis 设计与实现](/Infrastructure/Database/2013-Redis%20设计与实现.md)
       - [数据库查询优化器的艺术，原理解析与 SQL 性能优化](/Infrastructure/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
-      - [高性能MySQL 3rd](/Infrastructure/Database/2013-高性能MySQL-3rd.md)
+      - [高性能 MySQL 3rd](/Infrastructure/Database/2013-高性能%20MySQL-3rd.md)
       - [Peter Bailis Readings in Database Systems 5th](/Infrastructure/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
       - [MySQL 5.7 Reference Manual](/Infrastructure/Database/2016-MySQL%205.7%20Reference%20Manual.md)
       - [Kleppmann Designing Data Intensive Applications](/Infrastructure/Database/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
