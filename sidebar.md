@@ -138,7 +138,7 @@
       - [Peter Bailis Readings in Database Systems 5th](/Infrastructure/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
       - [MySQL 5.7 Reference Manual](/Infrastructure/Database/2016-MySQL%205.7%20Reference%20Manual.md)
       - [Kleppmann Designing Data Intensive Applications](/Infrastructure/Database/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
-      - [MySQL 技术内幕： InnoDB 存储引擎](/Infrastructure/Database/2017-MySQL%20技术内幕：%20InnoDB%20存储引擎.md)
+      - [MySQL 技术内幕：InnoDB 存储引擎](/Infrastructure/Database/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
       - [Mysql Group Replication 官方文档](/Infrastructure/Database/2017-Mysql%20Group%20Replication%20官方文档.md)
       - [Design and Implementation of Scalable, Fully Distributed Web Crawler for a Web Search Engine](/Infrastructure/Database/Design%20and%20Implementation%20of%20Scalable,%20Fully%20Distributed%20Web%20Crawler%20for%20a%20Web%20Search%20Engine.md)
       - [Optimization of Distributed Crawler under Hadoop ](/Infrastructure/Database/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
