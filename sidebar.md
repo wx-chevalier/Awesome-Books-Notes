@@ -186,7 +186,7 @@
       - [Apress.Apache.Tomcat.7](/PL/Java/2011-Apress.Apache.Tomcat.7.md)
       - [Java Concurrency In Practice](/PL/Java/2011-Java%20Concurrency%20In%20Practice.md)
       - [Java 并发编程实战](/PL/Java/2011-Java%20并发编程实战.md)
-      - [深入理解Java虚拟机：JVM高级特性与最佳实践](/PL/Java/2011-深入理解Java虚拟机：JVM高级特性与最佳实践.md)
+      - [深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/PL/Java/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
       - [Apache Tomcat 7 Essentials](/PL/Java/2012-Apache%20Tomcat%207%20Essentials.md)
       - [A Little Java A Few Patterns](/PL/Java/2013-A%20Little%20Java%20A%20Few%20Patterns.md)
       - [Java 8 in Action_Lambdas,Streams,and Functional Style Programming](/PL/Java/2014-Java%208%20in%20Action_Lambdas,Streams,and%20Functional-Style%20Programming.md)
