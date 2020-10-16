@@ -218,6 +218,6 @@ MapReduce 的工作方式与管道式 Unix 工具的工作方式之间有相似�
 
 如果您喜欢此摘要，则一定要阅读整本书。还有更多的细节和示例，它们都很有趣。强烈推荐！
 
-# 链接
+# TBD
 
 - https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications/
