@@ -111,12 +111,16 @@
   - Frontend
     - Android
       - [Gradle Recipes for Android](/Frontend/Android/2016-Gradle%20Recipes%20for%20Android.md)
-    - DataVis
-      - [The Grammar of Graphics 2nd](/Frontend/DataVis/2005-The%20Grammar%20of%20Graphics-2nd.md)
-      - [Information Visualization Perception for Design](/Frontend/DataVis/2012-Information%20Visualization%20Perception%20for%20Design.md)
-      - [Data Visualization with D3.js Cookbook](/Frontend/DataVis/2013-Data%20Visualization%20with%20D3.js%20Cookbook.md)
-      - [The Visualization Handbook](/Frontend/DataVis/2014-The%20Visualization%20Handbook.md)
-      - [Visualization Analysis & Design](/Frontend/DataVis/2014-Visualization%20Analysis%20&%20Design.md)
+    - CGDataVis
+      - [The Grammar of Graphics 2nd](/Frontend/CGDataVis/2005-The%20Grammar%20of%20Graphics-2nd.md)
+      - [Information Visualization Perception for Design](/Frontend/CGDataVis/2012-Information%20Visualization%20Perception%20for%20Design.md)
+      - [Data Visualization with D3.js Cookbook](/Frontend/CGDataVis/2013-Data%20Visualization%20with%20D3.js%20Cookbook.md)
+      - [The Visualization Handbook](/Frontend/CGDataVis/2014-The%20Visualization%20Handbook.md)
+      - [Visualization Analysis & Design](/Frontend/CGDataVis/2014-Visualization%20Analysis%20&%20Design.md)
+      - Graphic
+        - [计算机图形学及实用编程技术](/Frontend/CGDataVis/Graphic/2009-计算机图形学及实用编程技术.md)
+        - [Three.js 开发指南](/Frontend/CGDataVis/Graphic/2014-Three.js%20开发指南.md)
+        - [计算机图形学 3rd](/Frontend/CGDataVis/Graphic/2014-计算机图形学-3rd.md)
     - Web
       - [精通 CSS 高级 Web 标准解决方案](/Frontend/Web/2010-精通%20CSS%20高级%20Web%20标准解决方案.md)
       - [深入浅出NodeJS](/Frontend/Web/2011-深入浅出NodeJS.md)
