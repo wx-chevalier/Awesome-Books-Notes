@@ -55,7 +55,6 @@
       - [Martin Fowler Clean Architecture A Craftsman's Guide](/Architecture/ArchitecturePattern/2017-Martin%20Fowler-Clean%20Architecture%20A%20Craftsman's%20Guide.md)
       - [Martin Fowler 架构整洁之道](/Architecture/ArchitecturePattern/2017-Martin%20Fowler-架构整洁之道.md)
       - [John Ousterhout A Philosophy of Software Design](/Architecture/ArchitecturePattern/2018-John%20Ousterhout-A%20Philosophy%20of%20Software%20Design.md)
-      - [John A Philosophy of Software Design](/Architecture/ArchitecturePattern/2018-John-A%20Philosophy%20of%20Software%20Design.md)
       - [Martin Fowler Refactoring Improving the Design of Existing Code](/Architecture/ArchitecturePattern/2018-Martin%20Fowler-Refactoring%20Improving%20the%20Design%20of%20Existing%20Code.md)
       - [面向模式的软件架构](/Architecture/ArchitecturePattern/面向模式的软件架构.md)
     - ArchitectureStyle
