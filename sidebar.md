@@ -5,6 +5,8 @@
         - [推荐系统实践篇](/AI/Application/RecommendSystem/2016-推荐系统实践篇.md)
         - [推荐系统理论篇](/AI/Application/RecommendSystem/2016-推荐系统理论篇.md)
         - [架构师 用户画像实践](/AI/Application/RecommendSystem/2017-架构师-用户画像实践.md)
+    - ComputerVision
+      - [图像处理、分析与机器视觉 3rd](/AI/ComputerVision/2010-图像处理、分析与机器视觉-3rd.md)
     - DeepLearning
       - [Bengio 深度学习](/AI/DeepLearning/2017-Bengio-深度学习.md)
       - [魏秀参 解析卷积神经网络与深度学习实践手册](/AI/DeepLearning/2017-魏秀参-解析卷积神经网络与深度学习实践手册.md)
@@ -118,6 +120,7 @@
       - [The Visualization Handbook](/Frontend/CGDataVis/2014-The%20Visualization%20Handbook.md)
       - [Visualization Analysis & Design](/Frontend/CGDataVis/2014-Visualization%20Analysis%20&%20Design.md)
       - Graphic
+        - [冈萨雷斯 数字图像处理 2nd](/Frontend/CGDataVis/Graphic/2003-冈萨雷斯-数字图像处理-2nd.md)
         - [计算机图形学及实用编程技术](/Frontend/CGDataVis/Graphic/2009-计算机图形学及实用编程技术.md)
         - [Three.js 开发指南](/Frontend/CGDataVis/Graphic/2014-Three.js%20开发指南.md)
         - [计算机图形学 3rd](/Frontend/CGDataVis/Graphic/2014-计算机图形学-3rd.md)

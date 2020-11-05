@@ -19,15 +19,11 @@
 
 阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程，对于书籍归档的原则请参考笔者的 [IT 知识图谱与技术路线](https://wx-chevalier.github.io/home/#/perspective)。
 
-为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站/版权网站，所有非开源/非免费书籍皆以 :moneybag: 标识；笔者也使用 Git LFS/Cowtransfer 将部分书籍的 PDF 版本存放在了仓库目录下，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/) 或者 [Git CheatSheet](https://parg.co/UTd) 教程。
+为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站/版权网站，所有非开源/非免费书籍皆以 :moneybag: 标识；笔者也使用 Cowtransfer 将部分书籍的 PDF 版本存放在了云端，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/) 或者 [Git CheatSheet](https://parg.co/UTd) 教程。
 
 # About
 
-> 加密文件的解压密码为：wx-coder
-
-```sh
-> GIT_LFS_SKIP_SMUDGE=1 git clone ...
-```
+> 如有加密文件，其解压密码为：wx-coder
 
 ## Acknowledgements
 
@@ -48,6 +44,8 @@
 - [Book-Doc](https://github.com/Jarvis03/Book-Doc)
 
 - [educative.io_courses](https://github.com/aboelkassem/educative.io_courses): this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack.
+
+- https://github.com/liulinbo/slam
 
 ## Copyright & More
 
