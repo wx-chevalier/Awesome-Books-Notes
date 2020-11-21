@@ -15,6 +15,10 @@
 
 ![](https://user-images.githubusercontent.com/5803001/37886888-d361e980-30f0-11e8-913b-6fbfce98ab77.jpeg)
 
+Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All content copyright the respective author(s). Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom.
+
+---
+
 [Awesome CS Books](https://parg.co/UpB) 是 [Awesome-Coder](https://github.com/wx-chevalier/Awesome-Coder) 系列的重要组成，笔者阅读/收集的优秀计算机科学与技术领域相关的书籍归档，以 {年份}-{作者}-{书名}-{版本} 方式命名文件，同时收集关于书籍的读书笔记，书籍的 PDF 链接会放置于读书笔记的首部。
 
 阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程，对于书籍归档的原则请参考笔者的 [IT 知识图谱与技术路线](https://wx-chevalier.github.io/home/#/perspective)。
