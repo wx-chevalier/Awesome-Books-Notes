@@ -51,6 +51,8 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 - https://github.com/liulinbo/slam
 
+- https://github.com/7-sevens/Developer-Books
+
 ## Copyright & More
 
 ![技术视野](https://s2.ax1x.com/2019/12/03/QQJLvt.png)
