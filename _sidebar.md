@@ -152,6 +152,7 @@
       - 7.2.6 Redis
         - [7.2.6.1 Redis 入门指南](/Infrastructure/Database/Redis/2013-Redis%20入门指南.md)
         - [7.2.6.2 Redis 设计与实现](/Infrastructure/Database/Redis/2013-Redis%20设计与实现.md)
+        - [7.2.6.3 Redis 实战](/Infrastructure/Database/Redis/2015-Redis%20实战.md)
       - 7.2.7 Specials
         - 7.2.7.1 Google
           - [7.2.7.1.1 Bigtable: A Distributed Storage System for Structured Data](/Infrastructure/Database/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
@@ -188,37 +189,39 @@
       - [7.5.9 Operating System Concepts 10th](/Infrastructure/OS/2018-Operating%20System%20Concepts-10th.md)
       - [7.5.10 Jon Stokes Insidethe Machine](/Infrastructure/OS/2019-Jon%20Stokes-Insidethe%20Machine.md)
   - 8 PL
-    - 8.1 Go
-      - [8.1.1 Go 语言高级编程](/PL/Go/2017-Go%20语言高级编程.md)
-    - 8.2 Java
-      - [8.2.1 Java 问题定位技术 书签版](/PL/Java/2009-Java%20问题定位技术-书签版.md)
-      - [8.2.2 Apress.Apache.Tomcat.7](/PL/Java/2011-Apress.Apache.Tomcat.7.md)
-      - [8.2.3 Java Concurrency In Practice](/PL/Java/2011-Java%20Concurrency%20In%20Practice.md)
-      - [8.2.4 Java 并发编程实战](/PL/Java/2011-Java%20并发编程实战.md)
-      - [8.2.5 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/PL/Java/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
-      - [8.2.6 Apache Tomcat 7 Essentials](/PL/Java/2012-Apache%20Tomcat%207%20Essentials.md)
-      - [8.2.7 A Little Java A Few Patterns](/PL/Java/2013-A%20Little%20Java%20A%20Few%20Patterns.md)
-      - [8.2.8 Java 8 in Action_Lambdas,Streams,and Functional Style Programming](/PL/Java/2014-Java%208%20in%20Action_Lambdas,Streams,and%20Functional-Style%20Programming.md)
-      - [8.2.9 Java Performance The Definitive Guide](/PL/Java/2014-Java%20Performance-The%20Definitive%20Guide.md)
-      - [8.2.10 Java 并发编程的艺术](/PL/Java/2015-Java%20并发编程的艺术.md)
-      - [8.2.11 Norman Netty in Action](/PL/Java/2015-Norman-Netty%20in%20Action.md)
-      - [8.2.12 实战 Java 高并发程序设计](/PL/Java/2015-实战%20Java%20高并发程序设计.md)
-      - [8.2.13 Java 面试宝典](/PL/Java/2016-Java%20面试宝典.md)
-      - [8.2.14 Thinking in Java 4th](/PL/Java/2016-Thinking%20in%20Java-4th.md)
-      - [8.2.15 阿里巴巴 Java 开发手册 v1.4.0](/PL/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
-    - 8.3 JavaScript
-      - [8.3.1 JavaScript 权威指南 6th](/PL/JavaScript/2012-JavaScript%20权威指南-6th.md)
-    - 8.4 Python
-      - [8.4.1 Python 性能分析与优化](/PL/Python/2017-Python%20性能分析与优化.md)
-      - [8.4.2 Halterman Fundamentals of Python Programming](/PL/Python/2019-Halterman-Fundamentals%20of%20Python%20Programming.md)
-    - 8.5 Rust
-      - [8.5.1 The Rust Programming Language 1st](/PL/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
-      - [8.5.2 The Rust Programming Language 2nd](/PL/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
-    - 8.6 Theory
-      - [8.6.1 SICP 计算机程序的构造和解释 2nd](/PL/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
-      - [8.6.2 程序员的自我修养  链接、装载与库](/PL/Theory/2009-程序员的自我修养--链接、装载与库.md)
-      - [8.6.3 Tim Stuart Understanding Computation](/PL/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
-      - [8.6.4 Rich Hickey A History of Clojure](/PL/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
+    - 8.1 C
+      - [8.1.1 汇编语言](/PL/C/2003-汇编语言.md)
+    - 8.2 Go
+      - [8.2.1 Go 语言高级编程](/PL/Go/2017-Go%20语言高级编程.md)
+    - 8.3 Java
+      - [8.3.1 Java 问题定位技术 书签版](/PL/Java/2009-Java%20问题定位技术-书签版.md)
+      - [8.3.2 Apress.Apache.Tomcat.7](/PL/Java/2011-Apress.Apache.Tomcat.7.md)
+      - [8.3.3 Java Concurrency In Practice](/PL/Java/2011-Java%20Concurrency%20In%20Practice.md)
+      - [8.3.4 Java 并发编程实战](/PL/Java/2011-Java%20并发编程实战.md)
+      - [8.3.5 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/PL/Java/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
+      - [8.3.6 Apache Tomcat 7 Essentials](/PL/Java/2012-Apache%20Tomcat%207%20Essentials.md)
+      - [8.3.7 A Little Java A Few Patterns](/PL/Java/2013-A%20Little%20Java%20A%20Few%20Patterns.md)
+      - [8.3.8 Java 8 in Action_Lambdas,Streams,and Functional Style Programming](/PL/Java/2014-Java%208%20in%20Action_Lambdas,Streams,and%20Functional-Style%20Programming.md)
+      - [8.3.9 Java Performance The Definitive Guide](/PL/Java/2014-Java%20Performance-The%20Definitive%20Guide.md)
+      - [8.3.10 Java 并发编程的艺术](/PL/Java/2015-Java%20并发编程的艺术.md)
+      - [8.3.11 Norman Netty in Action](/PL/Java/2015-Norman-Netty%20in%20Action.md)
+      - [8.3.12 实战 Java 高并发程序设计](/PL/Java/2015-实战%20Java%20高并发程序设计.md)
+      - [8.3.13 Java 面试宝典](/PL/Java/2016-Java%20面试宝典.md)
+      - [8.3.14 Thinking in Java 4th](/PL/Java/2016-Thinking%20in%20Java-4th.md)
+      - [8.3.15 阿里巴巴 Java 开发手册 v1.4.0](/PL/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
+    - 8.4 JavaScript
+      - [8.4.1 JavaScript 权威指南 6th](/PL/JavaScript/2012-JavaScript%20权威指南-6th.md)
+    - 8.5 Python
+      - [8.5.1 Python 性能分析与优化](/PL/Python/2017-Python%20性能分析与优化.md)
+      - [8.5.2 Halterman Fundamentals of Python Programming](/PL/Python/2019-Halterman-Fundamentals%20of%20Python%20Programming.md)
+    - 8.6 Rust
+      - [8.6.1 The Rust Programming Language 1st](/PL/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
+      - [8.6.2 The Rust Programming Language 2nd](/PL/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
+    - 8.7 Theory
+      - [8.7.1 SICP 计算机程序的构造和解释 2nd](/PL/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
+      - [8.7.2 程序员的自我修养  链接、装载与库](/PL/Theory/2009-程序员的自我修养--链接、装载与库.md)
+      - [8.7.3 Tim Stuart Understanding Computation](/PL/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
+      - [8.7.4 Rich Hickey A History of Clojure](/PL/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
   - 9 Series
     - 9.1 The New Stack
       - [9.1.1 Applications and Microservices with Docker and Containers](/Series/The%20New%20Stack/2016-Applications%20and%20Microservices%20with%20Docker%20and%20Containers.md)
