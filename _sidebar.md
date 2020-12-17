@@ -84,30 +84,33 @@
       - [4.2.1 四步创业法](/Business/创业/2003-四步创业法.md)
       - [4.2.2 埃里克 精益创业](/Business/创业/2012-埃里克-精益创业.md)
       - [4.2.3 从 0 到 1，开启商业与未来的秘密](/Business/创业/2015-从%200%20到%201，开启商业与未来的秘密.md)
-    - 4.3 商业
-      - [4.3.1 凯恩斯 国富论](/Business/商业/凯恩斯-国富论.md)
-      - [4.3.2 勒庞 乌合之众](/Business/商业/勒庞-乌合之众.md)
-      - [4.3.3 小岛经济学](/Business/商业/小岛经济学.md)
-      - [4.3.4 曼昆 经济学原理](/Business/商业/曼昆-经济学原理.md)
-      - [4.3.5 格拉德威尔 引爆流行](/Business/商业/格拉德威尔-引爆流行.md)
-      - [4.3.6 波特 竞争三部曲](/Business/商业/波特-竞争三部曲.md)
-      - [4.3.7 菲利普·科特勒 营销管理](/Business/商业/菲利普·科特勒-营销管理.md)
-      - [4.3.8 萨缪尔森 经济学](/Business/商业/萨缪尔森-经济学.md)
-      - [4.3.9 马克思 资本论](/Business/商业/马克思-资本论.md)
-    - 4.4 思维
-      - [4.4.1 必然](/Business/思维/2016-必然.md)
-    - 4.5 管理
-      - [4.5.1 人月神话](/Business/管理/2003-人月神话.md)
-      - [4.5.2 项目管理知识体系指南](/Business/管理/2013-项目管理知识体系指南.md)
-    - 4.6 设计
-      - [4.6.1 设计心理学](/Business/设计/2002-设计心理学.md)
-      - [4.6.2 Don The Design of Everyday Things](/Business/设计/2013-Don-The%20Design%20of%20Everyday%20Things.md)
-      - [4.6.3 Steve Don’t Make Me Think](/Business/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
-      - [4.6.4 设计之下，搜狐新闻客户端的用户体验设计](/Business/设计/2014-设计之下，搜狐新闻客户端的用户体验设计.md)
-    - 4.7 金融
-      - [4.7.1 投资最重要的事](/Business/金融/投资最重要的事.md)
-      - [4.7.2 金融 400 年](/Business/金融/金融%20400%20年.md)
-      - [4.7.3 金融的本质](/Business/金融/金融的本质.md)
+    - 4.3 思维
+      - [4.3.1 必然](/Business/思维/2016-必然.md)
+      - [4.3.2 好战略，坏战略](/Business/思维/好战略，坏战略.md)
+      - [4.3.3 金字塔原理](/Business/思维/金字塔原理.md)
+    - 4.4 管理
+      - [4.4.1 人月神话](/Business/管理/2003-人月神话.md)
+      - [4.4.2 项目管理知识体系指南](/Business/管理/2013-项目管理知识体系指南.md)
+      - [4.4.3 波特 竞争三部曲](/Business/管理/波特-竞争三部曲.md)
+    - 4.5 经济
+      - [4.5.1 凯恩斯 国富论](/Business/经济/凯恩斯-国富论.md)
+      - [4.5.2 彼得 小岛经济学](/Business/经济/彼得-小岛经济学.md)
+      - [4.5.3 曼昆 经济学原理](/Business/经济/曼昆-经济学原理.md)
+      - [4.5.4 萨缪尔森 经济学](/Business/经济/萨缪尔森-经济学.md)
+      - [4.5.5 马克思 资本论](/Business/经济/马克思-资本论.md)
+    - 4.6 营销
+      - [4.6.1 勒庞 乌合之众](/Business/营销/勒庞-乌合之众.md)
+      - [4.6.2 格拉德威尔 引爆流行](/Business/营销/格拉德威尔-引爆流行.md)
+      - [4.6.3 菲利普·科特勒 营销管理](/Business/营销/菲利普·科特勒-营销管理.md)
+    - 4.7 设计
+      - [4.7.1 设计心理学](/Business/设计/2002-设计心理学.md)
+      - [4.7.2 Don The Design of Everyday Things](/Business/设计/2013-Don-The%20Design%20of%20Everyday%20Things.md)
+      - [4.7.3 Steve Don’t Make Me Think](/Business/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
+      - [4.7.4 设计之下，搜狐新闻客户端的用户体验设计](/Business/设计/2014-设计之下，搜狐新闻客户端的用户体验设计.md)
+    - 4.8 金融
+      - [4.8.1 投资最重要的事](/Business/金融/投资最重要的事.md)
+      - [4.8.2 金融 400 年](/Business/金融/金融%20400%20年.md)
+      - [4.8.3 金融的本质](/Business/金融/金融的本质.md)
   - 5 Frontend
     - 5.1 Android
       - [5.1.1 Gradle Recipes for Android](/Frontend/Android/2016-Gradle%20Recipes%20for%20Android.md)
