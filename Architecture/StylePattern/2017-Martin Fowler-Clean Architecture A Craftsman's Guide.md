@@ -30,7 +30,7 @@ Each of the paradigms removes capabilities from programmer. None of them add new
 
 Structured programming allows modules to be recursively decomposed into provable units, which in turn means that modules can be functionally decomposed.That is, you can take a large-scale problem statement and decompose it into high-level functions. Each of those functions can then be decomposed into lower-level functions, ad infinitum. Moreover, each of those decomposed functions can be represented using the restricted control structures of structured programming.
 
-Dijkstra once said , "Testing shows the presence ,not the absence ,of bugs." In other words, a program can be proven incorrect by a test ,but it cannot be proven correct. Structured programming forces us to recursively decompose a program into a set of small provable functions. We can then use tests to try to prove those small provable functions incorrect. If such tests fail to prove incorrectness, then we deem the functions to be correct enough for our purposes.
+Dijkstra once said, "Testing shows the presence ,not the absence ,of bugs." In other words, a program can be proven incorrect by a test ,but it cannot be proven correct. Structured programming forces us to recursively decompose a program into a set of small provable functions. We can then use tests to try to prove those small provable functions incorrect. If such tests fail to prove incorrectness, then we deem the functions to be correct enough for our purposes.
 
 # 5.Object-oriented programming
 
@@ -40,7 +40,7 @@ To the software architect, OO is the ability, through the use of polymorphism, t
 
 # 6.Functional programming
 
-Variables in functional languages do not vary. All race conditions , deadlock conditions, and concurrent update problems are due to mutable variables.
+Variables in functional languages do not vary. All race conditions, deadlock conditions, and concurrent update problems are due to mutable variables.
 
 Design principles. The SOLID principles tell us how to arrange our functions and data structures into classes, and how those classes should be interconnected.
 
