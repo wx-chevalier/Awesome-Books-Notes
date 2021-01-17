@@ -125,6 +125,7 @@
         - [5.2.6.2 计算机图形学及实用编程技术](/Frontend/CGDataVis/Graphic/2009-计算机图形学及实用编程技术.md)
         - [5.2.6.3 Three.js 开发指南](/Frontend/CGDataVis/Graphic/2014-Three.js%20开发指南.md)
         - [5.2.6.4 计算机图形学 3rd](/Frontend/CGDataVis/Graphic/2014-计算机图形学-3rd.md)
+        - [5.2.6.5 The Blender Python API](/Frontend/CGDataVis/Graphic/2017-The%20Blender%20Python%20API.md)
     - 5.3 Web
       - [5.3.1 精通 CSS 高级 Web 标准解决方案](/Frontend/Web/2010-精通%20CSS%20高级%20Web%20标准解决方案.md)
       - [5.3.2 深入浅出NodeJS](/Frontend/Web/2011-深入浅出NodeJS.md)
