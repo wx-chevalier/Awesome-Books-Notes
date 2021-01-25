@@ -142,6 +142,7 @@
   - 7 Infrastructure
     - 7.1 Cloud
       - [7.1.1 云计算与分布式系统， 从并行处理到物联网](/Infrastructure/Cloud/2011-云计算与分布式系统，%20从并行处理到物联网.md)
+      - [7.1.2 Cloud Native Data Center Networking](/Infrastructure/Cloud/2019-Cloud%20Native%20Data%20Center%20Networking.md)
     - 7.2 Database
       - [7.2.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/Infrastructure/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
       - [7.2.2 Peter Bailis Readings in Database Systems 5th](/Infrastructure/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
