@@ -1,4 +1,4 @@
-> 下载地址：https://c-t.work/s/63c41532fba247
+> 下载地址：https://ngte.cowtransfer.com/s/63c41532fba247
 
 # Designing Data-Intensive Applications
 
