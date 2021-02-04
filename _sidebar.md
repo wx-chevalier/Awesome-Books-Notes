@@ -75,7 +75,6 @@
       - [3.2.1 Nginx MicroServices Reference Architecture](/Backend/MicroService/2017-Nginx-MicroServices%20Reference%20Architecture.md)
       - [3.2.2 Re 从 0 开始的微服务架构](/Backend/MicroService/2017-Re-从%200%20开始的微服务架构.md)
       - [3.2.3 微服务与 DevOps 内参](/Backend/MicroService/2017-微服务与%20DevOps%20内参.md)
-      - [3.2.4 架构师 探索 Service 本源](/Backend/MicroService/2017-架构师-探索%20Service%20本源.md)
   - 4 Business
     - 4.1 产品
       - [4.1.1 人人都是产品经理](/Business/产品/2009-人人都是产品经理.md)
@@ -229,19 +228,21 @@
       - [8.7.3 Tim Stuart Understanding Computation](/PL/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
       - [8.7.4 Rich Hickey A History of Clojure](/PL/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
   - 9 Series
-    - 9.1 The New Stack
-      - [9.1.1 Applications and Microservices with Docker and Containers](/Series/The%20New%20Stack/2016-Applications%20and%20Microservices%20with%20Docker%20and%20Containers.md)
-      - [9.1.2 Automation and Orchestration with Docker and Containers](/Series/The%20New%20Stack/2016-Automation%20and%20Orchestration%20with%20Docker%20and%20Containers.md)
-      - [9.1.3 Monitoring and Management with Docker and Containers](/Series/The%20New%20Stack/2016-Monitoring%20and%20Management%20with%20Docker%20and%20Containers.md)
-      - [9.1.4 Networking Security and Storage with Docker and Containers](/Series/The%20New%20Stack/2016-Networking%20Security%20and%20Storage%20with%20Docker%20and%20Containers.md)
-      - [9.1.5 The Docker and Container Ecosystem](/Series/The%20New%20Stack/2016-The%20Docker%20and%20Container%20Ecosystem.md)
-      - [9.1.6 The State Of The Kubernetes Ecosystem](/Series/The%20New%20Stack/2016-The%20State%20Of%20The%20Kubernetes%20Ecosystem.md)
-      - [9.1.7 Use Cases For Kubernetes](/Series/The%20New%20Stack/2016-Use%20Cases%20For%20Kubernetes.md)
-      - [9.1.8 CI CD with Kubernetes](/Series/The%20New%20Stack/2019-CI%20CD%20with%20Kubernetes.md)
-      - [9.1.9 Guide To Cloud Native DevOps](/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20DevOps.md)
-      - [9.1.10 Guide To Cloud Native Microservices](/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20Microservices.md)
-      - [9.1.11 Guide To Serverless Technologies](/Series/The%20New%20Stack/2019-Guide%20To%20Serverless%20Technologies.md)
-      - [9.1.12 Kubernetes Deployment And Security Patterns](/Series/The%20New%20Stack/2019-Kubernetes%20Deployment%20And%20Security%20Patterns.md)
-      - [9.1.13 Kubernetes Solutions Directory](/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
+    - 9.1 InfoQ
+      - [9.1.1 架构师 2017](/Series/InfoQ/架构师-2017.md)
+    - 9.2 The New Stack
+      - [9.2.1 Applications and Microservices with Docker and Containers](/Series/The%20New%20Stack/2016-Applications%20and%20Microservices%20with%20Docker%20and%20Containers.md)
+      - [9.2.2 Automation and Orchestration with Docker and Containers](/Series/The%20New%20Stack/2016-Automation%20and%20Orchestration%20with%20Docker%20and%20Containers.md)
+      - [9.2.3 Monitoring and Management with Docker and Containers](/Series/The%20New%20Stack/2016-Monitoring%20and%20Management%20with%20Docker%20and%20Containers.md)
+      - [9.2.4 Networking Security and Storage with Docker and Containers](/Series/The%20New%20Stack/2016-Networking%20Security%20and%20Storage%20with%20Docker%20and%20Containers.md)
+      - [9.2.5 The Docker and Container Ecosystem](/Series/The%20New%20Stack/2016-The%20Docker%20and%20Container%20Ecosystem.md)
+      - [9.2.6 The State Of The Kubernetes Ecosystem](/Series/The%20New%20Stack/2016-The%20State%20Of%20The%20Kubernetes%20Ecosystem.md)
+      - [9.2.7 Use Cases For Kubernetes](/Series/The%20New%20Stack/2016-Use%20Cases%20For%20Kubernetes.md)
+      - [9.2.8 CI CD with Kubernetes](/Series/The%20New%20Stack/2019-CI%20CD%20with%20Kubernetes.md)
+      - [9.2.9 Guide To Cloud Native DevOps](/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20DevOps.md)
+      - [9.2.10 Guide To Cloud Native Microservices](/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20Microservices.md)
+      - [9.2.11 Guide To Serverless Technologies](/Series/The%20New%20Stack/2019-Guide%20To%20Serverless%20Technologies.md)
+      - [9.2.12 Kubernetes Deployment And Security Patterns](/Series/The%20New%20Stack/2019-Kubernetes%20Deployment%20And%20Security%20Patterns.md)
+      - [9.2.13 Kubernetes Solutions Directory](/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
   - 10 Specials
     - [10.1 吴军 浪潮之巅 完整清晰版](/Specials/2011-吴军-浪潮之巅-完整清晰版.md)
