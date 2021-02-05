@@ -10,8 +10,9 @@
     - 1.4 DeepLearning
       - [1.4.1 Bengio 深度学习](/AI/DeepLearning/2017-Bengio-深度学习.md)
       - [1.4.2 魏秀参 解析卷积神经网络与深度学习实践手册](/AI/DeepLearning/2017-魏秀参-解析卷积神经网络与深度学习实践手册.md)
-      - [1.4.3 Liang 机器学习笔记](/AI/DeepLearning/2019-Liang-机器学习笔记.md)
-      - [1.4.4 SteveZhu 一份简短的深度学习笔记](/AI/DeepLearning/2020-SteveZhu-一份简短的深度学习笔记.md)
+      - [1.4.3 Dive into Deep Learning](/AI/DeepLearning/2019-Dive%20into%20Deep%20Learning.md)
+      - [1.4.4 Liang 机器学习笔记](/AI/DeepLearning/2019-Liang-机器学习笔记.md)
+      - [1.4.5 SteveZhu 一份简短的深度学习笔记](/AI/DeepLearning/2020-SteveZhu-一份简短的深度学习笔记.md)
     - 1.5 MachineLearning
       - [1.5.1 Machine Learning A Probabilistic Perspective](/AI/MachineLearning/2012-Machine%20Learning%20A%20Probabilistic%20Perspective.md)
       - [1.5.2 Machine Learning in Action](/AI/MachineLearning/2012-Machine%20Learning%20in%20Action.md)

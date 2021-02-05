@@ -2,9 +2,7 @@
 
 # 1.What is design and architecture
 
-The word “architecture” is often used in the context of something at a high level that is divorced from the  lower-level details,whereas "design" more often seems to imply structures and decisions at a lower level.
-
-The goal of software architecture is to minimize the human resources required to build and maintain the required system.
+The word “architecture” is often used in the context of something at a high level that is divorced from the  lower-level details,whereas "design" more often seems to imply structures and decisions at a lower level.The goal of software architecture is to minimize the human resources required to build and maintain the required system.
 
 架构设计的目的：减少系统构建和维护的成本。引入例子对比不同开发思路下维护软件的成本，说明架构的重要性。
 
