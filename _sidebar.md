@@ -50,6 +50,7 @@
       - [2.2.5 JeffE Algorithms](/Architecture/AlgoDS/2018-JeffE-Algorithms.md)
     - 2.3 DesginPattern
       - [2.3.1 Design Patterns Elements of Reusable Object Oriented Software](/Architecture/DesginPattern/1997-Design%20Patterns%20Elements%20of%20Reusable%20Object%20Oriented%20Software.md)
+      - [2.3.2 2019 Guru Dive into Design Patterns](/Architecture/DesginPattern/2019-2019-Guru-Dive%20into%20Design%20Patterns.md)
     - 2.4 StylePattern
       - [2.4.1 Roy Thomas Fielding 架构风格与基于网络的软件架构设计](/Architecture/StylePattern/2000-Roy%20Thomas%20Fielding-架构风格与基于网络的软件架构设计.md)
       - [2.4.2 Martin Fowler 企业应用架构模式](/Architecture/StylePattern/2006-Martin%20Fowler-企业应用架构模式.md)
@@ -169,8 +170,8 @@
     - 8.3 DistributedComputing
       - [8.3.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/Infrastructure/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
       - [8.3.2 分布式计算：原理、算法和系统](/Infrastructure/DistributedComputing/2008-分布式计算：原理、算法和系统.md)
-      - [8.3.3 Hadoop 技术内幕 深入理解 MapReduce 架构设计与实现原理](/Infrastructure/DistributedComputing/2013-Hadoop%20技术内幕%20深入理解%20MapReduce%20架构设计与实现原理.md)
-      - [8.3.4 Hadoop 技术内幕 深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/Infrastructure/DistributedComputing/2013-Hadoop%20技术内幕%20深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
+      - [8.3.3 Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](/Infrastructure/DistributedComputing/2013-Hadoop%20技术内幕：深入理解%20MapReduce%20架构设计与实现原理.md)
+      - [8.3.4 Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/Infrastructure/DistributedComputing/2013-Hadoop%20技术内幕：深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
       - [8.3.5 Getting Started With Apache Spark](/Infrastructure/DistributedComputing/2015-Getting%20Started%20With%20Apache%20Spark.md)
       - [8.3.6 Manning Hadoop in Practice 2nd](/Infrastructure/DistributedComputing/2015-Manning%20Hadoop%20in%20Practice-2nd.md)
       - [8.3.7 Apache Kylin](/Infrastructure/DistributedComputing/2017-Apache%20Kylin.md)
