@@ -48,6 +48,7 @@
       - [2.2.3 Algorithm Design Parallel and Sequential](/Architecture/AlgoDS/2017-Algorithm%20Design%20Parallel%20and%20Sequential.md)
       - [2.2.4 Antti Competitive Programmer’s Handbook](/Architecture/AlgoDS/2017-Antti-Competitive%20Programmer’s%20Handbook.md)
       - [2.2.5 JeffE Algorithms](/Architecture/AlgoDS/2018-JeffE-Algorithms.md)
+      - [2.2.6 和小浩学算法](/Architecture/AlgoDS/2019-和小浩学算法.md)
     - 2.3 DesginPattern
       - [2.3.1 Design Patterns Elements of Reusable Object Oriented Software](/Architecture/DesginPattern/1997-Design%20Patterns%20Elements%20of%20Reusable%20Object%20Oriented%20Software.md)
       - [2.3.2 2019 Guru Dive into Design Patterns](/Architecture/DesginPattern/2019-2019-Guru-Dive%20into%20Design%20Patterns.md)
