@@ -48,7 +48,7 @@ SSTable 是一个持久化的、排序的、不可更改的 Map 结构，而 Map
 
 集群包括主服务器和片服务器，主服务器负责将片分配给片服务器，而具体的数据服务则全权由片服务器负责。但是不要误以为片服务器真的存储了数据（除了内存中 memtable 的数据），数据的真实位置只有 GFS 才知道，主服务器将片分配给片服务器的意思应该是，片服务器获取了片的所有 SSTable 文件名，片服务器通过一些索引机制可以知道所需要的数据在哪个 SSTable 文件，然后从 GFS 中读取 SSTable 文件的数据，这个 SSTable 文件可能分布在好几台 chunkserver 上。
 
-# Todos
+# Links
 
 - https://www.jianshu.com/p/cbdf895f9019
 - https://www.jianshu.com/p/a42dbbdf9706?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
