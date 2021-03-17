@@ -1,4 +1,4 @@
-> 下载地址：https://c-t.work/s/388bfbc121b248
+> 参考地址：https://c-t.work/s/388bfbc121b248
 
 # Don't Make Me Think. A Common Sense Approach to Web Usability.
 
