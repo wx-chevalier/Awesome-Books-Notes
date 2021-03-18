@@ -111,6 +111,6 @@
 
 一些对这种网络方案的改进尝试：TRILL 和 MLAG。经过时间沉淀，其他各种上层协议（L3+）已经退潮，IP 协议成为唯一主流。是时候从网络需求出发，设计一种新的架构了。
 
-# Todos
+# Links
 
 - http://arthurchiao.art/blog/cloud-native-data-center-networking-notes-zh/

@@ -1,4 +1,4 @@
-> 下载地址：https://ngte.cowtransfer.com/s/0973a01be80b40
+> 参考地址：https://ngte.cowtransfer.com/s/0973a01be80b40
 
 # 第 1 章 漫谈 WebAssembly 发展史.... 1
 
