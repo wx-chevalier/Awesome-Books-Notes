@@ -204,19 +204,20 @@
       - [8.3.4 Norman Netty in Action](/PL/Java/2015-Norman-Netty%20in%20Action.md)
       - [8.3.5 Java 面试宝典](/PL/Java/2016-Java%20面试宝典.md)
       - [8.3.6 Thinking in Java 4th](/PL/Java/2016-Thinking%20in%20Java-4th.md)
-      - 8.3.7 JVM
-        - [8.3.7.1 Java 问题定位技术 书签版](/PL/Java/JVM/2009-Java%20问题定位技术-书签版.md)
-        - [8.3.7.2 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/PL/Java/JVM/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
-      - 8.3.8 Spring
-        - [8.3.8.1 Apress.Apache.Tomcat.7](/PL/Java/Spring/2011-Apress.Apache.Tomcat.7.md)
-        - [8.3.8.2 Apache Tomcat 7 Essentials](/PL/Java/Spring/2012-Apache%20Tomcat%207%20Essentials.md)
-        - [8.3.8.3 码农小胖哥 Spring Security 实战干货](/PL/Java/Spring/2021-码农小胖哥-Spring%20Security%20实战干货.md)
-      - 8.3.9 并发编程
-        - [8.3.9.1 Java Concurrency In Practice](/PL/Java/并发编程/2011-Java%20Concurrency%20In%20Practice.md)
-        - [8.3.9.2 Java 并发编程实战](/PL/Java/并发编程/2011-Java%20并发编程实战.md)
-        - [8.3.9.3 Java 并发编程的艺术](/PL/Java/并发编程/2015-Java%20并发编程的艺术.md)
-        - [8.3.9.4 实战 Java 高并发程序设计](/PL/Java/并发编程/2015-实战%20Java%20高并发程序设计.md)
-      - [8.3.10 阿里巴巴 Java 开发手册 v1.4.0](/PL/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
+      - [8.3.7 Java 基础核心总结](/PL/Java/2021-Java%20基础核心总结.md)
+      - 8.3.8 JVM
+        - [8.3.8.1 Java 问题定位技术 书签版](/PL/Java/JVM/2009-Java%20问题定位技术-书签版.md)
+        - [8.3.8.2 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/PL/Java/JVM/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
+      - 8.3.9 Spring
+        - [8.3.9.1 Apress.Apache.Tomcat.7](/PL/Java/Spring/2011-Apress.Apache.Tomcat.7.md)
+        - [8.3.9.2 Apache Tomcat 7 Essentials](/PL/Java/Spring/2012-Apache%20Tomcat%207%20Essentials.md)
+        - [8.3.9.3 码农小胖哥 Spring Security 实战干货](/PL/Java/Spring/2021-码农小胖哥-Spring%20Security%20实战干货.md)
+      - 8.3.10 并发编程
+        - [8.3.10.1 Java Concurrency In Practice](/PL/Java/并发编程/2011-Java%20Concurrency%20In%20Practice.md)
+        - [8.3.10.2 Java 并发编程实战](/PL/Java/并发编程/2011-Java%20并发编程实战.md)
+        - [8.3.10.3 Java 并发编程的艺术](/PL/Java/并发编程/2015-Java%20并发编程的艺术.md)
+        - [8.3.10.4 实战 Java 高并发程序设计](/PL/Java/并发编程/2015-实战%20Java%20高并发程序设计.md)
+      - [8.3.11 阿里巴巴 Java 开发手册 v1.4.0](/PL/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
     - 8.4 JavaScript
       - [8.4.1 JavaScript 权威指南 6th](/PL/JavaScript/2012-JavaScript%20权威指南-6th.md)
     - 8.5 Python
