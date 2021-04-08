@@ -152,6 +152,7 @@
         - [7.2.5.2 MySQL 5.7 Reference Manual](/Infrastructure/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
         - [7.2.5.3 MySQL 技术内幕：InnoDB 存储引擎](/Infrastructure/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
         - [7.2.5.4 Mysql Group Replication 官方文档](/Infrastructure/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
+        - [7.2.5.5 MySQL 实战 45 讲](/Infrastructure/Database/MySQL/2019-MySQL%20实战%2045%20讲.md)
       - 7.2.6 Redis
         - [7.2.6.1 Redis 入门指南](/Infrastructure/Database/Redis/2013-Redis%20入门指南.md)
         - [7.2.6.2 Redis 设计与实现](/Infrastructure/Database/Redis/2013-Redis%20设计与实现.md)
