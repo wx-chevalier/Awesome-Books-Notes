@@ -193,45 +193,45 @@
       - [7.5.9 Bash Notes For Professionals](/Infrastructure/OS/2014-Bash%20Notes%20For%20Professionals.md)
       - [7.5.10 Operating System Concepts 10th](/Infrastructure/OS/2018-Operating%20System%20Concepts-10th.md)
       - [7.5.11 Jon Stokes Insidethe Machine](/Infrastructure/OS/2019-Jon%20Stokes-Insidethe%20Machine.md)
-  - 8 PL
+  - 8 Language
     - 8.1 C
-      - [8.1.1 汇编语言](/PL/C/2003-汇编语言.md)
+      - [8.1.1 汇编语言](/Language/C/2003-汇编语言.md)
     - 8.2 Go
-      - [8.2.1 Go 语言高级编程](/PL/Go/2017-Go%20语言高级编程.md)
+      - [8.2.1 Go 语言高级编程](/Language/Go/2017-Go%20语言高级编程.md)
     - 8.3 Java
-      - [8.3.1 A Little Java A Few Patterns](/PL/Java/2013-A%20Little%20Java%20A%20Few%20Patterns.md)
-      - [8.3.2 Java 8 in Action_Lambdas,Streams,and Functional Style Programming](/PL/Java/2014-Java%208%20in%20Action_Lambdas,Streams,and%20Functional-Style%20Programming.md)
-      - [8.3.3 Java Performance The Definitive Guide](/PL/Java/2014-Java%20Performance-The%20Definitive%20Guide.md)
-      - [8.3.4 Norman Netty in Action](/PL/Java/2015-Norman-Netty%20in%20Action.md)
-      - [8.3.5 Java 面试宝典](/PL/Java/2016-Java%20面试宝典.md)
-      - [8.3.6 Thinking in Java 4th](/PL/Java/2016-Thinking%20in%20Java-4th.md)
-      - [8.3.7 Java 基础核心总结](/PL/Java/2021-Java%20基础核心总结.md)
+      - [8.3.1 A Little Java A Few Patterns](/Language/Java/2013-A%20Little%20Java%20A%20Few%20Patterns.md)
+      - [8.3.2 Java 8 in Action_Lambdas,Streams,and Functional Style Programming](/Language/Java/2014-Java%208%20in%20Action_Lambdas,Streams,and%20Functional-Style%20Programming.md)
+      - [8.3.3 Java Performance The Definitive Guide](/Language/Java/2014-Java%20Performance-The%20Definitive%20Guide.md)
+      - [8.3.4 Norman Netty in Action](/Language/Java/2015-Norman-Netty%20in%20Action.md)
+      - [8.3.5 Java 面试宝典](/Language/Java/2016-Java%20面试宝典.md)
+      - [8.3.6 Thinking in Java 4th](/Language/Java/2016-Thinking%20in%20Java-4th.md)
+      - [8.3.7 Java 基础核心总结](/Language/Java/2021-Java%20基础核心总结.md)
       - 8.3.8 JVM
-        - [8.3.8.1 Java 问题定位技术 书签版](/PL/Java/JVM/2009-Java%20问题定位技术-书签版.md)
-        - [8.3.8.2 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/PL/Java/JVM/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
+        - [8.3.8.1 Java 问题定位技术 书签版](/Language/Java/JVM/2009-Java%20问题定位技术-书签版.md)
+        - [8.3.8.2 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/Language/Java/JVM/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
       - 8.3.9 Spring
-        - [8.3.9.1 Apress.Apache.Tomcat.7](/PL/Java/Spring/2011-Apress.Apache.Tomcat.7.md)
-        - [8.3.9.2 Apache Tomcat 7 Essentials](/PL/Java/Spring/2012-Apache%20Tomcat%207%20Essentials.md)
-        - [8.3.9.3 码农小胖哥 Spring Security 实战干货](/PL/Java/Spring/2021-码农小胖哥-Spring%20Security%20实战干货.md)
+        - [8.3.9.1 Apress.Apache.Tomcat.7](/Language/Java/Spring/2011-Apress.Apache.Tomcat.7.md)
+        - [8.3.9.2 Apache Tomcat 7 Essentials](/Language/Java/Spring/2012-Apache%20Tomcat%207%20Essentials.md)
+        - [8.3.9.3 码农小胖哥 Spring Security 实战干货](/Language/Java/Spring/2021-码农小胖哥-Spring%20Security%20实战干货.md)
       - 8.3.10 并发编程
-        - [8.3.10.1 Java Concurrency In Practice](/PL/Java/并发编程/2011-Java%20Concurrency%20In%20Practice.md)
-        - [8.3.10.2 Java 并发编程实战](/PL/Java/并发编程/2011-Java%20并发编程实战.md)
-        - [8.3.10.3 Java 并发编程的艺术](/PL/Java/并发编程/2015-Java%20并发编程的艺术.md)
-        - [8.3.10.4 实战 Java 高并发程序设计](/PL/Java/并发编程/2015-实战%20Java%20高并发程序设计.md)
-      - [8.3.11 阿里巴巴 Java 开发手册 v1.4.0](/PL/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
+        - [8.3.10.1 Java Concurrency In Practice](/Language/Java/并发编程/2011-Java%20Concurrency%20In%20Practice.md)
+        - [8.3.10.2 Java 并发编程实战](/Language/Java/并发编程/2011-Java%20并发编程实战.md)
+        - [8.3.10.3 Java 并发编程的艺术](/Language/Java/并发编程/2015-Java%20并发编程的艺术.md)
+        - [8.3.10.4 实战 Java 高并发程序设计](/Language/Java/并发编程/2015-实战%20Java%20高并发程序设计.md)
+      - [8.3.11 阿里巴巴 Java 开发手册 v1.4.0](/Language/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
     - 8.4 JavaScript
-      - [8.4.1 JavaScript 权威指南 6th](/PL/JavaScript/2012-JavaScript%20权威指南-6th.md)
+      - [8.4.1 JavaScript 权威指南 6th](/Language/JavaScript/2012-JavaScript%20权威指南-6th.md)
     - 8.5 Python
-      - [8.5.1 Python 性能分析与优化](/PL/Python/2017-Python%20性能分析与优化.md)
-      - [8.5.2 Halterman Fundamentals of Python Programming](/PL/Python/2019-Halterman-Fundamentals%20of%20Python%20Programming.md)
+      - [8.5.1 Python 性能分析与优化](/Language/Python/2017-Python%20性能分析与优化.md)
+      - [8.5.2 Halterman Fundamentals of Python Programming](/Language/Python/2019-Halterman-Fundamentals%20of%20Python%20Programming.md)
     - 8.6 Rust
-      - [8.6.1 The Rust Programming Language 1st](/PL/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
-      - [8.6.2 The Rust Programming Language 2nd](/PL/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
+      - [8.6.1 The Rust Programming Language 1st](/Language/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
+      - [8.6.2 The Rust Programming Language 2nd](/Language/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
     - 8.7 Theory
-      - [8.7.1 SICP 计算机程序的构造和解释 2nd](/PL/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
-      - [8.7.2 程序员的自我修养  链接、装载与库](/PL/Theory/2009-程序员的自我修养--链接、装载与库.md)
-      - [8.7.3 Tim Stuart Understanding Computation](/PL/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
-      - [8.7.4 Rich Hickey A History of Clojure](/PL/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
+      - [8.7.1 SICP 计算机程序的构造和解释 2nd](/Language/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
+      - [8.7.2 程序员的自我修养  链接、装载与库](/Language/Theory/2009-程序员的自我修养--链接、装载与库.md)
+      - [8.7.3 Tim Stuart Understanding Computation](/Language/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
+      - [8.7.4 Rich Hickey A History of Clojure](/Language/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
   - 9 Series
     - 9.1 InfoQ
       - [9.1.1 架构师 2017](/Series/InfoQ/架构师-2017.md)
