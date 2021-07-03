@@ -230,33 +230,33 @@
       - [7.9.2 程序员的自我修养  链接、装载与库](/Language/Theory/2009-程序员的自我修养--链接、装载与库.md)
       - [7.9.3 Tim Stuart Understanding Computation](/Language/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
       - [7.9.4 Rich Hickey A History of Clojure](/Language/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
-  - 8 Series
-    - 8.1 InfoQ
-      - [8.1.1 架构师 2017](/Series/InfoQ/架构师-2017.md)
-    - 8.2 The New Stack
-      - [8.2.1 Applications and Microservices with Docker and Containers](/Series/The%20New%20Stack/2016-Applications%20and%20Microservices%20with%20Docker%20and%20Containers.md)
-      - [8.2.2 Automation and Orchestration with Docker and Containers](/Series/The%20New%20Stack/2016-Automation%20and%20Orchestration%20with%20Docker%20and%20Containers.md)
-      - [8.2.3 Monitoring and Management with Docker and Containers](/Series/The%20New%20Stack/2016-Monitoring%20and%20Management%20with%20Docker%20and%20Containers.md)
-      - [8.2.4 Networking Security and Storage with Docker and Containers](/Series/The%20New%20Stack/2016-Networking%20Security%20and%20Storage%20with%20Docker%20and%20Containers.md)
-      - [8.2.5 The Docker and Container Ecosystem](/Series/The%20New%20Stack/2016-The%20Docker%20and%20Container%20Ecosystem.md)
-      - [8.2.6 The State Of The Kubernetes Ecosystem](/Series/The%20New%20Stack/2016-The%20State%20Of%20The%20Kubernetes%20Ecosystem.md)
-      - [8.2.7 Use Cases For Kubernetes](/Series/The%20New%20Stack/2016-Use%20Cases%20For%20Kubernetes.md)
-      - [8.2.8 CI CD with Kubernetes](/Series/The%20New%20Stack/2019-CI%20CD%20with%20Kubernetes.md)
-      - [8.2.9 Guide To Cloud Native DevOps](/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20DevOps.md)
-      - [8.2.10 Guide To Cloud Native Microservices](/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20Microservices.md)
-      - [8.2.11 Guide To Serverless Technologies](/Series/The%20New%20Stack/2019-Guide%20To%20Serverless%20Technologies.md)
-      - [8.2.12 Kubernetes Deployment And Security Patterns](/Series/The%20New%20Stack/2019-Kubernetes%20Deployment%20And%20Security%20Patterns.md)
-      - [8.2.13 Kubernetes Solutions Directory](/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
-  - 9 Specials
-    - [9.1 吴军 浪潮之巅 完整清晰版](/Specials/2011-吴军-浪潮之巅-完整清晰版.md)
-  - 10 System
-    - 10.1 InfoSecurity
-      - 10.1.1 WebCrawler
-        - [10.1.1.1 Design and Implementation of Scalable, Fully Distributed Web Crawler for a Web Search Engine](/System/InfoSecurity/WebCrawler/Design%20and%20Implementation%20of%20Scalable,%20Fully%20Distributed%20Web%20Crawler%20for%20a%20Web%20Search%20Engine.md)
-        - [10.1.1.2 Research on Detection Algorithm of Web Crawler](/System/InfoSecurity/WebCrawler/Research%20on%20Detection%20Algorithm%20of%20Web%20Crawler.md)
-    - 10.2 SoftwareEngineering
-      - [10.2.1 软件工程：实践者的研究方法](/System/SoftwareEngineering/2009-软件工程：实践者的研究方法.md)
-      - [10.2.2 Phodal Growth: 全栈增长工程师指南](/System/SoftwareEngineering/2015-Phodal-Growth:%20全栈增长工程师指南.md)
-      - 10.2.3 Git
-        - [10.2.3.1 Lynn Git Magic](/System/SoftwareEngineering/Git/2007-Lynn-Git%20Magic.md)
-        - [10.2.3.2 Git Notes For Professionals](/System/SoftwareEngineering/Git/2017-Git%20Notes%20For%20Professionals.md)
+  - 8 Specials
+    - [8.1 吴军 浪潮之巅 完整清晰版](/Specials/2011-吴军-浪潮之巅-完整清晰版.md)
+    - 8.2 Series
+      - 8.2.1 InfoQ
+        - [8.2.1.1 架构师 2017](/Specials/Series/InfoQ/架构师-2017.md)
+      - 8.2.2 The New Stack
+        - [8.2.2.1 Applications and Microservices with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Applications%20and%20Microservices%20with%20Docker%20and%20Containers.md)
+        - [8.2.2.2 Automation and Orchestration with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Automation%20and%20Orchestration%20with%20Docker%20and%20Containers.md)
+        - [8.2.2.3 Monitoring and Management with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Monitoring%20and%20Management%20with%20Docker%20and%20Containers.md)
+        - [8.2.2.4 Networking Security and Storage with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Networking%20Security%20and%20Storage%20with%20Docker%20and%20Containers.md)
+        - [8.2.2.5 The Docker and Container Ecosystem](/Specials/Series/The%20New%20Stack/2016-The%20Docker%20and%20Container%20Ecosystem.md)
+        - [8.2.2.6 The State Of The Kubernetes Ecosystem](/Specials/Series/The%20New%20Stack/2016-The%20State%20Of%20The%20Kubernetes%20Ecosystem.md)
+        - [8.2.2.7 Use Cases For Kubernetes](/Specials/Series/The%20New%20Stack/2016-Use%20Cases%20For%20Kubernetes.md)
+        - [8.2.2.8 CI CD with Kubernetes](/Specials/Series/The%20New%20Stack/2019-CI%20CD%20with%20Kubernetes.md)
+        - [8.2.2.9 Guide To Cloud Native DevOps](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20DevOps.md)
+        - [8.2.2.10 Guide To Cloud Native Microservices](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20Microservices.md)
+        - [8.2.2.11 Guide To Serverless Technologies](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Serverless%20Technologies.md)
+        - [8.2.2.12 Kubernetes Deployment And Security Patterns](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Deployment%20And%20Security%20Patterns.md)
+        - [8.2.2.13 Kubernetes Solutions Directory](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
+  - 9 System
+    - 9.1 InfoSecurity
+      - 9.1.1 WebCrawler
+        - [9.1.1.1 Design and Implementation of Scalable, Fully Distributed Web Crawler for a Web Search Engine](/System/InfoSecurity/WebCrawler/Design%20and%20Implementation%20of%20Scalable,%20Fully%20Distributed%20Web%20Crawler%20for%20a%20Web%20Search%20Engine.md)
+        - [9.1.1.2 Research on Detection Algorithm of Web Crawler](/System/InfoSecurity/WebCrawler/Research%20on%20Detection%20Algorithm%20of%20Web%20Crawler.md)
+    - 9.2 SoftwareEngineering
+      - [9.2.1 软件工程：实践者的研究方法](/System/SoftwareEngineering/2009-软件工程：实践者的研究方法.md)
+      - [9.2.2 Phodal Growth: 全栈增长工程师指南](/System/SoftwareEngineering/2015-Phodal-Growth:%20全栈增长工程师指南.md)
+      - 9.2.3 Git
+        - [9.2.3.1 Lynn Git Magic](/System/SoftwareEngineering/Git/2007-Lynn-Git%20Magic.md)
+        - [9.2.3.2 Git Notes For Professionals](/System/SoftwareEngineering/Git/2017-Git%20Notes%20For%20Professionals.md)
