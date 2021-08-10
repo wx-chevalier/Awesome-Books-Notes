@@ -102,161 +102,162 @@
       - 5.2.3 Git
         - [5.2.3.1 Lynn Git Magic](/System/SoftwareEngineering/Git/2007-Lynn-Git%20Magic.md)
         - [5.2.3.2 Git Notes For Professionals](/System/SoftwareEngineering/Git/2017-Git%20Notes%20For%20Professionals.md)
-  - 6 Architecture
-    - 6.1 HA
-      - [6.1.1 Google 构建安全可靠的系统](/Architecture/HA/2019-Google%20构建安全可靠的系统.md)
-      - [6.1.2 Building Secure & Reliable Systems](/Architecture/HA/2020-Building%20Secure%20&%20Reliable%20Systems.md)
-    - 6.2 MicroService
-      - [6.2.1 Nginx MicroServices Reference Architecture](/Architecture/MicroService/2017-Nginx-MicroServices%20Reference%20Architecture.md)
-      - [6.2.2 Re 从 0 开始的微服务架构](/Architecture/MicroService/2017-Re-从%200%20开始的微服务架构.md)
-      - [6.2.3 微服务与 DevOps 内参](/Architecture/MicroService/2017-微服务与%20DevOps%20内参.md)
-    - 6.3 StylePattern
-      - [6.3.1 Roy Thomas Fielding 架构风格与基于网络的软件架构设计](/Architecture/StylePattern/2000-Roy%20Thomas%20Fielding-架构风格与基于网络的软件架构设计.md)
-      - [6.3.2 Martin Fowler 企业应用架构模式](/Architecture/StylePattern/2006-Martin%20Fowler-企业应用架构模式.md)
-      - [6.3.3 Eric 领域驱动设计：软件核心复杂性应对之道](/Architecture/StylePattern/2010-Eric-领域驱动设计：软件核心复杂性应对之道.md)
-      - [6.3.4 Vaughn Implementing Domain Driven Design](/Architecture/StylePattern/2013-Vaughn-Implementing%20Domain%20Driven%20Design.md)
-      - [6.3.5 简约之美：软件设计之道](/Architecture/StylePattern/2013-简约之美：软件设计之道.md)
-      - [6.3.6 Practical Scalability Analysis With The Universal Scalability Law](/Architecture/StylePattern/2015-Practical%20Scalability%20Analysis%20With%20The%20Universal%20Scalability%20Law.md)
-      - [6.3.7 Scott Patterns, Principles, and Practices of Domain Driven Design](/Architecture/StylePattern/2015-Scott-Patterns,%20Principles,%20and%20Practices%20of%20Domain%20Driven%20Design.md)
-      - [6.3.8 架构师 架构漫谈](/Architecture/StylePattern/2016-架构师-架构漫谈.md)
-      - [6.3.9 Martin Fowler Clean Architecture A Craftsman's Guide](/Architecture/StylePattern/2017-Martin%20Fowler-Clean%20Architecture%20A%20Craftsman's%20Guide.md)
-      - [6.3.10 Martin Fowler 架构整洁之道](/Architecture/StylePattern/2017-Martin%20Fowler-架构整洁之道.md)
-      - [6.3.11 John Ousterhout A Philosophy of Software Design](/Architecture/StylePattern/2018-John%20Ousterhout-A%20Philosophy%20of%20Software%20Design.md)
-      - [6.3.12 Martin Fowler Refactoring Improving the Design of Existing Code](/Architecture/StylePattern/2018-Martin%20Fowler-Refactoring%20Improving%20the%20Design%20of%20Existing%20Code.md)
-      - [6.3.13 面向模式的软件架构](/Architecture/StylePattern/面向模式的软件架构.md)
-  - 7 Infrastructure
-    - 7.1 Cloud
-      - [7.1.1 云计算与分布式系统， 从并行处理到物联网](/Infrastructure/Cloud/2011-云计算与分布式系统，%20从并行处理到物联网.md)
-      - [7.1.2 Cloud Native Data Center Networking](/Infrastructure/Cloud/2019-Cloud%20Native%20Data%20Center%20Networking.md)
-      - [7.1.3 Learning Dapr](/Infrastructure/Cloud/2020-Learning%20Dapr.md)
-    - 7.2 Database
-      - [7.2.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/Infrastructure/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
-      - [7.2.2 Peter Bailis Readings in Database Systems 5th](/Infrastructure/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
-      - [7.2.3 Kleppmann Designing Data Intensive Applications](/Infrastructure/Database/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
-      - 7.2.4 HBase
-        - [7.2.4.1 HBase 权威指南](/Infrastructure/Database/HBase/2011-HBase%20权威指南.md)
-      - 7.2.5 MySQL
-        - [7.2.5.1 高性能 MySQL 3rd](/Infrastructure/Database/MySQL/2013-高性能%20MySQL-3rd.md)
-        - [7.2.5.2 MySQL 5.7 Reference Manual](/Infrastructure/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
-        - [7.2.5.3 MySQL 技术内幕：InnoDB 存储引擎](/Infrastructure/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
-        - [7.2.5.4 Mysql Group Replication 官方文档](/Infrastructure/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
-        - [7.2.5.5 MySQL 实战 45 讲](/Infrastructure/Database/MySQL/2019-MySQL%20实战%2045%20讲.md)
-      - 7.2.6 Redis
-        - [7.2.6.1 Redis 入门指南](/Infrastructure/Database/Redis/2013-Redis%20入门指南.md)
-        - [7.2.6.2 Redis 设计与实现](/Infrastructure/Database/Redis/2013-Redis%20设计与实现.md)
-        - [7.2.6.3 Redis 实战](/Infrastructure/Database/Redis/2015-Redis%20实战.md)
-      - 7.2.7 Specials
-        - 7.2.7.1 Google
-          - [7.2.7.1.1 Bigtable: A Distributed Storage System for Structured Data](/Infrastructure/Database/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
-          - [7.2.7.1.2 Spanner: Google’s Globally Distributed Database](/Infrastructure/Database/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
-          - [7.2.7.1.3 F1: A Distributed SQL Database That Scales](/Infrastructure/Database/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
-          - [7.2.7.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/Infrastructure/Database/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
-    - 7.3 DistributedComputing
-      - [7.3.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/Infrastructure/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
-      - [7.3.2 分布式计算：原理、算法和系统](/Infrastructure/DistributedComputing/2008-分布式计算：原理、算法和系统.md)
-      - [7.3.3 Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](/Infrastructure/DistributedComputing/2013-Hadoop%20技术内幕：深入理解%20MapReduce%20架构设计与实现原理.md)
-      - [7.3.4 Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/Infrastructure/DistributedComputing/2013-Hadoop%20技术内幕：深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
-      - [7.3.5 Getting Started With Apache Spark](/Infrastructure/DistributedComputing/2015-Getting%20Started%20With%20Apache%20Spark.md)
-      - [7.3.6 Manning Hadoop in Practice 2nd](/Infrastructure/DistributedComputing/2015-Manning%20Hadoop%20in%20Practice-2nd.md)
-      - [7.3.7 Apache Kylin](/Infrastructure/DistributedComputing/2017-Apache%20Kylin.md)
-      - [7.3.8 Akidau Streaming Systems](/Infrastructure/DistributedComputing/2018-Akidau-Streaming%20Systems.md)
-      - [7.3.9 Flink 基础教程](/Infrastructure/DistributedComputing/2018-Flink%20基础教程.md)
-    - 7.4 DistributedSystem
-      - [7.4.1 Özsu Principles of Distributed Database Systems 3rd](/Infrastructure/DistributedSystem/2011-Özsu-Principles%20of%20Distributed%20Database%20Systems-3rd.md)
-      - [7.4.2 七周七并发模型](/Infrastructure/DistributedSystem/2013-七周七并发模型.md)
-      - [7.4.3 Concurrent Programming for Scalable Web Architectures](/Infrastructure/DistributedSystem/2015-Concurrent%20Programming%20for%20Scalable%20Web%20Architectures.md)
-      - [7.4.4 The Art of Scalability Scalable Web Architecture  2nd](/Infrastructure/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture%20-2nd.md)
-      - [7.4.5 Distributed Systems 3rd edition](/Infrastructure/DistributedSystem/2017-Distributed%20Systems-3rd%20edition.md)
-      - [7.4.6 Martin Kleppmann Designing Data Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](/Infrastructure/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.md)
-      - [7.4.7 Optimization of Distributed Crawler under Hadoop ](/Infrastructure/DistributedSystem/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
-    - 7.5 OS
-      - [7.5.1 What Every Programmer Should Know About Memory](/Infrastructure/OS/2007-What%20Every%20Programmer%20Should%20Know%20About%20Memory.md)
-      - [7.5.2 汤子瀛 计算机操作系统 3rd](/Infrastructure/OS/2007-汤子瀛-计算机操作系统-3rd.md)
-      - [7.5.3 CSAPP 2nd](/Infrastructure/OS/2011-CSAPP-2nd.md)
-      - [7.5.4 Linux Shell Scripting Cookboos](/Infrastructure/OS/2011-Linux%20Shell%20Scripting%20Cookboos.md)
-      - [7.5.5 深入理解计算机系统 2nd](/Infrastructure/OS/2011-深入理解计算机系统-2nd.md)
-      - [7.5.6 深入理解计算机系统](/Infrastructure/OS/2011-深入理解计算机系统.md)
-      - [7.5.7 How Linux Works What Every Superuser Should Know 2nd](/Infrastructure/OS/2012-How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know-2nd.md)
-      - [7.5.8 陈莉君 Linux 操作系统原理与应用 2nd](/Infrastructure/OS/2012-陈莉君-Linux%20操作系统原理与应用-2nd.md)
-      - [7.5.9 Bash Notes For Professionals](/Infrastructure/OS/2014-Bash%20Notes%20For%20Professionals.md)
-      - [7.5.10 Operating System Concepts 10th](/Infrastructure/OS/2018-Operating%20System%20Concepts-10th.md)
-      - [7.5.11 Jon Stokes Insidethe Machine](/Infrastructure/OS/2019-Jon%20Stokes-Insidethe%20Machine.md)
-  - 8 AI
-    - [8.1 美团机器学习实践](/AI/2018-美团机器学习实践.md)
-    - 8.2 Application
-      - 8.2.1 RecommendSystem
-        - [8.2.1.1 推荐系统实践篇](/AI/Application/RecommendSystem/2016-推荐系统实践篇.md)
-        - [8.2.1.2 推荐系统理论篇](/AI/Application/RecommendSystem/2016-推荐系统理论篇.md)
-        - [8.2.1.3 架构师 用户画像实践](/AI/Application/RecommendSystem/2017-架构师-用户画像实践.md)
-    - 8.3 ComputerVision
-      - [8.3.1 图像处理、分析与机器视觉 3rd](/AI/ComputerVision/2010-图像处理、分析与机器视觉-3rd.md)
-    - 8.4 DeepLearning
-      - [8.4.1 Bengio 深度学习](/AI/DeepLearning/2017-Bengio-深度学习.md)
-      - [8.4.2 魏秀参 解析卷积神经网络与深度学习实践手册](/AI/DeepLearning/2017-魏秀参-解析卷积神经网络与深度学习实践手册.md)
-      - [8.4.3 Dive into Deep Learning](/AI/DeepLearning/2019-Dive%20into%20Deep%20Learning.md)
-      - [8.4.4 Liang 机器学习笔记](/AI/DeepLearning/2019-Liang-机器学习笔记.md)
-      - [8.4.5 SteveZhu 一份简短的深度学习笔记](/AI/DeepLearning/2020-SteveZhu-一份简短的深度学习笔记.md)
-    - 8.5 MachineLearning
-      - [8.5.1 Machine Learning A Probabilistic Perspective](/AI/MachineLearning/2012-Machine%20Learning%20A%20Probabilistic%20Perspective.md)
-      - [8.5.2 Machine Learning in Action](/AI/MachineLearning/2012-Machine%20Learning%20in%20Action.md)
-      - [8.5.3 李航 统计学习方法](/AI/MachineLearning/2012-李航-统计学习方法.md)
-      - [8.5.4 DataScience From Scratch](/AI/MachineLearning/2014-DataScience-From-Scratch.md)
-      - [8.5.5 Beating Kaggle the Easy Way](/AI/MachineLearning/2015-Beating%20Kaggle%20the%20Easy%20Way.md)
-      - [8.5.6 Data Mining The Textbook](/AI/MachineLearning/2015-Data%20Mining%20The%20Textbook.md)
-      - [8.5.7 Python Data Science Essentials](/AI/MachineLearning/2015-Python%20Data%20Science%20Essentials.md)
-      - [8.5.8 Text Data Management and Analysis](/AI/MachineLearning/2015-Text%20Data%20Management%20and%20Analysis.md)
-      - [8.5.9 AndrewNG Machine Learning Yearning](/AI/MachineLearning/2016-AndrewNG-Machine%20Learning%20Yearning.md)
-      - [8.5.10 周志华 机器学习](/AI/MachineLearning/2016-周志华-机器学习.md)
-      - [8.5.11 诸葛越 百面机器学习](/AI/MachineLearning/2018-诸葛越-百面机器学习.md)
-      - [8.5.12 Liang 机器学习笔记](/AI/MachineLearning/2019-Liang-机器学习笔记.md)
-      - [8.5.13 Approaching (Almost) Any Machine Learning Problem](/AI/MachineLearning/2020-Approaching%20(Almost)%20Any%20Machine%20Learning%20Problem.md)
-    - 8.6 Mathematics
-      - [8.6.1 概率论与数理统计 4th](/AI/Mathematics/2008-概率论与数理统计-4th.md)
-      - [8.6.2 统计学完全教程](/AI/Mathematics/2008-统计学完全教程.md)
-      - [8.6.3 All of Statistics A Concise Course in Statistical Inference ](/AI/Mathematics/2010-All%20of%20Statistics-A%20Concise%20Course%20in%20Statistical%20Inference%20.md)
-      - [8.6.4 Fundamentals of Linear Algebra and Optimization](/AI/Mathematics/2017-Fundamentals%20of%20Linear%20Algebra%20and%20Optimization.md)
-      - [8.6.5 G. Casella An Introduction to Statistical Learning](/AI/Mathematics/2017-G.%20Casella-An%20Introduction%20to%20Statistical%20Learning.md)
-      - [8.6.6 Mathematics for Computer Science](/AI/Mathematics/2017-Mathematics%20for%20Computer%20Science.md)
-    - 8.7 NLP
-      - [8.7.1 A Primer on Neural Network Models for Natural Language Processing](/AI/NLP/2015-A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.md)
-      - [8.7.2 Text Data Management and Analysis](/AI/NLP/2015-Text%20Data%20Management%20and%20Analysis.md)
-      - [8.7.3 中文信息处理发展报告](/AI/NLP/2016-中文信息处理发展报告.md)
-      - [8.7.4 Li Deng Deep Learning in Natural Language Processing](/AI/NLP/2017-Li%20Deng-Deep%20Learning%20in%20Natural%20Language%20Processing.md)
-      - [8.7.5 Dan Jurafsky Speech and Language Processing 3rd](/AI/NLP/2018-Dan%20Jurafsky-Speech%20and%20Language%20Processing-3rd.md)
-  - 9 Business
-    - 9.1 产品
-      - [9.1.1 人人都是产品经理](/Business/产品/2009-人人都是产品经理.md)
-      - [9.1.2 启示录，打造用户喜爱的产品](/Business/产品/2011-启示录，打造用户喜爱的产品.md)
-      - [9.1.3 用户故事地图](/Business/产品/2016-用户故事地图.md)
-    - 9.2 创业
-      - [9.2.1 四步创业法](/Business/创业/2003-四步创业法.md)
-      - [9.2.2 埃里克 精益创业](/Business/创业/2012-埃里克-精益创业.md)
-      - [9.2.3 从 0 到 1，开启商业与未来的秘密](/Business/创业/2015-从%200%20到%201，开启商业与未来的秘密.md)
-    - 9.3 思维
-      - [9.3.1 必然](/Business/思维/2016-必然.md)
-      - [9.3.2 好战略，坏战略](/Business/思维/好战略，坏战略.md)
-      - [9.3.3 穷查理宝典](/Business/思维/穷查理宝典.md)
-      - [9.3.4 金字塔原理](/Business/思维/金字塔原理.md)
-    - 9.4 管理
-      - [9.4.1 人月神话](/Business/管理/2003-人月神话.md)
-      - [9.4.2 项目管理知识体系指南](/Business/管理/2013-项目管理知识体系指南.md)
-      - [9.4.3 波特 竞争三部曲](/Business/管理/波特-竞争三部曲.md)
-    - 9.5 经济
-      - [9.5.1 凯恩斯 国富论](/Business/经济/凯恩斯-国富论.md)
-      - [9.5.2 彼得 小岛经济学](/Business/经济/彼得-小岛经济学.md)
-      - [9.5.3 曼昆 经济学原理](/Business/经济/曼昆-经济学原理.md)
-      - [9.5.4 萨缪尔森 经济学](/Business/经济/萨缪尔森-经济学.md)
-      - [9.5.5 马克思 资本论](/Business/经济/马克思-资本论.md)
-    - 9.6 营销
-      - [9.6.1 勒庞 乌合之众](/Business/营销/勒庞-乌合之众.md)
-      - [9.6.2 格拉德威尔 引爆流行](/Business/营销/格拉德威尔-引爆流行.md)
-      - [9.6.3 菲利普·科特勒 营销管理](/Business/营销/菲利普·科特勒-营销管理.md)
-    - 9.7 设计
-      - [9.7.1 设计心理学](/Business/设计/2002-设计心理学.md)
-      - [9.7.2 Don The Design of Everyday Things](/Business/设计/2013-Don-The%20Design%20of%20Everyday%20Things.md)
-      - [9.7.3 Steve Don’t Make Me Think](/Business/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
-      - [9.7.4 设计之下，搜狐新闻客户端的用户体验设计](/Business/设计/2014-设计之下，搜狐新闻客户端的用户体验设计.md)
-    - 9.8 金融
-      - [9.8.1 投资最重要的事](/Business/金融/投资最重要的事.md)
-      - [9.8.2 金融 400 年](/Business/金融/金融%20400%20年.md)
-      - [9.8.3 金融的本质](/Business/金融/金融的本质.md)
+  - 6 Middleware
+    - 6.1 Database
+      - [6.1.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/Middleware/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
+      - [6.1.2 Peter Bailis Readings in Database Systems 5th](/Middleware/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
+      - [6.1.3 Kleppmann Designing Data Intensive Applications](/Middleware/Database/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
+      - 6.1.4 HBase
+        - [6.1.4.1 HBase 权威指南](/Middleware/Database/HBase/2011-HBase%20权威指南.md)
+      - 6.1.5 MySQL
+        - [6.1.5.1 高性能 MySQL 3rd](/Middleware/Database/MySQL/2013-高性能%20MySQL-3rd.md)
+        - [6.1.5.2 MySQL 5.7 Reference Manual](/Middleware/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
+        - [6.1.5.3 MySQL 技术内幕：InnoDB 存储引擎](/Middleware/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
+        - [6.1.5.4 Mysql Group Replication 官方文档](/Middleware/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
+        - [6.1.5.5 MySQL 实战 45 讲](/Middleware/Database/MySQL/2019-MySQL%20实战%2045%20讲.md)
+      - 6.1.6 Redis
+        - [6.1.6.1 Redis 入门指南](/Middleware/Database/Redis/2013-Redis%20入门指南.md)
+        - [6.1.6.2 Redis 设计与实现](/Middleware/Database/Redis/2013-Redis%20设计与实现.md)
+        - [6.1.6.3 Redis 实战](/Middleware/Database/Redis/2015-Redis%20实战.md)
+      - 6.1.7 Specials
+        - 6.1.7.1 Google
+          - [6.1.7.1.1 Bigtable: A Distributed Storage System for Structured Data](/Middleware/Database/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
+          - [6.1.7.1.2 Spanner: Google’s Globally Distributed Database](/Middleware/Database/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
+          - [6.1.7.1.3 F1: A Distributed SQL Database That Scales](/Middleware/Database/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
+          - [6.1.7.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/Middleware/Database/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
+    - 6.2 DistributedComputing
+      - [6.2.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/Middleware/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
+      - [6.2.2 分布式计算：原理、算法和系统](/Middleware/DistributedComputing/2008-分布式计算：原理、算法和系统.md)
+      - [6.2.3 Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](/Middleware/DistributedComputing/2013-Hadoop%20技术内幕：深入理解%20MapReduce%20架构设计与实现原理.md)
+      - [6.2.4 Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/Middleware/DistributedComputing/2013-Hadoop%20技术内幕：深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
+      - [6.2.5 Getting Started With Apache Spark](/Middleware/DistributedComputing/2015-Getting%20Started%20With%20Apache%20Spark.md)
+      - [6.2.6 Manning Hadoop in Practice 2nd](/Middleware/DistributedComputing/2015-Manning%20Hadoop%20in%20Practice-2nd.md)
+      - [6.2.7 Apache Kylin](/Middleware/DistributedComputing/2017-Apache%20Kylin.md)
+      - [6.2.8 Akidau Streaming Systems](/Middleware/DistributedComputing/2018-Akidau-Streaming%20Systems.md)
+      - [6.2.9 Flink 基础教程](/Middleware/DistributedComputing/2018-Flink%20基础教程.md)
+  - 7 Architecture
+    - 7.1 DistributedSystem
+      - [7.1.1 Özsu Principles of Distributed Database Systems 3rd](/Architecture/DistributedSystem/2011-Özsu-Principles%20of%20Distributed%20Database%20Systems-3rd.md)
+      - [7.1.2 七周七并发模型](/Architecture/DistributedSystem/2013-七周七并发模型.md)
+      - [7.1.3 Concurrent Programming for Scalable Web Architectures](/Architecture/DistributedSystem/2015-Concurrent%20Programming%20for%20Scalable%20Web%20Architectures.md)
+      - [7.1.4 The Art of Scalability Scalable Web Architecture  2nd](/Architecture/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture%20-2nd.md)
+      - [7.1.5 Distributed Systems 3rd edition](/Architecture/DistributedSystem/2017-Distributed%20Systems-3rd%20edition.md)
+      - [7.1.6 Martin Kleppmann Designing Data Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](/Architecture/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.md)
+      - [7.1.7 Optimization of Distributed Crawler under Hadoop ](/Architecture/DistributedSystem/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
+    - 7.2 HA
+      - [7.2.1 Google 构建安全可靠的系统](/Architecture/HA/2019-Google%20构建安全可靠的系统.md)
+      - [7.2.2 Building Secure & Reliable Systems](/Architecture/HA/2020-Building%20Secure%20&%20Reliable%20Systems.md)
+    - 7.3 LogicalArchitecture
+      - [7.3.1 Roy Thomas Fielding 架构风格与基于网络的软件架构设计](/Architecture/LogicalArchitecture/2000-Roy%20Thomas%20Fielding-架构风格与基于网络的软件架构设计.md)
+      - [7.3.2 Martin Fowler 企业应用架构模式](/Architecture/LogicalArchitecture/2006-Martin%20Fowler-企业应用架构模式.md)
+      - [7.3.3 Eric 领域驱动设计：软件核心复杂性应对之道](/Architecture/LogicalArchitecture/2010-Eric-领域驱动设计：软件核心复杂性应对之道.md)
+      - [7.3.4 Vaughn Implementing Domain Driven Design](/Architecture/LogicalArchitecture/2013-Vaughn-Implementing%20Domain%20Driven%20Design.md)
+      - [7.3.5 简约之美：软件设计之道](/Architecture/LogicalArchitecture/2013-简约之美：软件设计之道.md)
+      - [7.3.6 Practical Scalability Analysis With The Universal Scalability Law](/Architecture/LogicalArchitecture/2015-Practical%20Scalability%20Analysis%20With%20The%20Universal%20Scalability%20Law.md)
+      - [7.3.7 Scott Patterns, Principles, and Practices of Domain Driven Design](/Architecture/LogicalArchitecture/2015-Scott-Patterns,%20Principles,%20and%20Practices%20of%20Domain%20Driven%20Design.md)
+      - [7.3.8 架构师 架构漫谈](/Architecture/LogicalArchitecture/2016-架构师-架构漫谈.md)
+      - [7.3.9 Martin Fowler Clean Architecture A Craftsman's Guide](/Architecture/LogicalArchitecture/2017-Martin%20Fowler-Clean%20Architecture%20A%20Craftsman's%20Guide.md)
+      - [7.3.10 Martin Fowler 架构整洁之道](/Architecture/LogicalArchitecture/2017-Martin%20Fowler-架构整洁之道.md)
+      - [7.3.11 John Ousterhout A Philosophy of Software Design](/Architecture/LogicalArchitecture/2018-John%20Ousterhout-A%20Philosophy%20of%20Software%20Design.md)
+      - [7.3.12 Martin Fowler Refactoring Improving the Design of Existing Code](/Architecture/LogicalArchitecture/2018-Martin%20Fowler-Refactoring%20Improving%20the%20Design%20of%20Existing%20Code.md)
+      - [7.3.13 面向模式的软件架构](/Architecture/LogicalArchitecture/面向模式的软件架构.md)
+    - 7.4 MicroCN
+      - [7.4.1 Nginx MicroServices Reference Architecture](/Architecture/MicroCN/2017-Nginx-MicroServices%20Reference%20Architecture.md)
+      - [7.4.2 Re 从 0 开始的微服务架构](/Architecture/MicroCN/2017-Re-从%200%20开始的微服务架构.md)
+      - [7.4.3 微服务与 DevOps 内参](/Architecture/MicroCN/2017-微服务与%20DevOps%20内参.md)
+  - 8 Infrastructure
+    - 8.1 Cloud
+      - [8.1.1 云计算与分布式系统， 从并行处理到物联网](/Infrastructure/Cloud/2011-云计算与分布式系统，%20从并行处理到物联网.md)
+      - [8.1.2 Cloud Native Data Center Networking](/Infrastructure/Cloud/2019-Cloud%20Native%20Data%20Center%20Networking.md)
+      - [8.1.3 Learning Dapr](/Infrastructure/Cloud/2020-Learning%20Dapr.md)
+    - 8.2 OS
+      - [8.2.1 What Every Programmer Should Know About Memory](/Infrastructure/OS/2007-What%20Every%20Programmer%20Should%20Know%20About%20Memory.md)
+      - [8.2.2 汤子瀛 计算机操作系统 3rd](/Infrastructure/OS/2007-汤子瀛-计算机操作系统-3rd.md)
+      - [8.2.3 CSAPP 2nd](/Infrastructure/OS/2011-CSAPP-2nd.md)
+      - [8.2.4 Linux Shell Scripting Cookboos](/Infrastructure/OS/2011-Linux%20Shell%20Scripting%20Cookboos.md)
+      - [8.2.5 深入理解计算机系统 2nd](/Infrastructure/OS/2011-深入理解计算机系统-2nd.md)
+      - [8.2.6 深入理解计算机系统](/Infrastructure/OS/2011-深入理解计算机系统.md)
+      - [8.2.7 How Linux Works What Every Superuser Should Know 2nd](/Infrastructure/OS/2012-How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know-2nd.md)
+      - [8.2.8 陈莉君 Linux 操作系统原理与应用 2nd](/Infrastructure/OS/2012-陈莉君-Linux%20操作系统原理与应用-2nd.md)
+      - [8.2.9 Bash Notes For Professionals](/Infrastructure/OS/2014-Bash%20Notes%20For%20Professionals.md)
+      - [8.2.10 Operating System Concepts 10th](/Infrastructure/OS/2018-Operating%20System%20Concepts-10th.md)
+      - [8.2.11 Jon Stokes Insidethe Machine](/Infrastructure/OS/2019-Jon%20Stokes-Insidethe%20Machine.md)
+  - 9 AI
+    - [9.1 美团机器学习实践](/AI/2018-美团机器学习实践.md)
+    - 9.2 Application
+      - 9.2.1 RecommendSystem
+        - [9.2.1.1 推荐系统实践篇](/AI/Application/RecommendSystem/2016-推荐系统实践篇.md)
+        - [9.2.1.2 推荐系统理论篇](/AI/Application/RecommendSystem/2016-推荐系统理论篇.md)
+        - [9.2.1.3 架构师 用户画像实践](/AI/Application/RecommendSystem/2017-架构师-用户画像实践.md)
+    - 9.3 ComputerVision
+      - [9.3.1 图像处理、分析与机器视觉 3rd](/AI/ComputerVision/2010-图像处理、分析与机器视觉-3rd.md)
+    - 9.4 DeepLearning
+      - [9.4.1 Bengio 深度学习](/AI/DeepLearning/2017-Bengio-深度学习.md)
+      - [9.4.2 魏秀参 解析卷积神经网络与深度学习实践手册](/AI/DeepLearning/2017-魏秀参-解析卷积神经网络与深度学习实践手册.md)
+      - [9.4.3 Dive into Deep Learning](/AI/DeepLearning/2019-Dive%20into%20Deep%20Learning.md)
+      - [9.4.4 Liang 机器学习笔记](/AI/DeepLearning/2019-Liang-机器学习笔记.md)
+      - [9.4.5 SteveZhu 一份简短的深度学习笔记](/AI/DeepLearning/2020-SteveZhu-一份简短的深度学习笔记.md)
+    - 9.5 MachineLearning
+      - [9.5.1 Machine Learning A Probabilistic Perspective](/AI/MachineLearning/2012-Machine%20Learning%20A%20Probabilistic%20Perspective.md)
+      - [9.5.2 Machine Learning in Action](/AI/MachineLearning/2012-Machine%20Learning%20in%20Action.md)
+      - [9.5.3 李航 统计学习方法](/AI/MachineLearning/2012-李航-统计学习方法.md)
+      - [9.5.4 DataScience From Scratch](/AI/MachineLearning/2014-DataScience-From-Scratch.md)
+      - [9.5.5 Beating Kaggle the Easy Way](/AI/MachineLearning/2015-Beating%20Kaggle%20the%20Easy%20Way.md)
+      - [9.5.6 Data Mining The Textbook](/AI/MachineLearning/2015-Data%20Mining%20The%20Textbook.md)
+      - [9.5.7 Python Data Science Essentials](/AI/MachineLearning/2015-Python%20Data%20Science%20Essentials.md)
+      - [9.5.8 Text Data Management and Analysis](/AI/MachineLearning/2015-Text%20Data%20Management%20and%20Analysis.md)
+      - [9.5.9 AndrewNG Machine Learning Yearning](/AI/MachineLearning/2016-AndrewNG-Machine%20Learning%20Yearning.md)
+      - [9.5.10 周志华 机器学习](/AI/MachineLearning/2016-周志华-机器学习.md)
+      - [9.5.11 诸葛越 百面机器学习](/AI/MachineLearning/2018-诸葛越-百面机器学习.md)
+      - [9.5.12 Liang 机器学习笔记](/AI/MachineLearning/2019-Liang-机器学习笔记.md)
+      - [9.5.13 Approaching (Almost) Any Machine Learning Problem](/AI/MachineLearning/2020-Approaching%20(Almost)%20Any%20Machine%20Learning%20Problem.md)
+    - 9.6 Mathematics
+      - [9.6.1 概率论与数理统计 4th](/AI/Mathematics/2008-概率论与数理统计-4th.md)
+      - [9.6.2 统计学完全教程](/AI/Mathematics/2008-统计学完全教程.md)
+      - [9.6.3 All of Statistics A Concise Course in Statistical Inference ](/AI/Mathematics/2010-All%20of%20Statistics-A%20Concise%20Course%20in%20Statistical%20Inference%20.md)
+      - [9.6.4 Fundamentals of Linear Algebra and Optimization](/AI/Mathematics/2017-Fundamentals%20of%20Linear%20Algebra%20and%20Optimization.md)
+      - [9.6.5 G. Casella An Introduction to Statistical Learning](/AI/Mathematics/2017-G.%20Casella-An%20Introduction%20to%20Statistical%20Learning.md)
+      - [9.6.6 Mathematics for Computer Science](/AI/Mathematics/2017-Mathematics%20for%20Computer%20Science.md)
+    - 9.7 NLP
+      - [9.7.1 A Primer on Neural Network Models for Natural Language Processing](/AI/NLP/2015-A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.md)
+      - [9.7.2 Text Data Management and Analysis](/AI/NLP/2015-Text%20Data%20Management%20and%20Analysis.md)
+      - [9.7.3 中文信息处理发展报告](/AI/NLP/2016-中文信息处理发展报告.md)
+      - [9.7.4 Li Deng Deep Learning in Natural Language Processing](/AI/NLP/2017-Li%20Deng-Deep%20Learning%20in%20Natural%20Language%20Processing.md)
+      - [9.7.5 Dan Jurafsky Speech and Language Processing 3rd](/AI/NLP/2018-Dan%20Jurafsky-Speech%20and%20Language%20Processing-3rd.md)
+  - 10 Business
+    - 10.1 产品
+      - [10.1.1 人人都是产品经理](/Business/产品/2009-人人都是产品经理.md)
+      - [10.1.2 启示录，打造用户喜爱的产品](/Business/产品/2011-启示录，打造用户喜爱的产品.md)
+      - [10.1.3 用户故事地图](/Business/产品/2016-用户故事地图.md)
+    - 10.2 创业
+      - [10.2.1 四步创业法](/Business/创业/2003-四步创业法.md)
+      - [10.2.2 埃里克 精益创业](/Business/创业/2012-埃里克-精益创业.md)
+      - [10.2.3 从 0 到 1，开启商业与未来的秘密](/Business/创业/2015-从%200%20到%201，开启商业与未来的秘密.md)
+    - 10.3 思维
+      - [10.3.1 必然](/Business/思维/2016-必然.md)
+      - [10.3.2 好战略，坏战略](/Business/思维/好战略，坏战略.md)
+      - [10.3.3 穷查理宝典](/Business/思维/穷查理宝典.md)
+      - [10.3.4 金字塔原理](/Business/思维/金字塔原理.md)
+    - 10.4 管理
+      - [10.4.1 人月神话](/Business/管理/2003-人月神话.md)
+      - [10.4.2 项目管理知识体系指南](/Business/管理/2013-项目管理知识体系指南.md)
+      - [10.4.3 波特 竞争三部曲](/Business/管理/波特-竞争三部曲.md)
+    - 10.5 经济
+      - [10.5.1 凯恩斯 国富论](/Business/经济/凯恩斯-国富论.md)
+      - [10.5.2 彼得 小岛经济学](/Business/经济/彼得-小岛经济学.md)
+      - [10.5.3 曼昆 经济学原理](/Business/经济/曼昆-经济学原理.md)
+      - [10.5.4 萨缪尔森 经济学](/Business/经济/萨缪尔森-经济学.md)
+      - [10.5.5 马克思 资本论](/Business/经济/马克思-资本论.md)
+    - 10.6 营销
+      - [10.6.1 勒庞 乌合之众](/Business/营销/勒庞-乌合之众.md)
+      - [10.6.2 格拉德威尔 引爆流行](/Business/营销/格拉德威尔-引爆流行.md)
+      - [10.6.3 菲利普·科特勒 营销管理](/Business/营销/菲利普·科特勒-营销管理.md)
+    - 10.7 设计
+      - [10.7.1 设计心理学](/Business/设计/2002-设计心理学.md)
+      - [10.7.2 Don The Design of Everyday Things](/Business/设计/2013-Don-The%20Design%20of%20Everyday%20Things.md)
+      - [10.7.3 Steve Don’t Make Me Think](/Business/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
+      - [10.7.4 设计之下，搜狐新闻客户端的用户体验设计](/Business/设计/2014-设计之下，搜狐新闻客户端的用户体验设计.md)
+    - 10.8 金融
+      - [10.8.1 投资最重要的事](/Business/金融/投资最重要的事.md)
+      - [10.8.2 金融 400 年](/Business/金融/金融%20400%20年.md)
+      - [10.8.3 金融的本质](/Business/金融/金融的本质.md)
