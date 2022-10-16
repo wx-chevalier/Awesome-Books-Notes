@@ -56,7 +56,7 @@
       - [3.2.1 Özsu Principles of Distributed Database Systems 3rd](/分布式系统/DistributedSystem/2011-Özsu-Principles%20of%20Distributed%20Database%20Systems-3rd.md)
       - [3.2.2 七周七并发模型](/分布式系统/DistributedSystem/2013-七周七并发模型.md)
       - [3.2.3 Concurrent Programming for Scalable Web Architectures](/分布式系统/DistributedSystem/2015-Concurrent%20Programming%20for%20Scalable%20Web%20Architectures.md)
-      - [3.2.4 The Art of Scalability Scalable Web Architecture  2nd](/分布式系统/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture%20-2nd.md)
+      - [3.2.4 The Art of Scalability Scalable Web Architecture 2nd](/分布式系统/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture-2nd.md)
       - [3.2.5 Distributed Systems 3rd edition](/分布式系统/DistributedSystem/2017-Distributed%20Systems-3rd%20edition.md)
       - [3.2.6 Martin Kleppmann Designing Data Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](/分布式系统/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.md)
       - [3.2.7 Optimization of Distributed Crawler under Hadoop ](/分布式系统/DistributedSystem/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
