@@ -1,4 +1,4 @@
-# About Face 4: 交互设计精髓
+# About Face 4：交互设计精髓
 
 ![交互设计精髓](https://pic.imgdb.cn/item/63819cdb16f2c2beb1481043.jpg)
 

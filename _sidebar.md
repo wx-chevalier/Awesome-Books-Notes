@@ -70,10 +70,12 @@
       - [4.1.6 Build](/商业与产品/产品/2022-Build.md)
       - 4.1.7 设计
         - [4.1.7.1 设计心理学](/商业与产品/产品/设计/2002-设计心理学.md)
-        - [4.1.7.2 Don The Design of Everyday Things](/商业与产品/产品/设计/2013-Don-The%20Design%20of%20Everyday%20Things.md)
-        - [4.1.7.3 Steve Don’t Make Me Think](/商业与产品/产品/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
-        - [4.1.7.4 设计之下，搜狐新闻客户端的用户体验设计](/商业与产品/产品/设计/2014-设计之下，搜狐新闻客户端的用户体验设计.md)
-        - [4.1.7.5 About Face 4 交互设计精髓](/商业与产品/产品/设计/2020-About%20Face%204%20交互设计精髓.md)
+        - [4.1.7.2 点石成金：访客至上的网页设计秘笈](/商业与产品/产品/设计/2009-点石成金：访客至上的网页设计秘笈.md)
+        - [4.1.7.3 Don The Design of Everyday Things](/商业与产品/产品/设计/2013-Don-The%20Design%20of%20Everyday%20Things.md)
+        - [4.1.7.4 The Design of Everyday Things](/商业与产品/产品/设计/2013-The%20Design%20of%20Everyday%20Things.md)
+        - [4.1.7.5 Steve Don’t Make Me Think](/商业与产品/产品/设计/2014-Steve-Don’t%20Make%20Me%20Think.md)
+        - [4.1.7.6 设计之下：搜狐新闻客户端的用户体验设计](/商业与产品/产品/设计/2014-设计之下：搜狐新闻客户端的用户体验设计.md)
+        - [4.1.7.7 About Face 4: 交互设计精髓](/商业与产品/产品/设计/2020-About%20Face%204:%20交互设计精髓.md)
     - 4.2 创业
       - [4.2.1 四步创业法](/商业与产品/创业/2003-四步创业法.md)
       - [4.2.2 埃里克 精益创业](/商业与产品/创业/2012-埃里克-精益创业.md)
