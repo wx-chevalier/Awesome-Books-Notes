@@ -128,18 +128,18 @@
   - 6 大前端
     - 6.1 Android
       - [6.1.1 Gradle Recipes for Android](/大前端/Android/2016-Gradle%20Recipes%20for%20Android.md)
-    - 6.2 CGDataVis
-      - [6.2.1 The Grammar of Graphics 2nd](/大前端/CGDataVis/2005-The%20Grammar%20of%20Graphics-2nd.md)
-      - [6.2.2 Information Visualization Perception for Design](/大前端/CGDataVis/2012-Information%20Visualization%20Perception%20for%20Design.md)
-      - [6.2.3 Data Visualization with D3.js Cookbook](/大前端/CGDataVis/2013-Data%20Visualization%20with%20D3.js%20Cookbook.md)
-      - [6.2.4 The Visualization Handbook](/大前端/CGDataVis/2014-The%20Visualization%20Handbook.md)
-      - [6.2.5 Visualization Analysis & Design](/大前端/CGDataVis/2014-Visualization%20Analysis%20&%20Design.md)
+    - 6.2 CG
+      - [6.2.1 The Grammar of Graphics 2nd](/大前端/CG/2005-The%20Grammar%20of%20Graphics-2nd.md)
+      - [6.2.2 Information Visualization Perception for Design](/大前端/CG/2012-Information%20Visualization%20Perception%20for%20Design.md)
+      - [6.2.3 Data Visualization with D3.js Cookbook](/大前端/CG/2013-Data%20Visualization%20with%20D3.js%20Cookbook.md)
+      - [6.2.4 The Visualization Handbook](/大前端/CG/2014-The%20Visualization%20Handbook.md)
+      - [6.2.5 Visualization Analysis & Design](/大前端/CG/2014-Visualization%20Analysis%20&%20Design.md)
       - 6.2.6 Graphic
-        - [6.2.6.1 冈萨雷斯 数字图像处理 2nd](/大前端/CGDataVis/Graphic/2003-冈萨雷斯-数字图像处理-2nd.md)
-        - [6.2.6.2 计算机图形学及实用编程技术](/大前端/CGDataVis/Graphic/2009-计算机图形学及实用编程技术.md)
-        - [6.2.6.3 Three.js 开发指南](/大前端/CGDataVis/Graphic/2014-Three.js%20开发指南.md)
-        - [6.2.6.4 计算机图形学 3rd](/大前端/CGDataVis/Graphic/2014-计算机图形学-3rd.md)
-        - [6.2.6.5 The Blender Python API](/大前端/CGDataVis/Graphic/2017-The%20Blender%20Python%20API.md)
+        - [6.2.6.1 冈萨雷斯 数字图像处理 2nd](/大前端/CG/Graphic/2003-冈萨雷斯-数字图像处理-2nd.md)
+        - [6.2.6.2 计算机图形学及实用编程技术](/大前端/CG/Graphic/2009-计算机图形学及实用编程技术.md)
+        - [6.2.6.3 Three.js 开发指南](/大前端/CG/Graphic/2014-Three.js%20开发指南.md)
+        - [6.2.6.4 计算机图形学 3rd](/大前端/CG/Graphic/2014-计算机图形学-3rd.md)
+        - [6.2.6.5 The Blender Python API](/大前端/CG/Graphic/2017-The%20Blender%20Python%20API.md)
     - 6.3 Web
       - [6.3.1 精通 CSS 高级 Web 标准解决方案](/大前端/Web/2010-精通%20CSS%20高级%20Web%20标准解决方案.md)
       - [6.3.2 深入浅出NodeJS](/大前端/Web/2011-深入浅出NodeJS.md)
