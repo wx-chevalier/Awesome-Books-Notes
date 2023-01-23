@@ -42,24 +42,28 @@
       - [2.7.4 Li Deng Deep Learning in Natural Language Processing](/人工智能与深度学习/NLP/2017-Li%20Deng-Deep%20Learning%20in%20Natural%20Language%20Processing.md)
       - [2.7.5 Dan Jurafsky Speech and Language Processing 3rd](/人工智能与深度学习/NLP/2018-Dan%20Jurafsky-Speech%20and%20Language%20Processing-3rd.md)
   - 3 分布式系统
-    - 3.1 DistributedComputing
-      - [3.1.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/分布式系统/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
-      - [3.1.2 分布式计算：原理、算法和系统](/分布式系统/DistributedComputing/2008-分布式计算：原理、算法和系统.md)
-      - [3.1.3 Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](/分布式系统/DistributedComputing/2013-Hadoop%20技术内幕：深入理解%20MapReduce%20架构设计与实现原理.md)
-      - [3.1.4 Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/分布式系统/DistributedComputing/2013-Hadoop%20技术内幕：深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
-      - [3.1.5 Getting Started With Apache Spark](/分布式系统/DistributedComputing/2015-Getting%20Started%20With%20Apache%20Spark.md)
-      - [3.1.6 Manning Hadoop in Practice 2nd](/分布式系统/DistributedComputing/2015-Manning%20Hadoop%20in%20Practice-2nd.md)
-      - [3.1.7 Apache Kylin](/分布式系统/DistributedComputing/2017-Apache%20Kylin.md)
-      - [3.1.8 Akidau Streaming Systems](/分布式系统/DistributedComputing/2018-Akidau-Streaming%20Systems.md)
-      - [3.1.9 Flink 基础教程](/分布式系统/DistributedComputing/2018-Flink%20基础教程.md)
-    - 3.2 DistributedSystem
-      - [3.2.1 Özsu Principles of Distributed Database Systems 3rd](/分布式系统/DistributedSystem/2011-Özsu-Principles%20of%20Distributed%20Database%20Systems-3rd.md)
-      - [3.2.2 七周七并发模型](/分布式系统/DistributedSystem/2013-七周七并发模型.md)
-      - [3.2.3 Concurrent Programming for Scalable Web Architectures](/分布式系统/DistributedSystem/2015-Concurrent%20Programming%20for%20Scalable%20Web%20Architectures.md)
-      - [3.2.4 The Art of Scalability Scalable Web Architecture 2nd](/分布式系统/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture-2nd.md)
-      - [3.2.5 Distributed Systems 3rd edition](/分布式系统/DistributedSystem/2017-Distributed%20Systems-3rd%20edition.md)
-      - [3.2.6 Martin Kleppmann Designing Data Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](/分布式系统/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.md)
-      - [3.2.7 Optimization of Distributed Crawler under Hadoop ](/分布式系统/DistributedSystem/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
+    - 3.1 DataEngineering
+      - 3.1.1 DDIA
+        - [3.1.1.1 Kleppmann Designing Data Intensive Applications 中文概述](/分布式系统/DataEngineering/DDIA/2017-Kleppmann-Designing%20Data%20Intensive%20Applications-中文概述.md)
+        - [3.1.1.2 Kleppmann Designing Data Intensive Applications](/分布式系统/DataEngineering/DDIA/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
+    - 3.2 DistributedComputing
+      - [3.2.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/分布式系统/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
+      - [3.2.2 分布式计算：原理、算法和系统](/分布式系统/DistributedComputing/2008-分布式计算：原理、算法和系统.md)
+      - [3.2.3 Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](/分布式系统/DistributedComputing/2013-Hadoop%20技术内幕：深入理解%20MapReduce%20架构设计与实现原理.md)
+      - [3.2.4 Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/分布式系统/DistributedComputing/2013-Hadoop%20技术内幕：深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
+      - [3.2.5 Getting Started With Apache Spark](/分布式系统/DistributedComputing/2015-Getting%20Started%20With%20Apache%20Spark.md)
+      - [3.2.6 Manning Hadoop in Practice 2nd](/分布式系统/DistributedComputing/2015-Manning%20Hadoop%20in%20Practice-2nd.md)
+      - [3.2.7 Apache Kylin](/分布式系统/DistributedComputing/2017-Apache%20Kylin.md)
+      - [3.2.8 Akidau Streaming Systems](/分布式系统/DistributedComputing/2018-Akidau-Streaming%20Systems.md)
+      - [3.2.9 Flink 基础教程](/分布式系统/DistributedComputing/2018-Flink%20基础教程.md)
+    - 3.3 DistributedSystem
+      - [3.3.1 Özsu Principles of Distributed Database Systems 3rd](/分布式系统/DistributedSystem/2011-Özsu-Principles%20of%20Distributed%20Database%20Systems-3rd.md)
+      - [3.3.2 七周七并发模型](/分布式系统/DistributedSystem/2013-七周七并发模型.md)
+      - [3.3.3 Concurrent Programming for Scalable Web Architectures](/分布式系统/DistributedSystem/2015-Concurrent%20Programming%20for%20Scalable%20Web%20Architectures.md)
+      - [3.3.4 The Art of Scalability Scalable Web Architecture 2nd](/分布式系统/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture-2nd.md)
+      - [3.3.5 Distributed Systems 3rd edition](/分布式系统/DistributedSystem/2017-Distributed%20Systems-3rd%20edition.md)
+      - [3.3.6 Martin Kleppmann Designing Data Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](/分布式系统/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.md)
+      - [3.3.7 Optimization of Distributed Crawler under Hadoop ](/分布式系统/DistributedSystem/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
   - 4 商业与产品
     - 4.1 产品
       - [4.1.1 人人都是产品经理](/商业与产品/产品/2009-人人都是产品经理.md)
@@ -105,26 +109,26 @@
       - [4.7.2 金融 400 年](/商业与产品/金融/金融%20400%20年.md)
       - [4.7.3 金融的本质](/商业与产品/金融/金融的本质.md)
   - 5 基础架构
-    - 5.1 Cloud
-      - [5.1.1 云计算与分布式系统， 从并行处理到物联网](/基础架构/Cloud/2011-云计算与分布式系统，%20从并行处理到物联网.md)
-      - [5.1.2 Cloud Native Data Center Networking](/基础架构/Cloud/2019-Cloud%20Native%20Data%20Center%20Networking.md)
-      - [5.1.3 Learning Dapr](/基础架构/Cloud/2020-Learning%20Dapr.md)
-    - 5.2 InfoSecurity
+    - 5.1 云计算
+      - [5.1.1 云计算与分布式系统， 从并行处理到物联网](/基础架构/云计算/2011-云计算与分布式系统，%20从并行处理到物联网.md)
+      - [5.1.2 Cloud Native Data Center Networking](/基础架构/云计算/2019-Cloud%20Native%20Data%20Center%20Networking.md)
+      - [5.1.3 Learning Dapr](/基础架构/云计算/2020-Learning%20Dapr.md)
+    - 5.2 信息安全
       - 5.2.1 WebCrawler
-        - [5.2.1.1 Design and Implementation of Scalable, Fully Distributed Web Crawler for a Web Search Engine](/基础架构/InfoSecurity/WebCrawler/Design%20and%20Implementation%20of%20Scalable,%20Fully%20Distributed%20Web%20Crawler%20for%20a%20Web%20Search%20Engine.md)
-        - [5.2.1.2 Research on Detection Algorithm of Web Crawler](/基础架构/InfoSecurity/WebCrawler/Research%20on%20Detection%20Algorithm%20of%20Web%20Crawler.md)
-    - 5.3 OS
-      - [5.3.1 What Every Programmer Should Know About Memory](/基础架构/OS/2007-What%20Every%20Programmer%20Should%20Know%20About%20Memory.md)
-      - [5.3.2 汤子瀛 计算机操作系统 3rd](/基础架构/OS/2007-汤子瀛-计算机操作系统-3rd.md)
-      - [5.3.3 CSAPP 2nd](/基础架构/OS/2011-CSAPP-2nd.md)
-      - [5.3.4 Linux Shell Scripting Cookboos](/基础架构/OS/2011-Linux%20Shell%20Scripting%20Cookboos.md)
-      - [5.3.5 深入理解计算机系统 2nd](/基础架构/OS/2011-深入理解计算机系统-2nd.md)
-      - [5.3.6 深入理解计算机系统](/基础架构/OS/2011-深入理解计算机系统.md)
-      - [5.3.7 How Linux Works What Every Superuser Should Know 2nd](/基础架构/OS/2012-How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know-2nd.md)
-      - [5.3.8 陈莉君 Linux 操作系统原理与应用 2nd](/基础架构/OS/2012-陈莉君-Linux%20操作系统原理与应用-2nd.md)
-      - [5.3.9 Bash Notes For Professionals](/基础架构/OS/2014-Bash%20Notes%20For%20Professionals.md)
-      - [5.3.10 Operating System Concepts 10th](/基础架构/OS/2018-Operating%20System%20Concepts-10th.md)
-      - [5.3.11 Jon Stokes Insidethe Machine](/基础架构/OS/2019-Jon%20Stokes-Insidethe%20Machine.md)
+        - [5.2.1.1 Design and Implementation of Scalable, Fully Distributed Web Crawler for a Web Search Engine](/基础架构/信息安全/WebCrawler/Design%20and%20Implementation%20of%20Scalable,%20Fully%20Distributed%20Web%20Crawler%20for%20a%20Web%20Search%20Engine.md)
+        - [5.2.1.2 Research on Detection Algorithm of Web Crawler](/基础架构/信息安全/WebCrawler/Research%20on%20Detection%20Algorithm%20of%20Web%20Crawler.md)
+    - 5.3 操作系统
+      - [5.3.1 What Every Programmer Should Know About Memory](/基础架构/操作系统/2007-What%20Every%20Programmer%20Should%20Know%20About%20Memory.md)
+      - [5.3.2 汤子瀛 计算机操作系统 3rd](/基础架构/操作系统/2007-汤子瀛-计算机操作系统-3rd.md)
+      - [5.3.3 CSAPP 2nd](/基础架构/操作系统/2011-CSAPP-2nd.md)
+      - [5.3.4 Linux Shell Scripting Cookboos](/基础架构/操作系统/2011-Linux%20Shell%20Scripting%20Cookboos.md)
+      - [5.3.5 深入理解计算机系统 2nd](/基础架构/操作系统/2011-深入理解计算机系统-2nd.md)
+      - [5.3.6 深入理解计算机系统](/基础架构/操作系统/2011-深入理解计算机系统.md)
+      - [5.3.7 How Linux Works What Every Superuser Should Know 2nd](/基础架构/操作系统/2012-How%20Linux%20Works%20What%20Every%20Superuser%20Should%20Know-2nd.md)
+      - [5.3.8 陈莉君 Linux 操作系统原理与应用 2nd](/基础架构/操作系统/2012-陈莉君-Linux%20操作系统原理与应用-2nd.md)
+      - [5.3.9 Bash Notes For Professionals](/基础架构/操作系统/2014-Bash%20Notes%20For%20Professionals.md)
+      - [5.3.10 Operating System Concepts 10th](/基础架构/操作系统/2018-Operating%20System%20Concepts-10th.md)
+      - [5.3.11 Jon Stokes Insidethe Machine](/基础架构/操作系统/2019-Jon%20Stokes-Insidethe%20Machine.md)
   - 6 大前端
     - 6.1 Android
       - [6.1.1 Gradle Recipes for Android](/大前端/Android/2016-Gradle%20Recipes%20for%20Android.md)
@@ -178,25 +182,24 @@
     - 8.2 数据库
       - [8.2.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/服务端架构/数据库/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
       - [8.2.2 Peter Bailis Readings in Database Systems 5th](/服务端架构/数据库/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
-      - [8.2.3 Kleppmann Designing Data Intensive Applications](/服务端架构/数据库/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
-      - 8.2.4 HBase
-        - [8.2.4.1 HBase 权威指南](/服务端架构/数据库/HBase/2011-HBase%20权威指南.md)
-      - 8.2.5 MySQL
-        - [8.2.5.1 高性能 MySQL 3rd](/服务端架构/数据库/MySQL/2013-高性能%20MySQL-3rd.md)
-        - [8.2.5.2 MySQL 5.7 Reference Manual](/服务端架构/数据库/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
-        - [8.2.5.3 MySQL 技术内幕：InnoDB 存储引擎](/服务端架构/数据库/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
-        - [8.2.5.4 Mysql Group Replication 官方文档](/服务端架构/数据库/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
-        - [8.2.5.5 MySQL 实战 45 讲](/服务端架构/数据库/MySQL/2019-MySQL%20实战%2045%20讲.md)
-      - 8.2.6 Redis
-        - [8.2.6.1 Redis 入门指南](/服务端架构/数据库/Redis/2013-Redis%20入门指南.md)
-        - [8.2.6.2 Redis 设计与实现](/服务端架构/数据库/Redis/2013-Redis%20设计与实现.md)
-        - [8.2.6.3 Redis 实战](/服务端架构/数据库/Redis/2015-Redis%20实战.md)
-      - 8.2.7 Specials
-        - 8.2.7.1 Google
-          - [8.2.7.1.1 Bigtable: A Distributed Storage System for Structured Data](/服务端架构/数据库/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
-          - [8.2.7.1.2 Spanner: Google’s Globally Distributed Database](/服务端架构/数据库/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
-          - [8.2.7.1.3 F1: A Distributed SQL Database That Scales](/服务端架构/数据库/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
-          - [8.2.7.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/服务端架构/数据库/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
+      - 8.2.3 HBase
+        - [8.2.3.1 HBase 权威指南](/服务端架构/数据库/HBase/2011-HBase%20权威指南.md)
+      - 8.2.4 MySQL
+        - [8.2.4.1 高性能 MySQL 3rd](/服务端架构/数据库/MySQL/2013-高性能%20MySQL-3rd.md)
+        - [8.2.4.2 MySQL 5.7 Reference Manual](/服务端架构/数据库/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
+        - [8.2.4.3 MySQL 技术内幕：InnoDB 存储引擎](/服务端架构/数据库/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
+        - [8.2.4.4 Mysql Group Replication 官方文档](/服务端架构/数据库/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
+        - [8.2.4.5 MySQL 实战 45 讲](/服务端架构/数据库/MySQL/2019-MySQL%20实战%2045%20讲.md)
+      - 8.2.5 Redis
+        - [8.2.5.1 Redis 入门指南](/服务端架构/数据库/Redis/2013-Redis%20入门指南.md)
+        - [8.2.5.2 Redis 设计与实现](/服务端架构/数据库/Redis/2013-Redis%20设计与实现.md)
+        - [8.2.5.3 Redis 实战](/服务端架构/数据库/Redis/2015-Redis%20实战.md)
+      - 8.2.6 Specials
+        - 8.2.6.1 Google
+          - [8.2.6.1.1 Bigtable: A Distributed Storage System for Structured Data](/服务端架构/数据库/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
+          - [8.2.6.1.2 Spanner: Google’s Globally Distributed Database](/服务端架构/数据库/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
+          - [8.2.6.1.3 F1: A Distributed SQL Database That Scales](/服务端架构/数据库/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
+          - [8.2.6.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/服务端架构/数据库/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
     - 8.3 高可用系统
       - [8.3.1 Google 构建安全可靠的系统](/服务端架构/高可用系统/2019-Google%20构建安全可靠的系统.md)
       - [8.3.2 Building Secure & Reliable Systems](/服务端架构/高可用系统/2020-Building%20Secure%20&%20Reliable%20Systems.md)
