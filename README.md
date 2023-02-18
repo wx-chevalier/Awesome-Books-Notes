@@ -21,7 +21,7 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 [Awesome CS Books](https://parg.co/UpB) 是 [Awesome-Coder](https://github.com/wx-chevalier/Awesome-Coder) 系列的重要组成，笔者阅读/收集的优秀计算机科学与技术领域相关的书籍归档，以 {年份}-{作者}-{书名}-{版本} 方式命名文件，同时收集关于书籍的读书笔记，书籍的 PDF 链接会放置于读书笔记的首部。
 
-阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程，对于书籍归档的原则请参考笔者的 [IT 知识图谱与技术路线](https://wx-chevalier.github.io/home/#/perspective)。
+阅读书籍永远是最为系统的学习方式，能够帮助我们缓解过于碎片化带来的技能不连贯性与片面性；本仓库以 IT CS 相关书籍为主，同时也会包含一些著名的、有价值的公开课程，对于书籍归档的原则请参考笔者的 [IT 知识图谱与技术路线](https://ng-tech.icu/books/home/#/perspective)。
 
 为了保持对于原作者的尊重，目录条目中的链接都指向了发布网站/版权网站，所有非开源/非免费书籍皆以 :moneybag: 标识；笔者也使用 Cowtransfer 将部分书籍的 PDF 版本存放在了云端，方便读者取阅。**需要声明的是，所有的 PDF 文件皆来自网络，若有版权侵犯，请及时告知，笔者先予以道歉并会及时删除；本仓库中的文档仅用于技术共享与交流，请勿用于商业用途。** 对于阅读或者下载书籍过程中出现问题的，请参考 [Git LFS](https://git-lfs.github.com/) 或者 [Git CheatSheet](https://parg.co/UTd) 教程。
 
@@ -63,9 +63,9 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 ## Copyright & More | 延伸阅读
 
-笔者所有文章遵循[知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。您还可以前往 [NGTE Books](https://wx-chevalier.github.io/books/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
+笔者所有文章遵循[知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。您还可以前往 [NGTE Books](https://ng-tech.icu/books-gallery/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
 
-[![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://wx-chevalier.github.io/books/)
+[![NGTE Books](https://s2.ax1x.com/2020/01/18/19uXtI.png)](https://ng-tech.icu/books-gallery/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
