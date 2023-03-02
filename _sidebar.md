@@ -1,126 +1,126 @@
-  - 1 Backend [3]
-    - 1.1 Database [6]
-      - [1.1.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/Backend/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
-      - [1.1.2 Peter Bailis Readings in Database Systems 5th](/Backend/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
-      - 1.1.3 HBase [1]
-        - [1.1.3.1 HBase 权威指南](/Backend/Database/HBase/2011-HBase%20权威指南.md)
-      - 1.1.4 MySQL [5]
-        - [1.1.4.1 高性能 MySQL 3rd](/Backend/Database/MySQL/2013-高性能%20MySQL-3rd.md)
-        - [1.1.4.2 MySQL 5.7 Reference Manual](/Backend/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
-        - [1.1.4.3 MySQL 技术内幕：InnoDB 存储引擎](/Backend/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
-        - [1.1.4.4 Mysql Group Replication 官方文档](/Backend/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
-        - [1.1.4.5 MySQL 实战 45 讲](/Backend/Database/MySQL/2019-MySQL%20实战%2045%20讲.md)
-      - 1.1.5 Redis [3]
-        - [1.1.5.1 Redis 入门指南](/Backend/Database/Redis/2013-Redis%20入门指南.md)
-        - [1.1.5.2 Redis 设计与实现](/Backend/Database/Redis/2013-Redis%20设计与实现.md)
-        - [1.1.5.3 Redis 实战](/Backend/Database/Redis/2015-Redis%20实战.md)
-      - 1.1.6 Specials [1]
-        - 1.1.6.1 Google [4]
-          - [1.1.6.1.1 Bigtable: A Distributed Storage System for Structured Data](/Backend/Database/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
-          - [1.1.6.1.2 Spanner: Google’s Globally Distributed Database](/Backend/Database/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
-          - [1.1.6.1.3 F1: A Distributed SQL Database That Scales](/Backend/Database/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
-          - [1.1.6.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/Backend/Database/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
-    - 1.2 HA [3]
-      - [1.2.1 Google 构建安全可靠的系统](/Backend/HA/2019-Google%20构建安全可靠的系统.md)
-      - [1.2.2 Building Secure & Reliable Systems](/Backend/HA/2020-Building%20Secure%20&%20Reliable%20Systems.md)
-      - [1.2.3 周志明 凤凰架构](/Backend/HA/2021-周志明-凤凰架构.md)
-    - 1.3 MicroCN [3]
-      - [1.3.1 Nginx MicroServices Reference Architecture](/Backend/MicroCN/2017-Nginx-MicroServices%20Reference%20Architecture.md)
-      - [1.3.2 Re 从 0 开始的微服务架构](/Backend/MicroCN/2017-Re-从%200%20开始的微服务架构.md)
-      - [1.3.3 微服务与 DevOps 内参](/Backend/MicroCN/2017-微服务与%20DevOps%20内参.md)
-  - 2 Distributed [3]
-    - 2.1 DataEngineering [1]
-      - 2.1.1 DDIA [2]
-        - [2.1.1.1 Kleppmann Designing Data Intensive Applications 中文概述](/Distributed/DataEngineering/DDIA/2017-Kleppmann-Designing%20Data%20Intensive%20Applications-中文概述.md)
-        - [2.1.1.2 Kleppmann Designing Data Intensive Applications](/Distributed/DataEngineering/DDIA/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
-    - 2.2 DistributedComputing [9]
-      - [2.2.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/Distributed/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
-      - [2.2.2 分布式计算：原理、算法和系统](/Distributed/DistributedComputing/2008-分布式计算：原理、算法和系统.md)
-      - [2.2.3 Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](/Distributed/DistributedComputing/2013-Hadoop%20技术内幕：深入理解%20MapReduce%20架构设计与实现原理.md)
-      - [2.2.4 Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/Distributed/DistributedComputing/2013-Hadoop%20技术内幕：深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
-      - [2.2.5 Getting Started With Apache Spark](/Distributed/DistributedComputing/2015-Getting%20Started%20With%20Apache%20Spark.md)
-      - [2.2.6 Manning Hadoop in Practice 2nd](/Distributed/DistributedComputing/2015-Manning%20Hadoop%20in%20Practice-2nd.md)
-      - [2.2.7 Apache Kylin](/Distributed/DistributedComputing/2017-Apache%20Kylin.md)
-      - [2.2.8 Akidau Streaming Systems](/Distributed/DistributedComputing/2018-Akidau-Streaming%20Systems.md)
-      - [2.2.9 Flink 基础教程](/Distributed/DistributedComputing/2018-Flink%20基础教程.md)
-    - 2.3 DistributedSystem [7]
-      - [2.3.1 Özsu Principles of Distributed Database Systems 3rd](/Distributed/DistributedSystem/2011-Özsu-Principles%20of%20Distributed%20Database%20Systems-3rd.md)
-      - [2.3.2 七周七并发模型](/Distributed/DistributedSystem/2013-七周七并发模型.md)
-      - [2.3.3 Concurrent Programming for Scalable Web Architectures](/Distributed/DistributedSystem/2015-Concurrent%20Programming%20for%20Scalable%20Web%20Architectures.md)
-      - [2.3.4 The Art of Scalability Scalable Web Architecture 2nd](/Distributed/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture-2nd.md)
-      - [2.3.5 Distributed Systems 3rd edition](/Distributed/DistributedSystem/2017-Distributed%20Systems-3rd%20edition.md)
-      - [2.3.6 Martin Kleppmann Designing Data Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](/Distributed/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.md)
-      - [2.3.7 Optimization of Distributed Crawler under Hadoop ](/Distributed/DistributedSystem/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
-  - [3 INTRODUCTION](/INTRODUCTION.md)
-  - 4 Specials [2]
-    - [4.1 吴军 浪潮之巅 完整清晰版](/Specials/2011-吴军-浪潮之巅-完整清晰版.md)
-    - 4.2 Series [2]
-      - 4.2.1 InfoQ [1]
-        - [4.2.1.1 架构师 2017](/Specials/Series/InfoQ/架构师-2017.md)
-      - 4.2.2 The New Stack [13]
-        - [4.2.2.1 Applications and Microservices with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Applications%20and%20Microservices%20with%20Docker%20and%20Containers.md)
-        - [4.2.2.2 Automation and Orchestration with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Automation%20and%20Orchestration%20with%20Docker%20and%20Containers.md)
-        - [4.2.2.3 Monitoring and Management with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Monitoring%20and%20Management%20with%20Docker%20and%20Containers.md)
-        - [4.2.2.4 Networking Security and Storage with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Networking%20Security%20and%20Storage%20with%20Docker%20and%20Containers.md)
-        - [4.2.2.5 The Docker and Container Ecosystem](/Specials/Series/The%20New%20Stack/2016-The%20Docker%20and%20Container%20Ecosystem.md)
-        - [4.2.2.6 The State Of The Kubernetes Ecosystem](/Specials/Series/The%20New%20Stack/2016-The%20State%20Of%20The%20Kubernetes%20Ecosystem.md)
-        - [4.2.2.7 Use Cases For Kubernetes](/Specials/Series/The%20New%20Stack/2016-Use%20Cases%20For%20Kubernetes.md)
-        - [4.2.2.8 CI CD with Kubernetes](/Specials/Series/The%20New%20Stack/2019-CI%20CD%20with%20Kubernetes.md)
-        - [4.2.2.9 Guide To Cloud Native DevOps](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20DevOps.md)
-        - [4.2.2.10 Guide To Cloud Native Microservices](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20Microservices.md)
-        - [4.2.2.11 Guide To Serverless Technologies](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Serverless%20Technologies.md)
-        - [4.2.2.12 Kubernetes Deployment And Security Patterns](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Deployment%20And%20Security%20Patterns.md)
-        - [4.2.2.13 Kubernetes Solutions Directory](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
-  - 5 Language [4]
-    - 5.1 AlgoDS [6]
-      - [5.1.1 Knuth The Art of Computer Programming](/Language/AlgoDS/1997-Knuth-The%20Art%20of%20Computer%20Programming.md)
-      - [5.1.2 Mathematics for Computer Science](/Language/AlgoDS/2015-Mathematics%20for%20Computer%20Science.md)
-      - [5.1.3 Algorithm Design Parallel and Sequential](/Language/AlgoDS/2017-Algorithm%20Design%20Parallel%20and%20Sequential.md)
-      - [5.1.4 Antti Competitive Programmer’s Handbook](/Language/AlgoDS/2017-Antti-Competitive%20Programmer’s%20Handbook.md)
-      - [5.1.5 JeffE Algorithms](/Language/AlgoDS/2018-JeffE-Algorithms.md)
-      - [5.1.6 和小浩学算法](/Language/AlgoDS/2019-和小浩学算法.md)
-    - 5.2 DesginPattern [2]
-      - [5.2.1 Design Patterns Elements of Reusable Object Oriented Software](/Language/DesginPattern/1997-Design%20Patterns%20Elements%20of%20Reusable%20Object%20Oriented%20Software.md)
-      - [5.2.2 2019 Guru Dive into Design Patterns](/Language/DesginPattern/2019-2019-Guru-Dive%20into%20Design%20Patterns.md)
-    - 5.3 Theory [4]
-      - [5.3.1 SICP 计算机程序的构造和解释 2nd](/Language/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
-      - [5.3.2 程序员的自我修养  链接、装载与库](/Language/Theory/2009-程序员的自我修养--链接、装载与库.md)
-      - [5.3.3 Tim Stuart Understanding Computation](/Language/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
-      - [5.3.4 Rich Hickey A History of Clojure](/Language/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
-    - 5.4 Zoo [6]
-      - 5.4.1 C [1]
-        - [5.4.1.1 汇编语言](/Language/Zoo/C/2003-汇编语言.md)
-      - 5.4.2 Go [1]
-        - [5.4.2.1 Go 语言高级编程](/Language/Zoo/Go/2017-Go%20语言高级编程.md)
-      - 5.4.3 Java [11]
-        - [5.4.3.1 A Little Java A Few Patterns](/Language/Zoo/Java/2013-A%20Little%20Java%20A%20Few%20Patterns.md)
-        - [5.4.3.2 Java 8 in Action_Lambdas,Streams,and Functional Style Programming](/Language/Zoo/Java/2014-Java%208%20in%20Action_Lambdas,Streams,and%20Functional-Style%20Programming.md)
-        - [5.4.3.3 Java Performance The Definitive Guide](/Language/Zoo/Java/2014-Java%20Performance-The%20Definitive%20Guide.md)
-        - [5.4.3.4 Norman Netty in Action](/Language/Zoo/Java/2015-Norman-Netty%20in%20Action.md)
-        - [5.4.3.5 Java 面试宝典](/Language/Zoo/Java/2016-Java%20面试宝典.md)
-        - [5.4.3.6 Thinking in Java 4th](/Language/Zoo/Java/2016-Thinking%20in%20Java-4th.md)
-        - [5.4.3.7 Java 基础核心总结](/Language/Zoo/Java/2021-Java%20基础核心总结.md)
-        - 5.4.3.8 JVM [2]
-          - [5.4.3.8.1 Java 问题定位技术 书签版](/Language/Zoo/Java/JVM/2009-Java%20问题定位技术-书签版.md)
-          - [5.4.3.8.2 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/Language/Zoo/Java/JVM/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
-        - 5.4.3.9 Spring [3]
-          - [5.4.3.9.1 Apress.Apache.Tomcat.7](/Language/Zoo/Java/Spring/2011-Apress.Apache.Tomcat.7.md)
-          - [5.4.3.9.2 Apache Tomcat 7 Essentials](/Language/Zoo/Java/Spring/2012-Apache%20Tomcat%207%20Essentials.md)
-          - [5.4.3.9.3 码农小胖哥 Spring Security 实战干货](/Language/Zoo/Java/Spring/2021-码农小胖哥-Spring%20Security%20实战干货.md)
-        - 5.4.3.10 并发编程 [4]
-          - [5.4.3.10.1 Java Concurrency In Practice](/Language/Zoo/Java/并发编程/2011-Java%20Concurrency%20In%20Practice.md)
-          - [5.4.3.10.2 Java 并发编程实战](/Language/Zoo/Java/并发编程/2011-Java%20并发编程实战.md)
-          - [5.4.3.10.3 Java 并发编程的艺术](/Language/Zoo/Java/并发编程/2015-Java%20并发编程的艺术.md)
-          - [5.4.3.10.4 实战 Java 高并发程序设计](/Language/Zoo/Java/并发编程/2015-实战%20Java%20高并发程序设计.md)
-        - [5.4.3.11 阿里巴巴 Java 开发手册 v1.4.0](/Language/Zoo/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
-      - 5.4.4 JavaScript [1]
-        - [5.4.4.1 JavaScript 权威指南 6th](/Language/Zoo/JavaScript/2012-JavaScript%20权威指南-6th.md)
-      - 5.4.5 Python [2]
-        - [5.4.5.1 Python 性能分析与优化](/Language/Zoo/Python/2017-Python%20性能分析与优化.md)
-        - [5.4.5.2 Halterman Fundamentals of Python Programming](/Language/Zoo/Python/2019-Halterman-Fundamentals%20of%20Python%20Programming.md)
-      - 5.4.6 Rust [2]
-        - [5.4.6.1 The Rust Programming Language 1st](/Language/Zoo/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
-        - [5.4.6.2 The Rust Programming Language 2nd](/Language/Zoo/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
+  - 1 1.CS [4]
+    - 1.1 AlgoDS [6]
+      - [1.1.1 Knuth The Art of Computer Programming](/1.CS/AlgoDS/1997-Knuth-The%20Art%20of%20Computer%20Programming.md)
+      - [1.1.2 Mathematics for Computer Science](/1.CS/AlgoDS/2015-Mathematics%20for%20Computer%20Science.md)
+      - [1.1.3 Algorithm Design Parallel and Sequential](/1.CS/AlgoDS/2017-Algorithm%20Design%20Parallel%20and%20Sequential.md)
+      - [1.1.4 Antti Competitive Programmer’s Handbook](/1.CS/AlgoDS/2017-Antti-Competitive%20Programmer’s%20Handbook.md)
+      - [1.1.5 JeffE Algorithms](/1.CS/AlgoDS/2018-JeffE-Algorithms.md)
+      - [1.1.6 和小浩学算法](/1.CS/AlgoDS/2019-和小浩学算法.md)
+    - 1.2 DesginPattern [2]
+      - [1.2.1 Design Patterns Elements of Reusable Object Oriented Software](/1.CS/DesginPattern/1997-Design%20Patterns%20Elements%20of%20Reusable%20Object%20Oriented%20Software.md)
+      - [1.2.2 2019 Guru Dive into Design Patterns](/1.CS/DesginPattern/2019-2019-Guru-Dive%20into%20Design%20Patterns.md)
+    - 1.3 Theory [4]
+      - [1.3.1 SICP 计算机程序的构造和解释 2nd](/1.CS/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
+      - [1.3.2 程序员的自我修养  链接、装载与库](/1.CS/Theory/2009-程序员的自我修养--链接、装载与库.md)
+      - [1.3.3 Tim Stuart Understanding Computation](/1.CS/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
+      - [1.3.4 Rich Hickey A History of Clojure](/1.CS/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
+    - 1.4 Zoo [6]
+      - 1.4.1 C [1]
+        - [1.4.1.1 汇编语言](/1.CS/Zoo/C/2003-汇编语言.md)
+      - 1.4.2 Go [1]
+        - [1.4.2.1 Go 语言高级编程](/1.CS/Zoo/Go/2017-Go%20语言高级编程.md)
+      - 1.4.3 Java [11]
+        - [1.4.3.1 A Little Java A Few Patterns](/1.CS/Zoo/Java/2013-A%20Little%20Java%20A%20Few%20Patterns.md)
+        - [1.4.3.2 Java 8 in Action_Lambdas,Streams,and Functional Style Programming](/1.CS/Zoo/Java/2014-Java%208%20in%20Action_Lambdas,Streams,and%20Functional-Style%20Programming.md)
+        - [1.4.3.3 Java Performance The Definitive Guide](/1.CS/Zoo/Java/2014-Java%20Performance-The%20Definitive%20Guide.md)
+        - [1.4.3.4 Norman Netty in Action](/1.CS/Zoo/Java/2015-Norman-Netty%20in%20Action.md)
+        - [1.4.3.5 Java 面试宝典](/1.CS/Zoo/Java/2016-Java%20面试宝典.md)
+        - [1.4.3.6 Thinking in Java 4th](/1.CS/Zoo/Java/2016-Thinking%20in%20Java-4th.md)
+        - [1.4.3.7 Java 基础核心总结](/1.CS/Zoo/Java/2021-Java%20基础核心总结.md)
+        - 1.4.3.8 JVM [2]
+          - [1.4.3.8.1 Java 问题定位技术 书签版](/1.CS/Zoo/Java/JVM/2009-Java%20问题定位技术-书签版.md)
+          - [1.4.3.8.2 深入理解 Java 虚拟机：JVM 高级特性与最佳实践](/1.CS/Zoo/Java/JVM/2011-深入理解%20Java%20虚拟机：JVM%20高级特性与最佳实践.md)
+        - 1.4.3.9 Spring [3]
+          - [1.4.3.9.1 Apress.Apache.Tomcat.7](/1.CS/Zoo/Java/Spring/2011-Apress.Apache.Tomcat.7.md)
+          - [1.4.3.9.2 Apache Tomcat 7 Essentials](/1.CS/Zoo/Java/Spring/2012-Apache%20Tomcat%207%20Essentials.md)
+          - [1.4.3.9.3 码农小胖哥 Spring Security 实战干货](/1.CS/Zoo/Java/Spring/2021-码农小胖哥-Spring%20Security%20实战干货.md)
+        - 1.4.3.10 并发编程 [4]
+          - [1.4.3.10.1 Java Concurrency In Practice](/1.CS/Zoo/Java/并发编程/2011-Java%20Concurrency%20In%20Practice.md)
+          - [1.4.3.10.2 Java 并发编程实战](/1.CS/Zoo/Java/并发编程/2011-Java%20并发编程实战.md)
+          - [1.4.3.10.3 Java 并发编程的艺术](/1.CS/Zoo/Java/并发编程/2015-Java%20并发编程的艺术.md)
+          - [1.4.3.10.4 实战 Java 高并发程序设计](/1.CS/Zoo/Java/并发编程/2015-实战%20Java%20高并发程序设计.md)
+        - [1.4.3.11 阿里巴巴 Java 开发手册 v1.4.0](/1.CS/Zoo/Java/阿里巴巴%20Java%20开发手册-v1.4.0.md)
+      - 1.4.4 JavaScript [1]
+        - [1.4.4.1 JavaScript 权威指南 6th](/1.CS/Zoo/JavaScript/2012-JavaScript%20权威指南-6th.md)
+      - 1.4.5 Python [2]
+        - [1.4.5.1 Python 性能分析与优化](/1.CS/Zoo/Python/2017-Python%20性能分析与优化.md)
+        - [1.4.5.2 Halterman Fundamentals of Python Programming](/1.CS/Zoo/Python/2019-Halterman-Fundamentals%20of%20Python%20Programming.md)
+      - 1.4.6 Rust [2]
+        - [1.4.6.1 The Rust Programming Language 1st](/1.CS/Zoo/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
+        - [1.4.6.2 The Rust Programming Language 2nd](/1.CS/Zoo/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
+  - 2 Backend [3]
+    - 2.1 Database [6]
+      - [2.1.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/Backend/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
+      - [2.1.2 Peter Bailis Readings in Database Systems 5th](/Backend/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
+      - 2.1.3 HBase [1]
+        - [2.1.3.1 HBase 权威指南](/Backend/Database/HBase/2011-HBase%20权威指南.md)
+      - 2.1.4 MySQL [5]
+        - [2.1.4.1 高性能 MySQL 3rd](/Backend/Database/MySQL/2013-高性能%20MySQL-3rd.md)
+        - [2.1.4.2 MySQL 5.7 Reference Manual](/Backend/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
+        - [2.1.4.3 MySQL 技术内幕：InnoDB 存储引擎](/Backend/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
+        - [2.1.4.4 Mysql Group Replication 官方文档](/Backend/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
+        - [2.1.4.5 MySQL 实战 45 讲](/Backend/Database/MySQL/2019-MySQL%20实战%2045%20讲.md)
+      - 2.1.5 Redis [3]
+        - [2.1.5.1 Redis 入门指南](/Backend/Database/Redis/2013-Redis%20入门指南.md)
+        - [2.1.5.2 Redis 设计与实现](/Backend/Database/Redis/2013-Redis%20设计与实现.md)
+        - [2.1.5.3 Redis 实战](/Backend/Database/Redis/2015-Redis%20实战.md)
+      - 2.1.6 Specials [1]
+        - 2.1.6.1 Google [4]
+          - [2.1.6.1.1 Bigtable: A Distributed Storage System for Structured Data](/Backend/Database/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
+          - [2.1.6.1.2 Spanner: Google’s Globally Distributed Database](/Backend/Database/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
+          - [2.1.6.1.3 F1: A Distributed SQL Database That Scales](/Backend/Database/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
+          - [2.1.6.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/Backend/Database/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
+    - 2.2 HA [3]
+      - [2.2.1 Google 构建安全可靠的系统](/Backend/HA/2019-Google%20构建安全可靠的系统.md)
+      - [2.2.2 Building Secure & Reliable Systems](/Backend/HA/2020-Building%20Secure%20&%20Reliable%20Systems.md)
+      - [2.2.3 周志明 凤凰架构](/Backend/HA/2021-周志明-凤凰架构.md)
+    - 2.3 MicroCN [3]
+      - [2.3.1 Nginx MicroServices Reference Architecture](/Backend/MicroCN/2017-Nginx-MicroServices%20Reference%20Architecture.md)
+      - [2.3.2 Re 从 0 开始的微服务架构](/Backend/MicroCN/2017-Re-从%200%20开始的微服务架构.md)
+      - [2.3.3 微服务与 DevOps 内参](/Backend/MicroCN/2017-微服务与%20DevOps%20内参.md)
+  - 3 Distributed [3]
+    - 3.1 DataEngineering [1]
+      - 3.1.1 DDIA [2]
+        - [3.1.1.1 Kleppmann Designing Data Intensive Applications 中文概述](/Distributed/DataEngineering/DDIA/2017-Kleppmann-Designing%20Data%20Intensive%20Applications-中文概述.md)
+        - [3.1.1.2 Kleppmann Designing Data Intensive Applications](/Distributed/DataEngineering/DDIA/2017-Kleppmann-Designing%20Data%20Intensive%20Applications.md)
+    - 3.2 DistributedComputing [9]
+      - [3.2.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/Distributed/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
+      - [3.2.2 分布式计算：原理、算法和系统](/Distributed/DistributedComputing/2008-分布式计算：原理、算法和系统.md)
+      - [3.2.3 Hadoop 技术内幕：深入理解 MapReduce 架构设计与实现原理](/Distributed/DistributedComputing/2013-Hadoop%20技术内幕：深入理解%20MapReduce%20架构设计与实现原理.md)
+      - [3.2.4 Hadoop 技术内幕：深入解析 Hadoop Common 和 HDFS 架构设计与实现原理](/Distributed/DistributedComputing/2013-Hadoop%20技术内幕：深入解析%20Hadoop%20Common%20和%20HDFS%20架构设计与实现原理.md)
+      - [3.2.5 Getting Started With Apache Spark](/Distributed/DistributedComputing/2015-Getting%20Started%20With%20Apache%20Spark.md)
+      - [3.2.6 Manning Hadoop in Practice 2nd](/Distributed/DistributedComputing/2015-Manning%20Hadoop%20in%20Practice-2nd.md)
+      - [3.2.7 Apache Kylin](/Distributed/DistributedComputing/2017-Apache%20Kylin.md)
+      - [3.2.8 Akidau Streaming Systems](/Distributed/DistributedComputing/2018-Akidau-Streaming%20Systems.md)
+      - [3.2.9 Flink 基础教程](/Distributed/DistributedComputing/2018-Flink%20基础教程.md)
+    - 3.3 DistributedSystem [7]
+      - [3.3.1 Özsu Principles of Distributed Database Systems 3rd](/Distributed/DistributedSystem/2011-Özsu-Principles%20of%20Distributed%20Database%20Systems-3rd.md)
+      - [3.3.2 七周七并发模型](/Distributed/DistributedSystem/2013-七周七并发模型.md)
+      - [3.3.3 Concurrent Programming for Scalable Web Architectures](/Distributed/DistributedSystem/2015-Concurrent%20Programming%20for%20Scalable%20Web%20Architectures.md)
+      - [3.3.4 The Art of Scalability Scalable Web Architecture 2nd](/Distributed/DistributedSystem/2015-The%20Art%20of%20Scalability%20Scalable%20Web%20Architecture-2nd.md)
+      - [3.3.5 Distributed Systems 3rd edition](/Distributed/DistributedSystem/2017-Distributed%20Systems-3rd%20edition.md)
+      - [3.3.6 Martin Kleppmann Designing Data Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](/Distributed/DistributedSystem/2017-Martin%20Kleppmann-Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems.md)
+      - [3.3.7 Optimization of Distributed Crawler under Hadoop ](/Distributed/DistributedSystem/Optimization%20of%20Distributed%20Crawler%20under%20Hadoop%20.md)
+  - [4 INTRODUCTION](/INTRODUCTION.md)
+  - 5 Specials [2]
+    - [5.1 吴军 浪潮之巅 完整清晰版](/Specials/2011-吴军-浪潮之巅-完整清晰版.md)
+    - 5.2 Series [2]
+      - 5.2.1 InfoQ [1]
+        - [5.2.1.1 架构师 2017](/Specials/Series/InfoQ/架构师-2017.md)
+      - 5.2.2 The New Stack [13]
+        - [5.2.2.1 Applications and Microservices with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Applications%20and%20Microservices%20with%20Docker%20and%20Containers.md)
+        - [5.2.2.2 Automation and Orchestration with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Automation%20and%20Orchestration%20with%20Docker%20and%20Containers.md)
+        - [5.2.2.3 Monitoring and Management with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Monitoring%20and%20Management%20with%20Docker%20and%20Containers.md)
+        - [5.2.2.4 Networking Security and Storage with Docker and Containers](/Specials/Series/The%20New%20Stack/2016-Networking%20Security%20and%20Storage%20with%20Docker%20and%20Containers.md)
+        - [5.2.2.5 The Docker and Container Ecosystem](/Specials/Series/The%20New%20Stack/2016-The%20Docker%20and%20Container%20Ecosystem.md)
+        - [5.2.2.6 The State Of The Kubernetes Ecosystem](/Specials/Series/The%20New%20Stack/2016-The%20State%20Of%20The%20Kubernetes%20Ecosystem.md)
+        - [5.2.2.7 Use Cases For Kubernetes](/Specials/Series/The%20New%20Stack/2016-Use%20Cases%20For%20Kubernetes.md)
+        - [5.2.2.8 CI CD with Kubernetes](/Specials/Series/The%20New%20Stack/2019-CI%20CD%20with%20Kubernetes.md)
+        - [5.2.2.9 Guide To Cloud Native DevOps](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20DevOps.md)
+        - [5.2.2.10 Guide To Cloud Native Microservices](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Cloud%20Native%20Microservices.md)
+        - [5.2.2.11 Guide To Serverless Technologies](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Serverless%20Technologies.md)
+        - [5.2.2.12 Kubernetes Deployment And Security Patterns](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Deployment%20And%20Security%20Patterns.md)
+        - [5.2.2.13 Kubernetes Solutions Directory](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
   - 6 Frontend [3]
     - 6.1 Android [1]
       - [6.1.1 Gradle Recipes for Android](/Frontend/Android/2016-Gradle%20Recipes%20for%20Android.md)
