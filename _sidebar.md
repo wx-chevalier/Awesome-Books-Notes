@@ -13,13 +13,13 @@
       - [1.3.1 《软件工程：实践者的研究方法》](/1.CS/Teamwork/2009-《软件工程：实践者的研究方法》.md)
       - [1.3.2 Phodal 《Growth: 全栈增长工程师指南》](/1.CS/Teamwork/2015-Phodal-《Growth:%20全栈增长工程师指南》.md)
       - 1.3.3 Git [2]
-        - [1.3.3.1 Lynn Git Magic](/1.CS/Teamwork/Git/2007-Lynn-Git%20Magic.md)
-        - [1.3.3.2 Git Notes For Professionals](/1.CS/Teamwork/Git/2017-Git%20Notes%20For%20Professionals.md)
+        - [1.3.3.1 Lynn 《Git Magic》](/1.CS/Teamwork/Git/2007-Lynn-《Git%20Magic》.md)
+        - [1.3.3.2 《Git Notes For Professionals》](/1.CS/Teamwork/Git/2017-《Git%20Notes%20For%20Professionals》.md)
     - 1.4 Theory [4]
-      - [1.4.1 SICP 计算机程序的构造和解释 2nd](/1.CS/Theory/1996-SICP%20计算机程序的构造和解释-2nd.md)
-      - [1.4.2 程序员的自我修养  链接、装载与库](/1.CS/Theory/2009-程序员的自我修养--链接、装载与库.md)
-      - [1.4.3 Tim Stuart Understanding Computation](/1.CS/Theory/2013-Tim%20Stuart-Understanding%20Computation.md)
-      - [1.4.4 Rich Hickey A History of Clojure](/1.CS/Theory/2020-Rich%20Hickey-A%20History%20of%20Clojure.md)
+      - [1.4.1 《SICP 计算机程序的构造和解释》 2nd](/1.CS/Theory/1996-《SICP%20计算机程序的构造和解释》-2nd.md)
+      - [1.4.2 《程序员的自我修养  链接、装载与库》](/1.CS/Theory/2009-《程序员的自我修养--链接、装载与库》.md)
+      - [1.4.3 Tim Stuart 《Understanding Computation》](/1.CS/Theory/2013-Tim%20Stuart-《Understanding%20Computation》.md)
+      - [1.4.4 Rich Hickey 《A History of Clojure》](/1.CS/Theory/2020-Rich%20Hickey-《A%20History%20of%20Clojure》.md)
     - 1.5 Zoo [6]
       - 1.5.1 C [1]
         - [1.5.1.1 汇编语言](/1.CS/Zoo/C/2003-汇编语言.md)
@@ -101,7 +101,7 @@
     - 5.1 Android [1]
       - [5.1.1 Gradle Recipes for Android](/Frontend/Android/2016-Gradle%20Recipes%20for%20Android.md)
     - 5.2 CG [6]
-      - [5.2.1 The Grammar of Graphics 2nd](/Frontend/CG/2005-The%20Grammar%20of%20Graphics-2nd.md)
+      - [5.2.1 《The Grammar of Graphics》 2nd](/Frontend/CG/2005-《The%20Grammar%20of%20Graphics》-2nd.md)
       - [5.2.2 Information Visualization Perception for Design](/Frontend/CG/2012-Information%20Visualization%20Perception%20for%20Design.md)
       - [5.2.3 Data Visualization with D3.js Cookbook](/Frontend/CG/2013-Data%20Visualization%20with%20D3.js%20Cookbook.md)
       - [5.2.4 The Visualization Handbook](/Frontend/CG/2014-The%20Visualization%20Handbook.md)
@@ -113,14 +113,14 @@
         - [5.2.6.4 计算机图形学 3rd](/Frontend/CG/Graphic/2014-计算机图形学-3rd.md)
         - [5.2.6.5 The Blender Python API](/Frontend/CG/Graphic/2017-The%20Blender%20Python%20API.md)
     - 5.3 Web [8]
-      - [5.3.1 精通 CSS 高级 Web 标准解决方案](/Frontend/Web/2010-精通%20CSS%20高级%20Web%20标准解决方案.md)
-      - [5.3.2 深入浅出NodeJS](/Frontend/Web/2011-深入浅出NodeJS.md)
-      - [5.3.3 Mastering HTML and CSS](/Frontend/Web/2012-Mastering%20HTML%20and%20CSS.md)
+      - [5.3.1 《精通 CSS 高级 Web 标准解决方案》](/Frontend/Web/2010-《精通%20CSS%20高级%20Web%20标准解决方案》.md)
+      - [5.3.2 《深入浅出 NodeJS》](/Frontend/Web/2011-《深入浅出%20NodeJS》.md)
+      - [5.3.3 《Mastering HTML and CSS》](/Frontend/Web/2012-《Mastering%20HTML%20and%20CSS》.md)
       - [5.3.4 Apress.Pro.React](/Frontend/Web/2015-Apress.Pro.React.md)
       - [5.3.5 CSS Secrets. Better Solutions to Everyday Web Design Problems](/Frontend/Web/2015-CSS%20Secrets.%20Better%20Solutions%20to%20Everyday%20Web%20Design%20Problems.md)
       - [5.3.6 Cascading Style Sheets Level 2 Revision 2 Specification](/Frontend/Web/2016-Cascading%20Style%20Sheets%20Level%202%20Revision%202%20Specification.md)
       - [5.3.7 State of Vue.js report 2017 by Monterail](/Frontend/Web/2017-State%20of%20Vue.js%20report%202017%20by%20Monterail.md)
-      - [5.3.8 于航 深入浅出 WebAssembly](/Frontend/Web/2018-于航-深入浅出%20WebAssembly.md)
+      - [5.3.8 于航 《深入浅出 WebAssembly》](/Frontend/Web/2018-于航-《深入浅出%20WebAssembly》.md)
   - 6 System [4]
     - 6.1 Architecture [13]
       - [6.1.1 Roy Thomas Fielding 《架构风格与基于网络的软件架构设计》](/System/Architecture/2000-Roy%20Thomas%20Fielding-《架构风格与基于网络的软件架构设计》.md)
@@ -168,7 +168,7 @@
       - [6.4.3 微服务与 DevOps 内参](/System/MicroCN/2017-微服务与%20DevOps%20内参.md)
   - 7 Infrastructure [3]
     - 7.1 Cloud [3]
-      - [7.1.1 云计算与分布式系统， 从并行处理到物联网](/Infrastructure/Cloud/2011-云计算与分布式系统，%20从并行处理到物联网.md)
+      - [7.1.1 《云计算与分布式系统， 从并行处理到物联网》](/Infrastructure/Cloud/2011-《云计算与分布式系统，%20从并行处理到物联网》.md)
       - [7.1.2 Cloud Native Data Center Networking](/Infrastructure/Cloud/2019-Cloud%20Native%20Data%20Center%20Networking.md)
       - [7.1.3 Learning Dapr](/Infrastructure/Cloud/2020-Learning%20Dapr.md)
     - 7.2 InfoSecurity [1]
@@ -177,7 +177,7 @@
         - [7.2.1.2 Research on Detection Algorithm of Web Crawler](/Infrastructure/InfoSecurity/WebCrawler/Research%20on%20Detection%20Algorithm%20of%20Web%20Crawler.md)
     - 7.3 OS [11]
       - [7.3.1 What Every Programmer Should Know About Memory](/Infrastructure/OS/2007-What%20Every%20Programmer%20Should%20Know%20About%20Memory.md)
-      - [7.3.2 汤子瀛 计算机操作系统 3rd](/Infrastructure/OS/2007-汤子瀛-计算机操作系统-3rd.md)
+      - [7.3.2 汤子瀛 《计算机操作系统》 3rd](/Infrastructure/OS/2007-汤子瀛-《计算机操作系统》-3rd.md)
       - [7.3.3 CSAPP 2nd](/Infrastructure/OS/2011-CSAPP-2nd.md)
       - [7.3.4 Linux Shell Scripting Cookboos](/Infrastructure/OS/2011-Linux%20Shell%20Scripting%20Cookboos.md)
       - [7.3.5 深入理解计算机系统 2nd](/Infrastructure/OS/2011-深入理解计算机系统-2nd.md)
