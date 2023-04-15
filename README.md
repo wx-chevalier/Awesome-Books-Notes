@@ -63,6 +63,8 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 
 - https://www.infoq.com/Book-Review/articles/
 
+- [2021-JavaBooks ![code](https://ng-tech.icu/assets/code.svg) ![star](https://img.shields.io/github/stars/itwanger/JavaBooks)](https://github.com/itwanger/JavaBooks): 📚Java 程序员必读书单（超 1000 本 PDF，附下载地址）包括但不限于 Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个 Java 程序员构建属于自己的知识体系。
+
 ## Copyright & More | 延伸阅读
 
 笔者所有文章遵循[知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)，欢迎转载，尊重版权。您还可以前往 [NGTE Books](https://ng-tech.icu/books-gallery/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
