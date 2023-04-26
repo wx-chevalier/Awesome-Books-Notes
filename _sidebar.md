@@ -254,12 +254,11 @@
       - [9.2.2 Peter Bailis Readings in Database Systems 5th](/System/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
       - 9.2.3 HBase [1]
         - [9.2.3.1 《HBase 权威指南》](/System/Database/HBase/2011-《HBase%20权威指南》.md)
-      - 9.2.4 MySQL [5]
+      - 9.2.4 MySQL [4]
         - [9.2.4.1 高性能 MySQL 3rd](/System/Database/MySQL/2013-高性能%20MySQL-3rd.md)
         - [9.2.4.2 MySQL 5.7 Reference Manual](/System/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
         - [9.2.4.3 MySQL 技术内幕：InnoDB 存储引擎](/System/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
         - [9.2.4.4 Mysql Group Replication 官方文档](/System/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
-        - [9.2.4.5 MySQL 实战 45 讲](/System/Database/MySQL/2019-MySQL%20实战%2045%20讲.md)
       - 9.2.5 Redis [3]
         - [9.2.5.1 Redis 入门指南](/System/Database/Redis/2013-Redis%20入门指南.md)
         - [9.2.5.2 Redis 设计与实现](/System/Database/Redis/2013-Redis%20设计与实现.md)
