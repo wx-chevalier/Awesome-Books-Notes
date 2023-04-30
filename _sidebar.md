@@ -216,7 +216,7 @@
       - [7.3.10 Operating System Concepts 10th](/Infrastructure/OS/2018-Operating%20System%20Concepts-10th.md)
       - [7.3.11 Jon Stokes 《Insidethe Machine》](/Infrastructure/OS/2019-Jon%20Stokes-《Insidethe%20Machine》.md)
   - 8 Specials [2]
-    - [8.1 吴军 浪潮之巅 完整清晰版](/Specials/2011-吴军-浪潮之巅-完整清晰版.md)
+    - [8.1 吴军 《浪潮之巅》](/Specials/2011-吴军-《浪潮之巅》.md)
     - 8.2 Series [2]
       - 8.2.1 InfoQ [1]
         - [8.2.1.1 架构师 2017](/Specials/Series/InfoQ/架构师-2017.md)
