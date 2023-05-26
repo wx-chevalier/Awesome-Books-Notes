@@ -1,4 +1,4 @@
-  - 1 01.CS [5]
+  - 1 01.CS [6]
     - 1.1 AlgoDS [6]
       - [1.1.1 Knuth 《The Art of Computer Programming》](/01.CS/AlgoDS/1997-Knuth-《The%20Art%20of%20Computer%20Programming》.md)
       - [1.1.2 《Mathematics for Computer Science》](/01.CS/AlgoDS/2015-《Mathematics%20for%20Computer%20Science》.md)
@@ -43,17 +43,25 @@
       - 1.3.6 Rust [2]
         - [1.3.6.1 The Rust Programming Language 1st](/01.CS/Language/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
         - [1.3.6.2 The Rust Programming Language 2nd](/01.CS/Language/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
-    - 1.4 Teamwork [3]
-      - [1.4.1 《软件工程：实践者的研究方法》](/01.CS/Teamwork/2009-《软件工程：实践者的研究方法》.md)
-      - [1.4.2 Phodal 《Growth: 全栈增长工程师指南》](/01.CS/Teamwork/2015-Phodal-《Growth:%20全栈增长工程师指南》.md)
-      - 1.4.3 Git [2]
-        - [1.4.3.1 Lynn 《Git Magic》](/01.CS/Teamwork/Git/2007-Lynn-《Git%20Magic》.md)
-        - [1.4.3.2 《Git Notes For Professionals》](/01.CS/Teamwork/Git/2017-《Git%20Notes%20For%20Professionals》.md)
-    - 1.5 Theory [4]
-      - [1.5.1 《SICP 计算机程序的构造和解释》 2nd](/01.CS/Theory/1996-《SICP%20计算机程序的构造和解释》-2nd.md)
-      - [1.5.2 《程序员的自我修养  链接、装载与库》](/01.CS/Theory/2009-《程序员的自我修养--链接、装载与库》.md)
-      - [1.5.3 Tim Stuart 《Understanding Computation》](/01.CS/Theory/2013-Tim%20Stuart-《Understanding%20Computation》.md)
-      - [1.5.4 Rich Hickey 《A History of Clojure》](/01.CS/Theory/2020-Rich%20Hickey-《A%20History%20of%20Clojure》.md)
+    - 1.4 Mathematics [7]
+      - [1.4.1 《概率论与数理统计》 4th](/01.CS/Mathematics/2008-《概率论与数理统计》-4th.md)
+      - [1.4.2 《统计学完全教程》](/01.CS/Mathematics/2008-《统计学完全教程》.md)
+      - [1.4.3 《All of Statistics A Concise Course in Statistical Inference》](/01.CS/Mathematics/2010-《All%20of%20Statistics-A%20Concise%20Course%20in%20Statistical%20Inference》.md)
+      - [1.4.4 《2013 Everything You Always Wanted To Know About Mathematics》](/01.CS/Mathematics/2013-《2013-Everything%20You%20Always%20Wanted%20To%20Know%20About%20Mathematics》.md)
+      - [1.4.5 G. Casella 《An Introduction to Statistical Learning》](/01.CS/Mathematics/2017-G.%20Casella-《An%20Introduction%20to%20Statistical%20Learning》.md)
+      - [1.4.6 《Fundamentals of Linear Algebra and Optimization》](/01.CS/Mathematics/2017-《Fundamentals%20of%20Linear%20Algebra%20and%20Optimization》.md)
+      - [1.4.7 《Mathematics for Computer Science》](/01.CS/Mathematics/2017-《Mathematics%20for%20Computer%20Science》.md)
+    - 1.5 Teamwork [3]
+      - [1.5.1 《软件工程：实践者的研究方法》](/01.CS/Teamwork/2009-《软件工程：实践者的研究方法》.md)
+      - [1.5.2 Phodal 《Growth: 全栈增长工程师指南》](/01.CS/Teamwork/2015-Phodal-《Growth:%20全栈增长工程师指南》.md)
+      - 1.5.3 Git [2]
+        - [1.5.3.1 Lynn 《Git Magic》](/01.CS/Teamwork/Git/2007-Lynn-《Git%20Magic》.md)
+        - [1.5.3.2 《Git Notes For Professionals》](/01.CS/Teamwork/Git/2017-《Git%20Notes%20For%20Professionals》.md)
+    - 1.6 Theory [4]
+      - [1.6.1 《SICP 计算机程序的构造和解释》 2nd](/01.CS/Theory/1996-《SICP%20计算机程序的构造和解释》-2nd.md)
+      - [1.6.2 《程序员的自我修养  链接、装载与库》](/01.CS/Theory/2009-《程序员的自我修养--链接、装载与库》.md)
+      - [1.6.3 Tim Stuart 《Understanding Computation》](/01.CS/Theory/2013-Tim%20Stuart-《Understanding%20Computation》.md)
+      - [1.6.4 Rich Hickey 《A History of Clojure》](/01.CS/Theory/2020-Rich%20Hickey-《A%20History%20of%20Clojure》.md)
   - 2 02.Frontend [3]
     - 2.1 Android [1]
       - [2.1.1 Gradle Recipes for Android](/02.Frontend/Android/2016-Gradle%20Recipes%20for%20Android.md)
@@ -78,7 +86,7 @@
       - [2.3.6 《Cascading Style Sheets Level 2 Revision 2 Specification》](/02.Frontend/Web/2016-《Cascading%20Style%20Sheets%20Level%202%20Revision%202%20Specification》.md)
       - [2.3.7 Monterail 《State of Vue.js report》](/02.Frontend/Web/2017-Monterail-《State%20of%20Vue.js%20report》.md)
       - [2.3.8 于航 《深入浅出 WebAssembly》](/02.Frontend/Web/2018-于航-《深入浅出%20WebAssembly》.md)
-  - 3 AI [7]
+  - 3 AI [6]
     - [3.1 《美团机器学习实践》](/AI/2018-《美团机器学习实践》.md)
     - 3.2 Application [1]
       - 3.2.1 RecommendSystem [3]
@@ -107,19 +115,12 @@
       - [3.5.11 诸葛越 《百面机器学习》](/AI/MachineLearning/2018-诸葛越-《百面机器学习》.md)
       - [3.5.12 Liang 《机器学习笔记》](/AI/MachineLearning/2019-Liang-《机器学习笔记》.md)
       - [3.5.13 《Approaching (Almost) Any Machine Learning Problem》](/AI/MachineLearning/2020-《Approaching%20(Almost)%20Any%20Machine%20Learning%20Problem》.md)
-    - 3.6 Mathematics [6]
-      - [3.6.1 《概率论与数理统计》 4th](/AI/Mathematics/2008-《概率论与数理统计》-4th.md)
-      - [3.6.2 《统计学完全教程》](/AI/Mathematics/2008-《统计学完全教程》.md)
-      - [3.6.3 《All of Statistics A Concise Course in Statistical Inference》](/AI/Mathematics/2010-《All%20of%20Statistics-A%20Concise%20Course%20in%20Statistical%20Inference》.md)
-      - [3.6.4 G. Casella 《An Introduction to Statistical Learning》](/AI/Mathematics/2017-G.%20Casella-《An%20Introduction%20to%20Statistical%20Learning》.md)
-      - [3.6.5 《Fundamentals of Linear Algebra and Optimization》](/AI/Mathematics/2017-《Fundamentals%20of%20Linear%20Algebra%20and%20Optimization》.md)
-      - [3.6.6 《Mathematics for Computer Science》](/AI/Mathematics/2017-《Mathematics%20for%20Computer%20Science》.md)
-    - 3.7 NLP [5]
-      - [3.7.1 《A Primer on Neural Network Models for Natural Language Processing》](/AI/NLP/2015-《A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing》.md)
-      - [3.7.2 《Text Data Management and Analysis》](/AI/NLP/2015-《Text%20Data%20Management%20and%20Analysis》.md)
-      - [3.7.3 《中文信息处理发展报告》](/AI/NLP/2016-《中文信息处理发展报告》.md)
-      - [3.7.4 Li Deng 《Deep Learning in Natural Language Processing》](/AI/NLP/2017-Li%20Deng-《Deep%20Learning%20in%20Natural%20Language%20Processing》.md)
-      - [3.7.5 Dan Jurafsky 《Speech and Language Processing》 3rd](/AI/NLP/2018-Dan%20Jurafsky-《Speech%20and%20Language%20Processing》-3rd.md)
+    - 3.6 NLP [5]
+      - [3.6.1 《A Primer on Neural Network Models for Natural Language Processing》](/AI/NLP/2015-《A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing》.md)
+      - [3.6.2 《Text Data Management and Analysis》](/AI/NLP/2015-《Text%20Data%20Management%20and%20Analysis》.md)
+      - [3.6.3 《中文信息处理发展报告》](/AI/NLP/2016-《中文信息处理发展报告》.md)
+      - [3.6.4 Li Deng 《Deep Learning in Natural Language Processing》](/AI/NLP/2017-Li%20Deng-《Deep%20Learning%20in%20Natural%20Language%20Processing》.md)
+      - [3.6.5 Dan Jurafsky 《Speech and Language Processing》 3rd](/AI/NLP/2018-Dan%20Jurafsky-《Speech%20and%20Language%20Processing》-3rd.md)
   - 4 Business [7]
     - 4.1 产品 [8]
       - [4.1.1 《人人都是产品经理》](/Business/产品/2009-《人人都是产品经理》.md)
