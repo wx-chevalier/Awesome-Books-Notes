@@ -43,7 +43,7 @@
       - 1.3.6 Rust [2]
         - [1.3.6.1 The Rust Programming Language 1st](/01.CS/Language/Rust/2015-The%20Rust%20Programming%20Language-1st.md)
         - [1.3.6.2 The Rust Programming Language 2nd](/01.CS/Language/Rust/2017-The%20Rust%20Programming%20Language-2nd.md)
-    - 1.4 Mathematics [7]
+    - 1.4 Mathematics [8]
       - [1.4.1 《概率论与数理统计》 4th](/01.CS/Mathematics/2008-《概率论与数理统计》-4th.md)
       - [1.4.2 《统计学完全教程》](/01.CS/Mathematics/2008-《统计学完全教程》.md)
       - [1.4.3 《All of Statistics A Concise Course in Statistical Inference》](/01.CS/Mathematics/2010-《All%20of%20Statistics-A%20Concise%20Course%20in%20Statistical%20Inference》.md)
@@ -51,6 +51,7 @@
       - [1.4.5 G. Casella 《An Introduction to Statistical Learning》](/01.CS/Mathematics/2017-G.%20Casella-《An%20Introduction%20to%20Statistical%20Learning》.md)
       - [1.4.6 《Fundamentals of Linear Algebra and Optimization》](/01.CS/Mathematics/2017-《Fundamentals%20of%20Linear%20Algebra%20and%20Optimization》.md)
       - [1.4.7 《Mathematics for Computer Science》](/01.CS/Mathematics/2017-《Mathematics%20for%20Computer%20Science》.md)
+      - [1.4.8 《同构：编程中的数学》](/01.CS/Mathematics/2022-《同构：编程中的数学》.md)
     - 1.5 Teamwork [3]
       - [1.5.1 《软件工程：实践者的研究方法》](/01.CS/Teamwork/2009-《软件工程：实践者的研究方法》.md)
       - [1.5.2 Phodal 《Growth: 全栈增长工程师指南》](/01.CS/Teamwork/2015-Phodal-《Growth:%20全栈增长工程师指南》.md)
