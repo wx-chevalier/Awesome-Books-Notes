@@ -236,49 +236,50 @@
         - [8.2.2.11 Guide To Serverless Technologies](/Specials/Series/The%20New%20Stack/2019-Guide%20To%20Serverless%20Technologies.md)
         - [8.2.2.12 Kubernetes Deployment And Security Patterns](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Deployment%20And%20Security%20Patterns.md)
         - [8.2.2.13 Kubernetes Solutions Directory](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
-  - 9 System [5]
-    - 9.1 Architecture [13]
-      - [9.1.1 Roy Thomas Fielding 《架构风格与基于网络的软件架构设计》](/System/Architecture/2000-Roy%20Thomas%20Fielding-《架构风格与基于网络的软件架构设计》.md)
-      - [9.1.2 Martin Fowler 《企业应用架构模式》](/System/Architecture/2006-Martin%20Fowler-《企业应用架构模式》.md)
-      - [9.1.3 Eric 领域驱动设计：软件核心复杂性应对之道](/System/Architecture/2010-Eric-领域驱动设计：软件核心复杂性应对之道.md)
-      - [9.1.4 Vaughn Implementing Domain Driven Design](/System/Architecture/2013-Vaughn-Implementing%20Domain%20Driven%20Design.md)
-      - [9.1.5 简约之美：软件设计之道](/System/Architecture/2013-简约之美：软件设计之道.md)
-      - [9.1.6 Practical Scalability Analysis With The Universal Scalability Law](/System/Architecture/2015-Practical%20Scalability%20Analysis%20With%20The%20Universal%20Scalability%20Law.md)
-      - [9.1.7 Scott Patterns, Principles, and Practices of Domain Driven Design](/System/Architecture/2015-Scott-Patterns,%20Principles,%20and%20Practices%20of%20Domain%20Driven%20Design.md)
-      - [9.1.8 架构师 架构漫谈](/System/Architecture/2016-架构师-架构漫谈.md)
-      - [9.1.9 Martin Fowler 《Clean Architecture A Craftsman's Guide》](/System/Architecture/2017-Martin%20Fowler-《Clean%20Architecture%20A%20Craftsman's%20Guide》.md)
-      - [9.1.10 Martin Fowler 《架构整洁之道》](/System/Architecture/2017-Martin%20Fowler-《架构整洁之道》.md)
-      - [9.1.11 John Ousterhout 《A Philosophy of Software Design》](/System/Architecture/2018-John%20Ousterhout-《A%20Philosophy%20of%20Software%20Design》.md)
-      - [9.1.12 Martin Fowler 《Refactoring Improving the Design of Existing Code》](/System/Architecture/2018-Martin%20Fowler-《Refactoring%20Improving%20the%20Design%20of%20Existing%20Code》.md)
-      - [9.1.13 面向模式的软件架构](/System/Architecture/面向模式的软件架构.md)
-    - 9.2 Database [6]
-      - [9.2.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/System/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
-      - [9.2.2 Peter Bailis Readings in Database Systems 5th](/System/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
-      - 9.2.3 HBase [1]
-        - [9.2.3.1 《HBase 权威指南》](/System/Database/HBase/2011-《HBase%20权威指南》.md)
-      - 9.2.4 MySQL [4]
-        - [9.2.4.1 高性能 MySQL 3rd](/System/Database/MySQL/2013-高性能%20MySQL-3rd.md)
-        - [9.2.4.2 MySQL 5.7 Reference Manual](/System/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
-        - [9.2.4.3 MySQL 技术内幕：InnoDB 存储引擎](/System/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
-        - [9.2.4.4 Mysql Group Replication 官方文档](/System/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
-      - 9.2.5 Redis [3]
-        - [9.2.5.1 Redis 入门指南](/System/Database/Redis/2013-Redis%20入门指南.md)
-        - [9.2.5.2 Redis 设计与实现](/System/Database/Redis/2013-Redis%20设计与实现.md)
-        - [9.2.5.3 Redis 实战](/System/Database/Redis/2015-Redis%20实战.md)
-      - 9.2.6 Specials [1]
-        - 9.2.6.1 Google [4]
-          - [9.2.6.1.1 Bigtable: A Distributed Storage System for Structured Data](/System/Database/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
-          - [9.2.6.1.2 Spanner: Google’s Globally Distributed Database](/System/Database/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
-          - [9.2.6.1.3 F1: A Distributed SQL Database That Scales](/System/Database/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
-          - [9.2.6.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/System/Database/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
-    - 9.3 HA [4]
-      - [9.3.1 《Site Reliability Engineering   How Google Runs Production Systems》](/System/HA/2016-《Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems》.md)
-      - [9.3.2 《Google 构建安全可靠的系统》](/System/HA/2019-《Google%20构建安全可靠的系统》.md)
-      - [9.3.3 《Building Secure & Reliable Systems》](/System/HA/2020-《Building%20Secure%20&%20Reliable%20Systems》.md)
-      - [9.3.4 周志明 《凤凰架构》](/System/HA/2021-周志明-《凤凰架构》.md)
-    - 9.4 MicroCN [3]
-      - [9.4.1 Nginx MicroServices Reference Architecture](/System/MicroCN/2017-Nginx-MicroServices%20Reference%20Architecture.md)
-      - [9.4.2 Re 从 0 开始的微服务架构](/System/MicroCN/2017-Re-从%200%20开始的微服务架构.md)
-      - [9.4.3 微服务与 DevOps 内参](/System/MicroCN/2017-微服务与%20DevOps%20内参.md)
-    - 9.5 SoftwareEngineering [1]
-      - [9.5.1 《人月神话》](/System/SoftwareEngineering/2003-《人月神话》.md)
+  - 9 System [6]
+    - [9.1 ByteByteGo System Design Interview   An Insider's Guide book](/System/2021-ByteByteGo-System%20Design%20Interview%20-%20An%20Insider's%20Guide%20book.md)
+    - 9.2 Architecture [13]
+      - [9.2.1 Roy Thomas Fielding 《架构风格与基于网络的软件架构设计》](/System/Architecture/2000-Roy%20Thomas%20Fielding-《架构风格与基于网络的软件架构设计》.md)
+      - [9.2.2 Martin Fowler 《企业应用架构模式》](/System/Architecture/2006-Martin%20Fowler-《企业应用架构模式》.md)
+      - [9.2.3 Eric 领域驱动设计：软件核心复杂性应对之道](/System/Architecture/2010-Eric-领域驱动设计：软件核心复杂性应对之道.md)
+      - [9.2.4 Vaughn Implementing Domain Driven Design](/System/Architecture/2013-Vaughn-Implementing%20Domain%20Driven%20Design.md)
+      - [9.2.5 简约之美：软件设计之道](/System/Architecture/2013-简约之美：软件设计之道.md)
+      - [9.2.6 Practical Scalability Analysis With The Universal Scalability Law](/System/Architecture/2015-Practical%20Scalability%20Analysis%20With%20The%20Universal%20Scalability%20Law.md)
+      - [9.2.7 Scott Patterns, Principles, and Practices of Domain Driven Design](/System/Architecture/2015-Scott-Patterns,%20Principles,%20and%20Practices%20of%20Domain%20Driven%20Design.md)
+      - [9.2.8 架构师 架构漫谈](/System/Architecture/2016-架构师-架构漫谈.md)
+      - [9.2.9 Martin Fowler 《Clean Architecture A Craftsman's Guide》](/System/Architecture/2017-Martin%20Fowler-《Clean%20Architecture%20A%20Craftsman's%20Guide》.md)
+      - [9.2.10 Martin Fowler 《架构整洁之道》](/System/Architecture/2017-Martin%20Fowler-《架构整洁之道》.md)
+      - [9.2.11 John Ousterhout 《A Philosophy of Software Design》](/System/Architecture/2018-John%20Ousterhout-《A%20Philosophy%20of%20Software%20Design》.md)
+      - [9.2.12 Martin Fowler 《Refactoring Improving the Design of Existing Code》](/System/Architecture/2018-Martin%20Fowler-《Refactoring%20Improving%20the%20Design%20of%20Existing%20Code》.md)
+      - [9.2.13 面向模式的软件架构](/System/Architecture/面向模式的软件架构.md)
+    - 9.3 Database [6]
+      - [9.3.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/System/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
+      - [9.3.2 Peter Bailis Readings in Database Systems 5th](/System/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
+      - 9.3.3 HBase [1]
+        - [9.3.3.1 《HBase 权威指南》](/System/Database/HBase/2011-《HBase%20权威指南》.md)
+      - 9.3.4 MySQL [4]
+        - [9.3.4.1 高性能 MySQL 3rd](/System/Database/MySQL/2013-高性能%20MySQL-3rd.md)
+        - [9.3.4.2 MySQL 5.7 Reference Manual](/System/Database/MySQL/2016-MySQL%205.7%20Reference%20Manual.md)
+        - [9.3.4.3 MySQL 技术内幕：InnoDB 存储引擎](/System/Database/MySQL/2017-MySQL%20技术内幕：InnoDB%20存储引擎.md)
+        - [9.3.4.4 Mysql Group Replication 官方文档](/System/Database/MySQL/2017-Mysql%20Group%20Replication%20官方文档.md)
+      - 9.3.5 Redis [3]
+        - [9.3.5.1 Redis 入门指南](/System/Database/Redis/2013-Redis%20入门指南.md)
+        - [9.3.5.2 Redis 设计与实现](/System/Database/Redis/2013-Redis%20设计与实现.md)
+        - [9.3.5.3 Redis 实战](/System/Database/Redis/2015-Redis%20实战.md)
+      - 9.3.6 Specials [1]
+        - 9.3.6.1 Google [4]
+          - [9.3.6.1.1 Bigtable: A Distributed Storage System for Structured Data](/System/Database/Specials/Google/2006-Bigtable:%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.md)
+          - [9.3.6.1.2 Spanner: Google’s Globally Distributed Database](/System/Database/Specials/Google/2012-Spanner:%20Google’s%20Globally-Distributed%20Database.md)
+          - [9.3.6.1.3 F1: A Distributed SQL Database That Scales](/System/Database/Specials/Google/2013-F1:%20A%20Distributed%20SQL%20Database%20That%20Scales.md)
+          - [9.3.6.1.4 Google 经典 BigTable, Spanner, F1 论文笔记](/System/Database/Specials/Google/Google%20经典%20BigTable,%20Spanner,%20F1%20论文笔记.md)
+    - 9.4 HA [4]
+      - [9.4.1 《Site Reliability Engineering   How Google Runs Production Systems》](/System/HA/2016-《Site%20Reliability%20Engineering%20-%20How%20Google%20Runs%20Production%20Systems》.md)
+      - [9.4.2 《Google 构建安全可靠的系统》](/System/HA/2019-《Google%20构建安全可靠的系统》.md)
+      - [9.4.3 《Building Secure & Reliable Systems》](/System/HA/2020-《Building%20Secure%20&%20Reliable%20Systems》.md)
+      - [9.4.4 周志明 《凤凰架构》](/System/HA/2021-周志明-《凤凰架构》.md)
+    - 9.5 MicroCN [3]
+      - [9.5.1 Nginx MicroServices Reference Architecture](/System/MicroCN/2017-Nginx-MicroServices%20Reference%20Architecture.md)
+      - [9.5.2 Re 从 0 开始的微服务架构](/System/MicroCN/2017-Re-从%200%20开始的微服务架构.md)
+      - [9.5.3 微服务与 DevOps 内参](/System/MicroCN/2017-微服务与%20DevOps%20内参.md)
+    - 9.6 SoftwareEngineering [1]
+      - [9.6.1 《人月神话》](/System/SoftwareEngineering/2003-《人月神话》.md)
