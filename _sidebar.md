@@ -66,18 +66,20 @@
   - 2 02.Frontend [3]
     - 2.1 Android [1]
       - [2.1.1 《Gradle Recipes for Android》](/02.Frontend/Android/2016-《Gradle%20Recipes%20for%20Android》.md)
-    - 2.2 CG [6]
+    - 2.2 CG [8]
       - [2.2.1 《The Grammar of Graphics》 2nd](/02.Frontend/CG/2005-《The%20Grammar%20of%20Graphics》-2nd.md)
       - [2.2.2 《Information Visualization Perception for Design》](/02.Frontend/CG/2012-《Information%20Visualization%20Perception%20for%20Design》.md)
       - [2.2.3 《Data Visualization with D3.js Cookbook》](/02.Frontend/CG/2013-《Data%20Visualization%20with%20D3.js%20Cookbook》.md)
       - [2.2.4 《The Visualization Handbook》](/02.Frontend/CG/2014-《The%20Visualization%20Handbook》.md)
       - [2.2.5 《Visualization Analysis & Design》](/02.Frontend/CG/2014-《Visualization%20Analysis%20&%20Design》.md)
-      - 2.2.6 Graphic [5]
-        - [2.2.6.1 冈萨雷斯 数字图像处理 2nd](/02.Frontend/CG/Graphic/2003-冈萨雷斯-数字图像处理-2nd.md)
-        - [2.2.6.2 计算机图形学及实用编程技术](/02.Frontend/CG/Graphic/2009-计算机图形学及实用编程技术.md)
-        - [2.2.6.3 Three.js 开发指南](/02.Frontend/CG/Graphic/2014-Three.js%20开发指南.md)
-        - [2.2.6.4 计算机图形学 3rd](/02.Frontend/CG/Graphic/2014-计算机图形学-3rd.md)
-        - [2.2.6.5 The Blender Python API](/02.Frontend/CG/Graphic/2017-The%20Blender%20Python%20API.md)
+      - 2.2.6 Blender [1]
+        - [2.2.6.1 The Blender Python API](/02.Frontend/CG/Blender/2017-The%20Blender%20Python%20API.md)
+      - 2.2.7 Graphic [3]
+        - [2.2.7.1 冈萨雷斯 数字图像处理 2nd](/02.Frontend/CG/Graphic/2003-冈萨雷斯-数字图像处理-2nd.md)
+        - [2.2.7.2 计算机图形学及实用编程技术](/02.Frontend/CG/Graphic/2009-计算机图形学及实用编程技术.md)
+        - [2.2.7.3 计算机图形学 3rd](/02.Frontend/CG/Graphic/2014-计算机图形学-3rd.md)
+      - 2.2.8 Three.js [1]
+        - [2.2.8.1 《Three.js 开发指南》](/02.Frontend/CG/Three.js/2014-《Three.js%20开发指南》.md)
     - 2.3 Web [8]
       - [2.3.1 《精通 CSS 高级 Web 标准解决方案》](/02.Frontend/Web/2010-《精通%20CSS%20高级%20Web%20标准解决方案》.md)
       - [2.3.2 《深入浅出 NodeJS》](/02.Frontend/Web/2011-《深入浅出%20NodeJS》.md)
