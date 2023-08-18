@@ -73,7 +73,7 @@
       - [2.2.4 《The Visualization Handbook》](/02.Frontend/CG/2014-《The%20Visualization%20Handbook》.md)
       - [2.2.5 《Visualization Analysis & Design》](/02.Frontend/CG/2014-《Visualization%20Analysis%20&%20Design》.md)
       - 2.2.6 Blender [1]
-        - [2.2.6.1 The Blender Python API](/02.Frontend/CG/Blender/2017-The%20Blender%20Python%20API.md)
+        - [2.2.6.1 《The Blender Python API》](/02.Frontend/CG/Blender/2017-《The%20Blender%20Python%20API》.md)
       - 2.2.7 Graphic [3]
         - [2.2.7.1 冈萨雷斯 数字图像处理 2nd](/02.Frontend/CG/Graphic/2003-冈萨雷斯-数字图像处理-2nd.md)
         - [2.2.7.2 计算机图形学及实用编程技术](/02.Frontend/CG/Graphic/2009-计算机图形学及实用编程技术.md)
