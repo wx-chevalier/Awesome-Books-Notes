@@ -240,7 +240,7 @@
         - [8.2.2.13 Kubernetes Solutions Directory](/Specials/Series/The%20New%20Stack/2019-Kubernetes%20Solutions%20Directory.md)
   - 9 System [6]
     - [9.1 ByteByteGo System Design Interview   An Insider's Guide book](/System/2021-ByteByteGo-System%20Design%20Interview%20-%20An%20Insider's%20Guide%20book.md)
-    - 9.2 Architecture [12]
+    - 9.2 Architecture [13]
       - [9.2.1 Roy Thomas Fielding 《架构风格与基于网络的软件架构设计》](/System/Architecture/2000-Roy%20Thomas%20Fielding-《架构风格与基于网络的软件架构设计》.md)
       - [9.2.2 Martin Fowler 《企业应用架构模式》](/System/Architecture/2006-Martin%20Fowler-《企业应用架构模式》.md)
       - [9.2.3 《简约之美：软件设计之道》](/System/Architecture/2013-《简约之美：软件设计之道》.md)
@@ -251,10 +251,11 @@
       - [9.2.8 Martin Fowler 《架构整洁之道》](/System/Architecture/2017-Martin%20Fowler-《架构整洁之道》.md)
       - [9.2.9 John Ousterhout 《A Philosophy of Software Design》](/System/Architecture/2018-John%20Ousterhout-《A%20Philosophy%20of%20Software%20Design》.md)
       - [9.2.10 Martin Fowler 《Refactoring Improving the Design of Existing Code》](/System/Architecture/2018-Martin%20Fowler-《Refactoring%20Improving%20the%20Design%20of%20Existing%20Code》.md)
-      - 9.2.11 DDD [2]
-        - [9.2.11.1 Eric 《领域驱动设计：软件核心复杂性应对之道》](/System/Architecture/DDD/2010-Eric-《领域驱动设计：软件核心复杂性应对之道》.md)
-        - [9.2.11.2 Vaughn 《Implementing Domain Driven Design》](/System/Architecture/DDD/2013-Vaughn-《Implementing%20Domain%20Driven%20Design》.md)
-      - [9.2.12 面向模式的软件架构](/System/Architecture/面向模式的软件架构.md)
+      - [9.2.11 2018~《重构：改善既有代码的设计》](/System/Architecture/2018~《重构：改善既有代码的设计》.md)
+      - 9.2.12 DDD [2]
+        - [9.2.12.1 Eric 《领域驱动设计：软件核心复杂性应对之道》](/System/Architecture/DDD/2010-Eric-《领域驱动设计：软件核心复杂性应对之道》.md)
+        - [9.2.12.2 Vaughn 《Implementing Domain Driven Design》](/System/Architecture/DDD/2013-Vaughn-《Implementing%20Domain%20Driven%20Design》.md)
+      - [9.2.13 面向模式的软件架构](/System/Architecture/面向模式的软件架构.md)
     - 9.3 Database [6]
       - [9.3.1 数据库查询优化器的艺术，原理解析与 SQL 性能优化](/System/Database/2013-数据库查询优化器的艺术，原理解析与%20SQL%20性能优化.md)
       - [9.3.2 Peter Bailis Readings in Database Systems 5th](/System/Database/2015-Peter%20Bailis-Readings%20in%20Database%20Systems-5th.md)
