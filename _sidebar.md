@@ -286,5 +286,6 @@
       - [9.5.2 Re 从 0 开始的微服务架构](/System/MicroCN/2017-Re-从%200%20开始的微服务架构.md)
       - [9.5.3 微服务与 DevOps 内参](/System/MicroCN/2017-微服务与%20DevOps%20内参.md)
     - 9.6 SoftwareEngineering [1]
-      - 9.6.1 《人月神话》 [1]
-        - [9.6.1.1 《人月神话》](/System/SoftwareEngineering/2003-《人月神话》/2003-《人月神话》.md)
+      - 9.6.1 《人月神话》 [2]
+        - [9.6.1.1 《人月神话》书摘](/System/SoftwareEngineering/2003-《人月神话》/2003-《人月神话》书摘.md)
+        - [9.6.1.2 2023~LLM 与人月神话的讨论](/System/SoftwareEngineering/2003-《人月神话》/2023~LLM%20与人月神话的讨论.md)
