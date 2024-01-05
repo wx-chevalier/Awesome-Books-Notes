@@ -199,7 +199,7 @@
         - [6.2.3.7 Monterail 《State of Vue.js report》](/技术/02~Frontend/Web/2017-Monterail-《State%20of%20Vue.js%20report》.md)
         - [6.2.3.8 于航 《深入浅出 WebAssembly》](/技术/02~Frontend/Web/2018-于航-《深入浅出%20WebAssembly》.md)
     - 6.3 03~System [6]
-      - [6.3.1 ByteByteGo System Design Interview   An Insider's Guide book](/技术/03~System/2021-ByteByteGo-System%20Design%20Interview%20-%20An%20Insider's%20Guide%20book.md)
+      - [6.3.1 2021~ByteByteGo~System Design Interview   An Insider's Guide book](/技术/03~System/2021~ByteByteGo~System%20Design%20Interview%20-%20An%20Insider's%20Guide%20book.md)
       - 6.3.2 Architecture [13]
         - [6.3.2.1 Roy Thomas Fielding 《架构风格与基于网络的软件架构设计》](/技术/03~System/Architecture/2000-Roy%20Thomas%20Fielding-《架构风格与基于网络的软件架构设计》.md)
         - [6.3.2.2 Martin Fowler 《企业应用架构模式》](/技术/03~System/Architecture/2006-Martin%20Fowler-《企业应用架构模式》.md)
