@@ -258,7 +258,7 @@
         - 6.4.2.1 DataEngineering [1]
           - 6.4.2.1.1 DDIA [2]
             - [6.4.2.1.1.1 Kleppmann 《Designing Data Intensive Applications》 中文概述](/技术/04~Infrastructure/Distributed/DataEngineering/DDIA/2017-Kleppmann-《Designing%20Data%20Intensive%20Applications》-中文概述.md)
-            - [6.4.2.1.1.2 Kleppmann 《Designing Data Intensive Applications》](/技术/04~Infrastructure/Distributed/DataEngineering/DDIA/2017-Kleppmann-《Designing%20Data%20Intensive%20Applications》.md)
+            - [6.4.2.1.1.2 2017~Kleppmann~《Designing Data Intensive Applications》](/技术/04~Infrastructure/Distributed/DataEngineering/DDIA/2017~Kleppmann~《Designing%20Data%20Intensive%20Applications》.md)
         - 6.4.2.2 DistributedComputing [9]
           - [6.4.2.2.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/技术/04~Infrastructure/Distributed/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
           - [6.4.2.2.2 《分布式计算：原理、算法和系统》](/技术/04~Infrastructure/Distributed/DistributedComputing/2008-《分布式计算：原理、算法和系统》.md)
