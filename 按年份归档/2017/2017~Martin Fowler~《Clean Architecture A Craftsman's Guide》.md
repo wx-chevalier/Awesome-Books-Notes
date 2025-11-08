@@ -78,7 +78,7 @@ It is the volatile concrete elements of our system that we want to avoid dependi
 
 Don't refer to volatile concrete classes, refer to abstract interfaces instead. It also puts severe constraints on the creation of objects and generally enforces the use of Abstract Factories. Don't derive from volatile concrete classes. Don't override concrete functions. Never mention the name of anything concrete and volatile.
 
-![Use](https://assets.ng-tech.icu/item/20230616143128.png)
+![Use](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230616143128.png)
 
 Components principles：If the SOLID principles tell us how to arrange the bricks into walls and rooms, then the component principles tell us how to arrange the rooms into buildings.
 

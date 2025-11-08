@@ -1,6 +1,6 @@
 # About Face 4：交互设计精髓
 
-![交互设计精髓](https://assets.ng-tech.icu/item/63819cdb16f2c2beb1481043.jpg)
+![交互设计精髓](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/63819cdb16f2c2beb1481043.jpg)
 
 目标导向设计：恰当得定义和设计出令人期待且有效的产品。
 
@@ -38,7 +38,7 @@
 
 9）产品开发的三原则：功用性、可行性、称许性，即技术可能性、商业可行性、用户期望性。
 
-![Picture from lord](https://assets.ng-tech.icu/item/6381ad9e16f2c2beb1624ab9.jpg)
+![Picture from lord](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/6381ad9e16f2c2beb1624ab9.jpg)
 
 ## 设计原则/目标导向设计概论
 
@@ -59,7 +59,7 @@
 - 满足业务需求
 - 满足技术制约
 
-![目标导向设计概述](https://assets.ng-tech.icu/item/6381ae6316f2c2beb1640072.jpg)
+![目标导向设计概述](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/6381ae6316f2c2beb1640072.jpg)
 
 # Links
 
