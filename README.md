@@ -86,3 +86,5 @@ Awesome CS Books(.pdf) Warehouse, PL, Web, AI, SSA, Infrastructure, FE etc. All 
 [issues-url]: https://github.com/wx-chevalier/repo/issues
 [license-shield]: https://img.shields.io/github/license/wx-chevalier/repo.svg?style=flat-square
 [license-url]: https://github.com/wx-chevalier/repo/blob/master/LICENSE.txt
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
