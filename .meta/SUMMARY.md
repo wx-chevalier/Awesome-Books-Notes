@@ -15,12 +15,12 @@
 
 - [Introduction](../DataScienceAI/README.md)
 
-- [2018~美团机器学习实践.pdf.zip](../DataScienceAI/2018-美团机器学习实践.pdf.zipREADME.md)
+- [2018\_美团机器学习实践.pdf.zip](../DataScienceAI/2018-美团机器学习实践.pdf.zipREADME.md)
 - [Application](../DataScienceAI/Application/README.md)
   - [RecommendSystem](../DataScienceAI/Application/RecommendSystem/README.md)
 - [DeepLearning](../DataScienceAI/DeepLearning/README.md)
 - [MachineLearning](../DataScienceAI/MachineLearning/README.md)
-  - [2018~诸葛越-百面机器学习.zip](../DataScienceAI/MachineLearning/2018-诸葛越-百面机器学习.zipREADME.md)
+  - [2018\_诸葛越-百面机器学习.zip](../DataScienceAI/MachineLearning/2018-诸葛越-百面机器学习.zipREADME.md)
 - [Mathematics](../DataScienceAI/Mathematics/README.md)
 - [NLP](../DataScienceAI/NLP/README.md)
 
@@ -52,7 +52,7 @@
 - [OS](../Infrastructure/OS/README.md)
 - [Virtualization](../Infrastructure/Virtualization/README.md)
   - [Kubernetes](../Infrastructure/Virtualization/Kubernetes/README.md)
-    - [2017~Kubernetes 权威指南：从 Docker 到 Kubernetes 实践全接触-2nd.epub](../Infrastructure/Virtualization/Kubernetes/2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epubREADME.md)
+    - [2017_Kubernetes 权威指南：从 Docker 到 Kubernetes 实践全接触-2nd.epub](../Infrastructure/Virtualization/Kubernetes/2017-Kubernetes权威指南：从Docker到Kubernetes实践全接触-2nd.epubREADME.md)
 
 ## [Product](../Product/README.md)
 
@@ -88,7 +88,7 @@
 
 - [AlgoDS](../SoftwareEngineering/AlgoDS/README.md)
 - [Architecture](../SoftwareEngineering/Architecture/README.md)
-  - [2017~Martin Fowler-架构整洁之道](../SoftwareEngineering/Architecture/2017-Martin Fowler-架构整洁之道.md)
+  - [2017_Martin Fowler-架构整洁之道](../SoftwareEngineering/Architecture/2017-Martin Fowler-架构整洁之道.md)
 - [DesginPattern](../SoftwareEngineering/DesginPattern/README.md)
 - [Workflow](../SoftwareEngineering/Workflow/README.md)
   - [Git](../SoftwareEngineering/Workflow/Git/README.md)
@@ -103,4 +103,4 @@
 
 - [Framework](../Web/Framework/README.md)
 - [Syntax](../Web/Syntax/README.md)
-  - [2018~于航-深入浅出 WebAssembly](../Web/Syntax/2018-于航-深入浅出WebAssembly.md)
+  - [2018\_于航-深入浅出 WebAssembly](../Web/Syntax/2018-于航-深入浅出WebAssembly.md)

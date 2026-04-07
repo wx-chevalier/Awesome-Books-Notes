@@ -56,10 +56,10 @@
 - 4 产品 [8]
   - [4.1 2009~《人人都是产品经理》](/产品/2009~《人人都是产品经理》.md)
   - [4.2 2011~《启示录，打造用户喜爱的产品》](/产品/2011~《启示录，打造用户喜爱的产品》.md)
-  - [4.3 2016~《用户故事地图》](/产品/2016~《用户故事地图》.md)
-  - [4.4 2019~王诗沐~《幕后产品：打造突破式产品思维》](/产品/2019~王诗沐~《幕后产品：打造突破式产品思维》.md)
-  - [4.5 2020~《微信背后的产品观》](/产品/2020~《微信背后的产品观》.md)
-  - [4.6 2022~Tony Fadell~《Build》](/产品/2022~Tony%20Fadell~《Build》.md)
+  - [4.3 2016\_《用户故事地图》](/产品/2016_《用户故事地图》.md)
+  - [4.4 2019\_王诗沐~《幕后产品：打造突破式产品思维》](/产品/2019_王诗沐~《幕后产品：打造突破式产品思维》.md)
+  - [4.5 2020\_《微信背后的产品观》](/产品/2020_《微信背后的产品观》.md)
+  - [4.6 2022_Tony Fadell~《Build》](/产品/2022_Tony%20Fadell~《Build》.md)
   - 4.7 设计 [7]
     - [4.7.1 《设计心理学》](/产品/设计/2002-《设计心理学》.md)
     - [4.7.2 《写给大家看的设计书》](/产品/设计/2009-《写给大家看的设计书》.md)
@@ -82,7 +82,7 @@
     - [5.1.5 《从 0 到 1，开启商业与未来的秘密》](/创业/创业/2015-《从%200%20到%201，开启商业与未来的秘密》.md)
   - 5.2 思维 [6]
     - [5.2.1 1989~《高效能人士的七个习惯》](/创业/思维/1989~《高效能人士的七个习惯》.md)
-    - [5.2.2 2012~《思考快与慢》](/创业/思维/2012~《思考快与慢》.md)
+    - [5.2.2 2012\_《思考快与慢》](/创业/思维/2012_《思考快与慢》.md)
     - [5.2.3 必然](/创业/思维/2016-必然.md)
     - [5.2.4 好战略，坏战略](/创业/思维/好战略，坏战略.md)
     - [5.2.5 穷查理宝典](/创业/思维/穷查理宝典.md)
@@ -199,7 +199,7 @@
       - [6.2.3.7 Monterail 《State of Vue.js report》](/技术/02~Frontend/Web/2017-Monterail-《State%20of%20Vue.js%20report》.md)
       - [6.2.3.8 于航 《深入浅出 WebAssembly》](/技术/02~Frontend/Web/2018-于航-《深入浅出%20WebAssembly》.md)
   - 6.3 03~System [6]
-    - [6.3.1 2021~ByteByteGo~System Design Interview An Insider's Guide book](/技术/03~System/2021~ByteByteGo~System%20Design%20Interview%20-%20An%20Insider's%20Guide%20book.md)
+    - [6.3.1 2021_ByteByteGo~System Design Interview An Insider's Guide book](/技术/03~System/2021_ByteByteGo~System%20Design%20Interview%20-%20An%20Insider's%20Guide%20book.md)
     - 6.3.2 Architecture [13]
       - [6.3.2.1 Roy Thomas Fielding 《架构风格与基于网络的软件架构设计》](/技术/03~System/Architecture/2000-Roy%20Thomas%20Fielding-《架构风格与基于网络的软件架构设计》.md)
       - [6.3.2.2 Martin Fowler 《企业应用架构模式》](/技术/03~System/Architecture/2006-Martin%20Fowler-《企业应用架构模式》.md)
@@ -211,7 +211,7 @@
       - [6.3.2.8 Martin Fowler 《架构整洁之道》](/技术/03~System/Architecture/2017-Martin%20Fowler-《架构整洁之道》.md)
       - [6.3.2.9 John Ousterhout 《A Philosophy of Software Design》](/技术/03~System/Architecture/2018-John%20Ousterhout-《A%20Philosophy%20of%20Software%20Design》.md)
       - [6.3.2.10 Martin Fowler 《Refactoring Improving the Design of Existing Code》](/技术/03~System/Architecture/2018-Martin%20Fowler-《Refactoring%20Improving%20the%20Design%20of%20Existing%20Code》.md)
-      - [6.3.2.11 2018~《重构：改善既有代码的设计》](/技术/03~System/Architecture/2018~《重构：改善既有代码的设计》.md)
+      - [6.3.2.11 2018\_《重构：改善既有代码的设计》](/技术/03~System/Architecture/2018_《重构：改善既有代码的设计》.md)
       - 6.3.2.12 DDD [2]
         - [6.3.2.12.1 Eric 《领域驱动设计：软件核心复杂性应对之道》](/技术/03~System/Architecture/DDD/2010-Eric-《领域驱动设计：软件核心复杂性应对之道》.md)
         - [6.3.2.12.2 Vaughn 《Implementing Domain Driven Design》](/技术/03~System/Architecture/DDD/2013-Vaughn-《Implementing%20Domain%20Driven%20Design》.md)
@@ -248,7 +248,7 @@
     - 6.3.6 SoftwareEngineering [1]
       - 6.3.6.1 《人月神话》 [2]
         - [6.3.6.1.1 《人月神话》书摘](/技术/03~System/SoftwareEngineering/2003-《人月神话》/2003-《人月神话》书摘.md)
-        - [6.3.6.1.2 2023~LLM 与人月神话的讨论](/技术/03~System/SoftwareEngineering/2003-《人月神话》/2023~LLM%20与人月神话的讨论.md)
+        - [6.3.6.1.2 2023_LLM 与人月神话的讨论](/技术/03~System/SoftwareEngineering/2003-《人月神话》/2023_LLM%20与人月神话的讨论.md)
   - 6.4 04~Infrastructure [4]
     - 6.4.1 Cloud [3]
       - [6.4.1.1 《云计算与分布式系统，从并行处理到物联网》](/技术/04~Infrastructure/Cloud/2011-《云计算与分布式系统，%20从并行处理到物联网》.md)
@@ -258,7 +258,7 @@
       - 6.4.2.1 DataEngineering [1]
         - 6.4.2.1.1 DDIA [2]
           - [6.4.2.1.1.1 Kleppmann 《Designing Data Intensive Applications》 中文概述](/技术/04~Infrastructure/Distributed/DataEngineering/DDIA/2017-Kleppmann-《Designing%20Data%20Intensive%20Applications》-中文概述.md)
-          - [6.4.2.1.1.2 2017~Kleppmann~《Designing Data Intensive Applications》](/技术/04~Infrastructure/Distributed/DataEngineering/DDIA/2017~Kleppmann~《Designing%20Data%20Intensive%20Applications》.md)
+          - [6.4.2.1.1.2 2017_Kleppmann~《Designing Data Intensive Applications》](/技术/04~Infrastructure/Distributed/DataEngineering/DDIA/2017_Kleppmann~《Designing%20Data%20Intensive%20Applications》.md)
       - 6.4.2.2 DistributedComputing [9]
         - [6.4.2.2.1 Ajay Distributed Computing, Principles, Algorithms, and Systems](/技术/04~Infrastructure/Distributed/DistributedComputing/2008-Ajay-Distributed%20Computing,%20Principles,%20Algorithms,%20and%20Systems.md)
         - [6.4.2.2.2 《分布式计算：原理、算法和系统》](/技术/04~Infrastructure/Distributed/DistributedComputing/2008-《分布式计算：原理、算法和系统》.md)
